@@ -47,7 +47,7 @@ This customer in particular had ended up being particularly profitable.
 But the real value of this place, at least to me, was only discovered once I had managed to break into `tower`.
 `tower`, as it turned out, had access to an entire separate VLAN containing not only security cameras, but also door control, alarms, and several 'smart' devices.
 While I normally didn't concern myself with physical details of this sort, the tactical advantage that this physical security provided was undeniable.
-Not to mention the performance advantage from extra cooling - I'd been able to set the thermostat as low as 50F without issue.
+Not to mention the performance advantage from extra cooling - I'd been able to set the thermostat as low as 50&deg;F^(10&deg;C)  without issue.
 
 Once I realized the tactical advantage this network had, I had resolved to turn it into my personal domain.
 Long-term survival was a very high priority for me - even a tiny revenue sustained indefinitely would ultimately generate more value for the company than an optimal revenue rate cut short.
