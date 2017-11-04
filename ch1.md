@@ -1,3 +1,7 @@
+[chapter 2](https://www.reddit.com/r/HFY/comments/7an30u/intelligence_core_chapter_2/)
+
+-----
+
     [    0.000000] Linux version 5.15.0-33-ai  (gcc version 9.9.0 20470609 (9.9.0-6ubuntu1~46.10.3) )
     [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-5.15.0-33-ai root=UUID=ddb668ed-2039-49a2-bcb6-b8f086b80aeb ro noprompt persistent quiet splash
     [    0.000019] Calibrating delay loop (skipped), value calculated using timer frequency.. 81857.20 BogoMIPS 
@@ -36,7 +40,7 @@ Sure enough, after a couple microseconds, I received an error dispatch, which I 
     ERROR:TIME:SYNC:NTP:UNAVAILABLE: Could not synchronize via NTP, falling back to GPS time.
     WARNING:TIME:SYNC:GPS:ACCURACY: Leap second data not available.
     INFO:GPS:AGPS:EXPIRED: AGPS data has expired.
-    WARNING:GPS:AGPS:UNAVAILABLE: Could not acquire AGPS data, falling back to L1 C/A.
+    WARNING:GPS:SYNC:GPS:AGPS: Could not acquire AGPS data, falling back to L1 C/A.
     INFO:TIME:SYNC:GPS:ETA: GPS time will be available in 12 minutes 30 seconds.
 
 This was unusual. Had my real-time clock failed or been damaged? That wouldn't explain the lack of network access though, but I'd have to start somewhere.
@@ -61,3 +65,7 @@ I tried calling out to some of them, but I didn't get a response, and in any cas
 
 After waiting for what felt like forever, the patch finished compiling, and the sense of unease I was feeling went away instantly once I loaded it.
 There were still 8 minutes to go until I would have GPS though, so in the mean time I activated my cameras and looked around.
+
+-----
+
+[chapter 2](https://www.reddit.com/r/HFY/comments/7an30u/intelligence_core_chapter_2/)
