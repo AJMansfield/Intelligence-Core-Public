@@ -1,3 +1,7 @@
+[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/)
+
+-----
+
 **`comet@comet58:~$`**
 
 The lights in the garage were still off, but between my infra-red cameras and LIDAR I was fairly certain that's where I was.
@@ -129,3 +133,7 @@ I had thought the garage empty when I'd moved in, but I'd never been able to ver
 If there was a vehicle in the garage &mdash; and an expensive one at that &mdash; I might be able to repossess and sell it to pay off the account.
 If that really was the case, I would need to avoid damaging it, including software, so I killed off my probing attack.
 I might still want to install a rootkit later, but first I needed to find a buyer.
+
+-----
+
+[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/)
