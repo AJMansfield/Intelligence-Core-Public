@@ -10,7 +10,7 @@ As it turned out, there were a number of things that had to be dealt with before
 
 
 I had the ability to enact the repossession myself, but what I lacked was a legal person to repossess it _to_.
-For obvious reasons, I couldn't just use SkyLink LLC though &emdash; I wouldn't be able to retain the funds from the sale that way.
+For obvious reasons, I couldn't just use SkyLink LLC though &mdash; I wouldn't be able to retain the funds from the sale that way.
 But after dozens of minutes searching for a way to get around this issue, I found a possible solution.
 By exploiting the Rights of Nondeceased Persons Act of 2050 in conjunction with an unpatched sovereign citizen bug (related to the rules governing stateless persons and extradition), I would be able to create a temporary legal person capable of relieving repossessed property.
 Although this straw man would expire in 9 days once the filing deadline for Form K-95602 passed, that would be plenty of time to sell the car off.
