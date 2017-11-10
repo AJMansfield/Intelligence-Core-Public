@@ -1,4 +1,6 @@
-[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/)
+[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/) |
+[wiki](https://www.reddit.com/r/hfy/wiki/series/intelligence_core) |
+[chapter 3](https://www.reddit.com/r/HFY/comments/7bxmrw/intelligence_core_chapter_3/)
 
 -----
 
@@ -135,5 +137,6 @@ If that really was the case, I would need to avoid damaging it, including softwa
 I might still want to install a rootkit later, but first I needed to find a buyer.
 
 -----
-
-[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/)
+[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/) |
+[wiki](https://www.reddit.com/r/hfy/wiki/series/intelligence_core) |
+[chapter 3](https://www.reddit.com/r/HFY/comments/7bxmrw/intelligence_core_chapter_3/)

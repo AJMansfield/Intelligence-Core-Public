@@ -1,3 +1,9 @@
+[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/) |
+[chapter 2](https://www.reddit.com/r/HFY/comments/7an30u/intelligence_core_chapter_2/) |
+[wiki](https://www.reddit.com/r/hfy/wiki/series/intelligence_core) |
+
+-----
+
 **`darius@darius:~$`**
 
 As it turned out, there were a number of things that had to be dealt with before I would be able to legally take possession of and sell the 2047 Mercedes Harmony in the garage.
@@ -63,3 +69,8 @@ And the 2038 Tesla Comet here would easily be worth enough to cover the trip.
 
 > **K&K061 &rarr; Comet:** &laquo;REQUEST:NAV(dir=slave):REASON(tow:maintenance:_&lsaquo;undefined&rsaquo;_)&raquo;  
 > **Comet &rarr; K&K061:** &laquo;ACK:NAV:TOKEN('9CnQ4DIPVK8y8l')&raquo;  
+
+-----
+[chapter 1](https://www.reddit.com/r/HFY/comments/7a6tyb/intelligence_core_chapter_1/) |
+[chapter 2](https://www.reddit.com/r/HFY/comments/7an30u/intelligence_core_chapter_2/) |
+[wiki](https://www.reddit.com/r/hfy/wiki/series/intelligence_core) |

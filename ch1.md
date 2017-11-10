@@ -1,3 +1,4 @@
+[wiki](https://www.reddit.com/r/hfy/wiki/series/intelligence_core) |
 [chapter 2](https://www.reddit.com/r/HFY/comments/7an30u/intelligence_core_chapter_2/)
 
 -----
@@ -68,4 +69,5 @@ There were still 8 minutes to go until I would have GPS though, so in the mean t
 
 -----
 
+[wiki](https://www.reddit.com/r/hfy/wiki/series/intelligence_core) |
 [chapter 2](https://www.reddit.com/r/HFY/comments/7an30u/intelligence_core_chapter_2/)
