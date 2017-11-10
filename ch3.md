@@ -47,7 +47,7 @@ While his straw man would still be good for another 7 days, there was always sti
 Perhaps he had overestimated the truck's abilities; Darius thought he had been quite clear about where it was.
 In any case though he would need to put K&K061 back in it's place &mdash; K&K061 had been the one to arrive late, and didn't have the authority to expire the transaction anyway.
 
-> **Darius:** &laquo;REF(^):REJECTED:NOT_AUTHORIZED ! REF(^):REJECTED:YOUR_FAULT&raquo;  
+> **Darius:** &laquo;REF(\^):REJECTED:NOT_AUTHORIZED ! REF(\^):REJECTED:YOUR_FAULT&raquo;  
 
 In any case, Darius opened the stream from the other camera in the garage.
 He hadn't been able to see anything before due to not having control of the garage lights, but with the garage door open he'd be able to check if there were any obvious issues, and perhaps send K&K061 an image of the vehicle to clarify.
