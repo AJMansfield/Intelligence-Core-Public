@@ -16,7 +16,7 @@ This year's undergraduate robotics competition involved autonomously navegating 
 His responsibility had been designing the navegation system used to get to the pod, and he'd chosed to base the design on a species of pufferfish, _Torquigener tetraodontidae_, known for constructing [large circular geometric patterns][pufferfish] underwater in order to attract potential mates.
 Neural simulations based on aquatic animals generally performed very well in this type of environment, and it stood to reason that this pufferfish might be especially suited due to it's apparent ability to process complicated geometric patterns.
 
-[pufferfish]: https://doi.org/10.1038/srep02106
+[pufferfish]: //doi.org/10.1038/srep02106
 
 So far he'd been able to successfully abstract out the pufferfish's motor cortex and get it to control the AUV's thrusters, but no matter what he'd tried he hadn't been able to figure out it's visual cortex or sensory mechanisms.
 He could potentially just simulate the pufferfish brain directly, but usually that took a lot of processing power, and he wasn't sure if the AUV's processor would be able to handle it.
