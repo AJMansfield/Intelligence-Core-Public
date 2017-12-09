@@ -16,10 +16,10 @@ This year's undergraduate robotics competition involved autonomously navegating 
 His responsibility had been designing the navegation system used to get to the pod, and he'd chosed to base the design on a species of pufferfish, _Torquigener tetraodontidae_, known for constructing [large circular geometric patterns][pufferfish] underwater in order to attract potential mates.
 Neural simulations based on aquatic animals generally performed very well in this type of environment, and it stood to reason that this pufferfish might be especially suited due to it's apparent ability to process complicated geometric patterns.
 
-[pufferfish]: https://doi.org/10.1038/srep0216
+[pufferfish]: https://doi.org/10.1038/srep02106
 
-So far he'd been able to successfully abstract out the pufferfish's motor cortex and get it to control the UAV's thrusters, but no matter what he'd tried he hadn't been able to figure out it's visual cortex or sensory mechanisms.
-He could potentially just simulate the pufferfish brain directly, but usually that took a lot of processing power, and he wasn't sure if the UAV's processor would be able to handle it.
+So far he'd been able to successfully abstract out the pufferfish's motor cortex and get it to control the AUV's thrusters, but no matter what he'd tried he hadn't been able to figure out it's visual cortex or sensory mechanisms.
+He could potentially just simulate the pufferfish brain directly, but usually that took a lot of processing power, and he wasn't sure if the AUV's processor would be able to handle it.
 
 At this point, he just had to hope the compiler would be able to optimize it enough to at least _work_, even if it couldn't run fast enough to be competitive.
 
@@ -30,13 +30,13 @@ Dejectedly, he set it running, and fell asleep in his chair.
 Matt awoke with a start to sunlight streaming in onto his face.
 He checked the time - 12:30 - and started scrolled through his notifications before suddenly remembering he needed to be at the competition in 15 minutes.
 
-He hastily grabbed the UAV and stuffed it in his bag with his laptop, only sparing a glance to ensure everything had compiled, before running as quickly as he could from the Computer Science Department to the Richards Building pool where the competition was being held.
+He hastily grabbed the AUV and stuffed it in his bag with his laptop, only sparing a glance to ensure everything had compiled, before running as quickly as he could from the Computer Science Department to the Richards Building pool where the competition was being held.
 
 "You got it figured out?" Jessica called to him as he arrived panting to the competition area.
 
 "I ... I think so?" Matt gasped, trying to catch his breath.
-The optimization report had said it had managed to fit the simulation onto the UAV's processor.
-He pulled the UAV out of his bag and handed it to her.
+The optimization report had said it had managed to fit the simulation onto the AUV's processor.
+He pulled the AUV out of his bag and handed it to her.
 "It will work, I'm pretty sure."
 
 Jessica had been responsible for the mechanical design of the project, and she'd also been the one to who'd gotten him the neural scan he'd used as a basis for the programming.
@@ -51,20 +51,22 @@ Matt nodded. "Let's go."
 
 --------
 
-It turned out, their UAV performed very well.
+After attaching their 3D printed navegation target (a plastic tile in the shape of the ridges from a pufferfish circle) to the simulated pod and lowering it into the water, Matt hadn't been sure what he'd expected.
+
+It turned out, their AUV performed very well.
 Well enough to win the competition.
 And in fact, well enough that they had initially been suspected of cheating by hardcoding the maze or controlling it remotely.
 (This was resolved by running it through a new, randomly generated layout, and examining the hardware to make sure there wasn't a reciever that would allow remote control.)
-The UAV just zipped through the maze, following pretty much the idea route first time, and their time to retrieve the capsule came in just under _a third_ that of the next fastest team.
+The AUV just zipped through the maze, following pretty much the idea route first time, and their time to retrieve the capsule came in just under _a third_ that of the next fastest team.
 
-This was despite the fact that they had accidentally _dropped_ the UAV beforehand, and while Matt had hoped nothing too series had broken, the tinkle of glass from the camera had told him that was a lie.
+This was despite the fact that they had accidentally _dropped_ the AUV beforehand, and while Matt had hoped nothing too series had broken, the tinkle of glass from the camera had told him that was a lie.
 
-His teammate's were overjoyed of course, and didn't really suspect anything was unusual, but Matt knew, they hadn't just done well, they'd done _impossibly_ well.
+His teammate's were overjoyed of course, and didn't really suspect anything, but Matt knew they hadn't just done well, they'd done _impossibly_ well.
 
 --------
 
-Matt set the UAV on his desk and powered it on, before unzipping his bag to pull out the 3-d printed tile with the pufferfish ridges.
-Immediately the UAV's thrusters spun up, and he zipped his bag shut to go shut it off, but as soon as he zipped it closed it shut off.
+Matt got back to his apartment, set the AUV on his desk and powered it on, before unzipping his bag to pull out the 3D printed tile.
+Immediately the AUV's thrusters spun up, and he zipped his bag shut to go shut it off, but as soon as he zipped it closed it shut off.
 He opened the zipper a tiny bit.
 Nothing.
 Opened it a bit more, and immediately the thrusters spun up again until he zipped it back closed.
@@ -82,39 +84,36 @@ This was _very_ weird.
 
 --------
 
-He spent the rest of the weekend going through the software and eliminating pieces.
+Matt knew he ought to be studying for his finals, but he didn't care.
+
+He'd spent the rest of the weekend going through the software and hardware, eliminating pieces to try and figure out how it worked.
 The pufferfish neural simulation appeared to be a nessisary component, but he had eliminated nearly everything else that wasn't in some way required to run that simulation.
-Frustratingly, it would also stop working any time he tried logging the simulation to a file.
-After systematically paring down the neural simulation, he was left with a cluster of about 40 neurons that appeared to be responsible for this behavior.
-And none of them were even distantly connected to any of the sensory corticies.
+Frustratingly, all of his attempts to observe the simulation as it was running all caused it to stop working, but he was eventually able to pare the simulation to a single cluster of about 40 neurons that appeared to be responsible for this behavior.
+None of them were related to any of the sensory corticies, and in fact most of them weren't even connected to each other.
+
+So far he'd learned that the range of the effect was somewhat limited, as the further away the tile got, the weaker and less reliable the readings became.
+By about 10 meters away, there would be about a 50/50 chance of a correct reading, and while this could be compensated for by taking several readings, there wasn't a lot that could be done to go much further than that.
+
+By chance he'd also discovered that some types of plastics would block or hinder the effect.
+He'd put the processor board in a plastic enclosure to protect it, and was at first confused when it had suddenly stopped working, then started again as soon as he re-opened the enclosure.
+The AUV's hull hadn't caused issues though, and he tried several different enclosures to find one that worked.
+So far he'd discovered that polyethylene and polystyrene  block it, but nylon and ABS have no effect.
+And in testing this, he'd found that for plastics that do block the effect, the reading would actually deflect _around_ the sheet towards any openings over a particular size.
+
+This at least explained how this effect had allowed the AUV to navegate the underwater maze so efficiently. 
+
+Different materials appeared to impede the effect more than others, as well.
+Lower grades of polyethylene were less effective at blocking it, and at a low enough grade it could penetrate if the material was thin enough.
+He'd discovered this part placing the tile in a shopping bag, which had diminished (but not completely blocked) the signal.
 
 --------
 
-After a week of working on this, he had learned a number of things about the effect.
+At this point, Matt still had no idea about _why_ the device was able to detect the tile, but the fact of the matter is that it could, and it was able to do so much more efficiently than even the best current technologies.
+He wasn't exactly sure what _he'd_ want to use it for, but if he figured out a way to overcome the range limitations this could have hundreds of potential uses.
+Especially given that it was so _cheap to make_ &mdash; his setup consisting of a hobbyist-grade neural processor and a cheap 3D printed part had only cost about $300!
 
-The effective range of the effect was limited to around 10 meters. Outside of that, the reliability would start to tail off, and he wouldn't be able to consistently detect and locate the tile.
-
-Additionally, it turns out that some types of plastic (like polyethylene or polystyrene) block the effect (although others, like nylon and polyester, had no effect).
-But more than that, assuming there was still a clear path, the reading would actually deflect _around_ any impeding plastic material.
-This particularily explained how the UAV was able to traverse the maze so efficiently, as the obstacles had been made of polyethylene sheeting.
-
-But most importantly, he learned that the pattern he had on the tile didn't need to be 3-d printed:
-He had taken a photo of the tile with his phone and was looking at it when he noticed the reading had changed.
-Instead of pointing to the tile over on his desk, it was pointing to his phone, and the image displayed on it.
-
-After having a proper black-and-white vectorized version of the pattern printed out (he'd had the first one laminated, but turns out the lamination blocked the effect).
-
-Further experimentation with this effect led him to discover that the _smaller_ the pattern was, the further the effective range was, and that it depended very strongly on having accurate relative dimensions in the pattern.
-
-And then he started optimizing it.
-He set up an apparatus consisting of a polyethylene box with a servo-controlled shutter, with a display set up inside.
-He'd found that a plastic box with a small enough opening would impede but not completely eliminate the reading, and he set up a computer to use this feedback to optimize the pattern and neural simulation.
-
-After a week, he had to change out the display for a wireless tablet (the hole for the cable was now big enough to matter) and replace the plastic shutter with an optical diaphragm, since even with the shutter completely closed it was still able to detect the pattern.
-
-After another week, he swapped it out for a 2-inch thick ultrasonically-welded plastic box with a microfluidics duct he could pump gasoline into to vary the effective thickness.
-
-The next week, he sent out the design to be fabricated onto an IC. He only had enough money for an older GlobalFoundries 22FDX process, but it should be small enough.
+He also knew that if he wanted to develop this properly, he needed money.
+Not just to use for experimentation (although he had a few ideas) but also to be able to patent the device to ensure he'd be able to profit off of it.
 
 --------
 
