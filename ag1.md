@@ -113,7 +113,7 @@ He wasn't exactly sure what _he'd_ want to use it for, but if he figured out a w
 Especially given that it was so _cheap to make_ &mdash; his setup consisting of a hobbyist-grade neural processor and a cheap 3D printed part had only cost about $300!
 
 He also knew that if he wanted to develop this properly, he needed money.
-Not just to use for experimentation (although he had a few ideas) but also to be able to patent the device to ensure he'd be able to profit off of it.
+Not just to use for experimentation (although there were several things he wanted to try) but also to be able to patent the device to ensure he'd be able to profit off of it.
 
 --------
 
