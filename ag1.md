@@ -117,7 +117,7 @@ Not just to use for experimentation (although there were several things he wante
 
 He'd met up with his team on the second floor of the student center.
 
-"What's up, my bro from another hoe." Mike greeted him.
+"Whaddup, my bro from another hoe." Mike greeted him.
 
 "Don't be vulgar, Mike." Jessica scolded him.
 
@@ -149,7 +149,6 @@ Mike slapped his hand onto the table. "I'm in."
 "I'm not dropping out!
 I don't even have that kind of money, and there's a million and one other things beside!"
 
-
 "Don't worry about it, my uncle'll give us a loan. He's been well, not exactly pressuring me, but he'd love this sort of thing. You in Jess?"
 
 "I'm definitely interested if this pans out, but we can't just abandon schooling."
@@ -159,8 +158,7 @@ I don't even have that kind of money, and there's a million and one other things
  "It's not that I don't trust you guys, but that's a rather extraordinary claim, and I'm going to want more evidence than just a cheap demo that could be working any number of ways."
 
 "_Jess_, _in_, or _out_."
-
-Jessica groaned. "Fine.
+She groaned. "Fine.
 But you'd better be able to provide more solid evidence that this all actually works the way you're claiming."
 
 --------
