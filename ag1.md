@@ -161,6 +161,4 @@ But you'd better be able to provide more solid evidence that this all actually w
 
 --------
 
-[Next][next]
-
-[next]: //coming-soon
+Next
