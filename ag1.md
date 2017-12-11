@@ -1,5 +1,3 @@
-[First][first] | [Previous][prev] | [Next][next]
-
 
 > And their appearance and their work was as it were, a wheel in the middle of a wheel.
 > 
@@ -163,8 +161,4 @@ But you'd better be able to provide more solid evidence that this all actually w
 
 --------
 
-[First][first] | [Previous][prev] | [Next][next]
-
-[first]: http://example.com
-[prev]: http://example.com
-[next]: http://example.com
+Next
