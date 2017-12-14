@@ -1,3 +1,5 @@
+[First][first] | [Previous][prev] | Next
+
 > The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.
 > 
 > _&mdash; Deuteronomy 29:29_
@@ -19,18 +21,18 @@ But she'd finally narrowed the location down, and now that she was close by she 
 > Don't recognise the language on any of it either.
 
 > **Anonymous** 06/22/60(Tue)22:55:32 No.71697021  
-> [>>71696998](http://boards.4chan.org/sci/71696998#p71696998)  
+> [>>71696998](//boards.4chan.org/sci/71696998#p71696998)  
 > I asked my linguistics prof if he had any idea what language that was, he's not sure but he said hed look into it
 
 > **Anonymous** 06/23/60(Wed)14:03:56 No.71697065  
-> [>>71696998](http://boards.4chan.org/sci/71696998#p71696998)  
+> [>>71696998](//boards.4chan.org/sci/71696998#p71696998)  
 > There was some space debris that landed near there a few months ago, it only appeared for a few days before it broke apart and entered the atmosphere.
 > It looks like the other half is still in orbit, I'll see if I can get a shot of it with my telescope tonight.
 
 > File: 54402765559987.jpg (3.3 MB, 1280x720)  
 > **Anonymous** 06/24/60(Thu)12:35:47 No.71697091  
-> [>>71696998](http://boards.4chan.org/sci/71696998#p71696998)
-> [>>71697065](http://boards.4chan.org/sci/71696998#p71697065)  
+> [>>71696998](//boards.4chan.org/sci/71696998#p71696998)
+> [>>71697065](//boards.4chan.org/sci/71696998#p71697065)  
 > Managed to get a good shot of the other half last night, looks like its some sort of upper stage, it's kinda hard to tell though but it's definately man-made.
 
 --------
@@ -84,19 +86,19 @@ Now it was Angela's turn to be confused.
 
 > File: 18808530575647.pdf (14 MB)  
 > **Anonymous** 06/29/60(Tue)10:48:43 No.71697411  
-> [>>71696998](http://boards.4chan.org/sci/71696998#p71696998)  
+> [>>71696998](//boards.4chan.org/sci/71696998#p71696998)  
 > Did a reverse image search for some of those characters and it came up with one of the citizenship application records that was leaked in the USCIS breach a few days ago.
 > There's not a whole lot to go on but the listed height and weight make me think it was a child?
 > Although the age says 23.
 > In any case the location matches.
 
 > **Anonymous** 06/29/60(Tue)18:30:51 No.71697429  
-> [>>71697411](http://boards.4chan.org/sci/71696998#p71697411)  
+> [>>71697411](//boards.4chan.org/sci/71696998#p71697411)  
 > Can't find any social media accounts or anything for "Angela", the name's just too common and Elko is too big without more to go on
 
 > File: 65619124156683.pdf (14 MB)  
 > **Anonymous** 06/30/60(Wed)11:49:31 No.71697438  
-> [>>71697411](http://boards.4chan.org/sci/71696998#p71697411)  
+> [>>71697411](//boards.4chan.org/sci/71696998#p71697411)  
 > Found a record for an employment elegibility check that matches the other info.
 > Maybe someone can try calling them and see if we can learn anything.
   
@@ -153,3 +155,7 @@ But it was too late, and Matt had already popped the lid off.
 
 The last thing Angela knew, she had vomited all over the floor and promptly passed out.
 
+[First][first] | [Previous][prev] | Next
+
+[first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: //www.reddit.com/r/HFY/comments/7iyxyn/wheels_within_wheels_this_is_the_place/
