@@ -1,3 +1,5 @@
+[First][first] | [Previous][prev] | [Wiki][wiki] | Next
+
 > And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was.
 > 
 > _&mdash; Exodus 16:15_
@@ -109,5 +111,8 @@ For him, reading this actually did _far_ more to back up Angela's story than her
 But if Angela was telling the truth about everything, she might actually have a lot of _really valuable_ information about alien technology.
 This also meant that if she were discovered, it could be disasterous &mdash; he needed to let the others know _now_.
 
-[quintessence]: https://en.wikipedia.org/wiki/Quintessence_(physics)
-[darkenergy]: https://en.wikipedia.org/wiki/Dark_energy
+[First][first] | [Previous][prev] | [Wiki][wiki] | Next
+
+[first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: //www.reddit.com/r/HFY/comments/7jqwyo/wheels_within_wheels_anon/
+[wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
