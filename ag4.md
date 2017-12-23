@@ -20,7 +20,7 @@ Even if they were ridiculously expensive, at least she had something to deal wit
 
 "_Mike_," Jessica began, but Angela cut her off.
 
-"What would it take? To prove I'm not making everythng up."
+"What would it take? To prove I'm not making everything up."
 Angela popped six of the tablets out of the foil and grimaced as she swallowed them.
 The Humans packaged it in such ridiculously small doses, and the "mint" flavoring tasted just incredibly bitter.
 
@@ -78,7 +78,7 @@ I'd never even heard of a colony sigil burning out before.
 I'd want be able to continue on and try to find a real colony, but I'd thought this would be a one-way trip.
 Now I don't even have a way off this stupid rock!"
 
-"You'd said your intersteller stage was still in orbit, right?"
+"You'd said your interstellar stage was still in orbit, right?"
 
 "Even if I could get to orbit though, what then?
 The main thruster had only just enough energy to get me here.
@@ -105,11 +105,11 @@ We owe you for this mess and anything we can do to try and right this."
 > There was a vagrancy report in salt lake with a matching description a few days ago.
 
 A chill ran down Mike's back as he read this.
-He hadn't been on 4chan in a few weeks, but he had come back on to see if he could ask around; if anyone knew anything about "phascolians" or whatever Angela was claiming to be.
+He hadn't been on 4chan in a few weeks, but he had come back on to see if he could ask around; if anyone knew anything about "phascolians", or whatever Angela was claiming to be.
 For him, reading this actually did _far_ more to back up Angela's story than her stunt with somehow breaking their locator system.
 
 But if Angela was telling the truth about everything, she might actually have a lot of _really valuable_ information about alien technology.
-This also meant that if she were discovered, it could be disasterous &mdash; he needed to let the others know _now_.
+This also meant that if she were discovered, it could be disastrous &mdash; he needed to let the others know _now_.
 
 [First][first] | [Previous][prev] | [Wiki][wiki] | Next
 
