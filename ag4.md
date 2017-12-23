@@ -18,13 +18,13 @@ Even if they were ridiculously expensive, at least she had something to deal wit
 
 "I still think you're full of crap, like one of those people who are 'allergic to wifi' or some BS." Mike said, with finger quotes.
 
-"_Mike_ &mdash;" Jessica began, but Angela cut her off.
+"_Mike_," Jessica began, but Angela cut her off.
 
 "What would it take? To prove I'm not making everythng up."
 Angela popped six of the tablets out of the foil and grimaced as she swallowed them.
 The Humans packaged it in such ridiculously small doses, and the "mint" flavoring tasted just incredibly bitter.
 
-Matt: "Prove you're able to detect the pufferfish pattern, or sigil or whatever." Matt responded.
+"Prove you're able to detect the pufferfish pattern, or sigil or whatever." Matt responded.
 "If you're really sensitive to these things," he said picking another die off the floor, "in a double-blind test you should still be able to reliably detect it."
 
 "Those are all burnt out now though."
