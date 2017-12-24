@@ -69,6 +69,7 @@ He didn't look to see the wheels of the truck behind him roll over it.
 
 --------
 
+
 Mike left the office in disgust. "I'll come back once y'all are done playing pretend." he'd told them.
 
 _And good riddance_, thought Angela. After he'd left, the atmosphere had immediately become much less hostile.
@@ -94,11 +95,14 @@ We've been able to make chips even smaller than that for nearly half a century a
 But nobody on this planet had even heard of sigils or whatever until just a few months ago when we discovered this 'colony sigil' thing."
 
 "Give me a moment and I'll show you what I'm talking about."
-Angela reached into her bag and pulled out her pad of paper and a pen, in addition to a [slide rule][sliderule] and a [thick book of tables][mathtable].
-After about five minutes of awkward silence as she hastily drew out a sigil of light, she made the last stroke to activate it.
+Angela reached into her bag and pulled out her pad of paper and a felt-tip marker, in addition to a [slide rule][sliderule] and a [thick book of tables][mathtable].
+She decided to go with a sigil of light, since its effect would be immediately obvious and it was one she was very familiar with.
+She knew the normal version by heart, but she needed to check the book several times for some of the key figures for reducing the total energy, since normally it might keep glowing for hours.
+
+An awkward silence had decended and stretched on for several minutes, but finally she completed the body of the sigil, and activated it with a few last strokes.
 
 The sheet of paper immediately caught fire.
-"Aaah, that's not what I was trying to do!"
+"Aaah! That's not what I was trying to do!" 
 
 --------
 
@@ -168,7 +172,7 @@ When Jessica opened it, Mike was standing there.
 "We need to talk."
 
 [sliderule]: //en.wikipedia.org/wiki/Slide_rule
-[mathtable]: //en.wikipedia.org/wiki/Mathematical_table
+[mathtable]: //worldbuilding.stackexchange.com/a/91740/3307
 
 
 [First][first] | [Previous][prev] | [Wiki][wiki] | Next
