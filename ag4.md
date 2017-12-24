@@ -108,6 +108,7 @@ The sheet of paper immediately caught fire.
 > At least we have confirmation that it worked there, at the store.
 > Can anyone find a photo?
 
+^&nbsp;  
 > File: 24433281481957.jpg (2.6 MB, 1920x1200)  
 > **Anonymous** 07/01/60(Wed)11:57:27 No.71698003  
 > [>>71697999](http://boards.4chan.org/sci/71696998#p71697999) nice trips  
