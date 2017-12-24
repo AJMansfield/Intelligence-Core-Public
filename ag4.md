@@ -102,25 +102,38 @@ The sheet of paper immediately caught fire.
 
 --------
 
+> **Anonymous** 07/01/60(Wed)11:57:27 No.71697999  
+> [>>71697999](http://boards.4chan.org/sci/71696998#p71696998)  
+> Called up the employer this afternoon, all I could get from him is that the alien normally wears a green hoodie.
+> At least we have confirmation that it worked there, at the store.
+> Can anyone find a photo?
+
+> File: 24433281481957.jpg (2.6 MB, 1920x1200)  
 > **Anonymous** 07/01/60(Wed)11:57:27 No.71698003  
 > [>>71697999](http://boards.4chan.org/sci/71696998#p71697999) nice trips  
-> With the description from her boss we can be pretty sure thats the alien in the background.
+> Found a photo from facebook from the store, I think that might be alien in the background.
 > Try and see if I can find any more images to figure out where she at.
 
-&nbsp;  
+A chill ran down Mike's back as he read this and checked the image.
+That was definitely Angela.
+
+He hadn't been on 4chan in a few weeks, but he had come back on to see if he could try and find anything about "phascolians" or whatever Angela was pretending to be.
+If he could find whatever anime or what have you this was from, he'd have fairly definitive proof that she was making this all up, and they could finally be rid of her.
+
+Instead he found this.
+He scrolled back through the thread, reading through the evidence.
+He hadn't been convinced by Angela's stunt with the locator chips, but this was hard evidence.
+He didn't like being wrong, but he couldn't deny it.
+
+He refreshed the page to see if there were any newer posts.
+
 > **Anonymous** 07/01/60(Wed)2:48:46 No.71698009  
 > [>>71697999](http://boards.4chan.org/sci/71696998#p71697999)  
 > There was a vagrancy report in salt lake with a matching description a few days ago.
 
-A chill ran down Mike's back as he read this.
-He hadn't been on 4chan in a few weeks, but he had come back on to see if he could try and find anything about "phascolians" or whatever Angela was pretending to be.
-If he could find whatever anime or what have you this was from, he'd have fairly definitive proof that she was making this all up and they could be rid of her.
-
-Instead, he found this.
-For him, reading this did _far_ more to back up Angela's story than her stunt with the locator chips.
-
-But if Angela was telling the truth about everything, she might actually have a lot of _really valuable_ information about alien technology.
-This also meant that if she were discovered, it could be disastrous &mdash; he needed to let the others know _now_.
+Oh crap.
+If they found her this could be _really bad_.
+He needed to let the others know _now_.
 
 --------
 
