@@ -123,7 +123,7 @@ If he could find whatever anime or what have you this was from, he'd have fairly
 Instead he found this.
 He scrolled back through the thread, reading through the evidence.
 He hadn't been convinced by Angela's stunt with the locator chips, but this was hard evidence.
-He didn't like being wrong, but he couldn't deny it.
+He didn't like being wrong, but nor could he deny it any longer.
 
 He refreshed the page to see if there were any newer posts.
 
