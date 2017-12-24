@@ -111,8 +111,8 @@ The sheet of paper immediately caught fire.
 > File: 24433281481957.jpg (2.6 MB, 1920x1200)  
 > **Anonymous** 07/01/60(Wed)11:57:27 No.71698003  
 > [>>71697999](http://boards.4chan.org/sci/71696998#p71697999) nice trips  
-> Found a photo from facebook from the store, I think that might be alien in the background.
-> Try and see if I can find any more images to figure out where she at.
+> Found a photo from facebook from the store, I think that might be the alien in the background.
+> I'll try and see if I can find any more images to figure out where it's at.
 
 A chill ran down Mike's back as he read this and checked the image.
 That was definitely Angela.
