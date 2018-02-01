@@ -180,8 +180,9 @@ And then, with a sarcastic grin, "Oh, someone's gonna use this to build a nuke-y
 
 "I'm done here, we're ajourned." Marshall stood up and walked to the door.
 
-"Mr. President, sir, what if they won't agree to our terms."
+One of the others, a woman this time, spoke up.
+"Mr. President, sir, what if they won't agree to our terms?"
 
-Marshall sighed. He hated that title.
-"Well, I suggest you come up with better terms.
-Because if you don't, I guarantee someone else will."
+Marshall sighed. He hated the title.
+"I suggest you come up with better terms.
+Because if you don't, someone else will."
