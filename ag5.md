@@ -127,13 +127,13 @@ The man glared at him for a fraction of a second, before sighing, resigned.
 "There we go."
 The URL at the bottom of the page had been a dead giveaway.
 "As you were saying?"
-Marshall pulled out his phone and looked up one of the papers it cited, "Effect of Varying Molecular Weight on Acceleration from the Boutwell Effect".
+Marshall pulled out his phone and started looking up some of the paper's citations.
 
 "This is a national security matter!"
 
 "Uh-huh."
 
-"We need to deal with the people who came up with this &mdash"
+"We need to deal with thi&mdash;"
 
 "Uh-huh."
 Marshall had tracked down the original Reddit post with a link to the PDF of a supposedly "self-propelled paper airplane", and sent it to the printer.
@@ -164,7 +164,7 @@ And then he waited some more.
 
 Finally he spoke.
 "Are all of you really this $%^&ing stupid?
-Point number one, by a show of hands, how many of you have _actally_ read this thing?"
+Point number one, by a show of hands, how many of you have _actually_ read this thing?"
 He gestured at the paper in front of him.
 
 The silence that met him told him everything he needed to know.
@@ -173,10 +173,11 @@ The silence that met him told him everything he needed to know.
 'Although this technique may have potential if further refined, the magnitude of the change is significantly smaller than would be expected if the effect depended on mass alone, and is not practical at the present time.'
 
 He paused again. 
-"That's 'researcher' for 'we couldn't get it to work _at all_', in case you were wondering."
-And then, with a sarcastic grin, "Oh, someone's gonna use this to build a nuke-yoo-lar bomb. Haw haw haw."
+"That's 'researcher' for 'we couldn't get it to work _at all_', in case you were wondering.
 
-"Get your heads out of your asses, this is the first really _new_ thing in science in like a decade and you want to shut it down?"
+"Oh, someone's gonna use this to build a nuke-yoo-lar bomb. Haw haw haw.
+
+"Get your heads out of your asses, this is the first really _new_ thing in science in like a decade and you want to shut it down?
 
 "I'm done here, we're adjourned." Marshall stood up and walked to the door.
 
