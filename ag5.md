@@ -7,13 +7,13 @@ Wind
 
 --------
 
-At first Angela wasn't convinced that there was anything to worry about &mdash; she hadn't gone to any particular lengths to avoid attention since she'd arrived on Earth, and so far she'd been fine.
+At first, Angela wasn't convinced that there was anything to worry about &mdash; she hadn't gone to any particular lengths to avoid attention since she'd arrived on Earth, and so far she'd been fine.
 But after hearing from them examples of others who 4chan had taken an interest in, she realized it might be prudent to try to avoid notice, at least in the short term until things died down &mdash; apparently being stalked online was _never_ a good thing, _regardless_ of one's planet of origin.
 
 But Mike had another issue on his mind as well.
 "What are we going to do in two weeks for the expo?
-We _cannot_ afford to have nothing to show for or to the public we'll just be another failed 'free energy' kickstarter.
-We've already booked and paid for everything, and unless we can figure out how to make a new locator sigil that doesn't trigger an alien invasion &mdash; no offence &mdash; we _need_ to figure out something else we can show."
+We _cannot_ afford to have nothing to show for or to the public we'll just be another failed 'free energy' Kickstarter.
+We've already booked and paid for everything, and unless we can figure out how to make a new locator sigil that doesn't trigger an alien invasion &mdash; no offense &mdash; we _need_ to figure out something else we can show."
 
 "None taken," Angela replied.
 "I know a few basic sigils and some of the theory, but my specialty is medicine, not engineering.
@@ -29,13 +29,13 @@ She had been keeping the sigil-powered one as a backup in case the LED flashligh
 ![magic flashlight](https://i.imgur.com/Vw0RKkc.png)
 <!-- Credit to CTMGame for designing the logo on the side -->
 
-It was initially suprising to Jessica how 'industrial' feeling the device was.
+It was initially surprising to Jessica how 'industrial' feeling the device was.
 She wasn't sure what she had been expecting, but given that it was "magic" powered this certainly wasn't it.
 In any case though it felt very well-made, with a smooth anodized surface bearing a logo.
 (According to Angela, this was the logo for "Dominion Technologies", a large multi-planet conglomerate from her birth system.)
 
 The light measured just under five inches on a side, and mainly consisted of a large aluminum heat sink, with a metal reflector and shroud and a glass lens.
-By chance, the bolts used to screw everything together were a close fit for a 5/32 inch allen key, but all of the threads were left-handed &mdash; apparently most civilizations in the wider galaxy used left-handed threads.
+By chance, the bolts used to screw everything together were a close fit for a 5/32 inch hex key, but all of the threads were left-handed &mdash; apparently most civilizations in the wider galaxy used left-handed threads.
 
 The red plunger on the side could be used to activate it and had a latching mechanism (like a click pen).
 Apparently, it worked by moving a section of the sigil in or out of position relative to the rest.
@@ -82,8 +82,8 @@ Mike was simply beaming. "This is just _perfect_ for the expo."
 --------
 
 Marshall Barrera sat in an uncomfortable chair wearing an uncomfortable tie, and waited alongside the other twenty-some other men and women for Vice President Cohen and a few other cabinet members to arrive.
-Once they had, the meeting finally started anf the Cheif of Staff introduced the first item of bullshit.
-Marshall had long seen Sturgeon's Law in effect throught his life, but there was nowhere it applied more strongly than right here.
+Once they had, the meeting finally started and the Cheif of Staff introduced the first item of bullshit.
+Marshall had long seen Sturgeon's Law in effect throughout his life, but there was nowhere it applied more strongly than right here.
 The matter under discussion itself was irrelevant &mdash; to the people in this room, this was purely a chance for political maneuvering and intrigue.
 Still, he paid as much attention as he dared &mdash; this was his job after all; hopefully he might manage to keep them from making any _unusually_ stupid decisions.
 
@@ -108,11 +108,11 @@ An aide handed him an (unusually thin) stapled set of pages.
 He nearly tossed it aside but something about the formatting on the cover page caught his eye and he read the title.
 
 "Application of the Boutwell Effect to Isotope Separation" He read aloud.
-This wasn't some burocratic brief, this was an actual scientific paper.
+This wasn't some bureaucratic brief, this was an actual scientific paper.
 "Go on." He quickly skimmed the abstract before turning to the end to check its citations.
 
 The man two seats to his left spoke up.
-"We recieved a preprint copy of &mdash;"
+"We received a preprint copy of &mdash;"
 
 "Bullshit, no lies please."
 
@@ -136,7 +136,7 @@ Marshall pulled out his phone and looked up one of the papers it cited, "Effect 
 "We need to deal with the people who came up with this &mdash"
 
 "Uh-huh."
-Marshall had tracked down the original reddit post with a link to the PDF of a supposedly "self-propelled paper airplane", and sent it to the printer.
+Marshall had tracked down the original Reddit post with a link to the PDF of a supposedly "self-propelled paper airplane", and sent it to the printer.
 It all seemed rather too good to be true to him, but there were a lot of rather credible sources backing this up, and if all it took to prove it was a piece of paper...
 "And so what you're saying is, is that you all are discussing exactly how large a slice of the budget we want to allocate to their research, if this all turns out to be legitimate."
 
@@ -178,7 +178,7 @@ And then, with a sarcastic grin, "Oh, someone's gonna use this to build a nuke-y
 
 "Get your heads out of your asses, this is the first really _new_ thing in science in like a decade and you want to shut it down?"
 
-"I'm done here, we're ajourned." Marshall stood up and walked to the door.
+"I'm done here, we're adjourned." Marshall stood up and walked to the door.
 
 One of the others, a woman this time, spoke up.
 "Mr. President, sir, what if they won't agree to our terms?"
