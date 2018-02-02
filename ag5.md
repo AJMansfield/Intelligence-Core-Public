@@ -45,10 +45,12 @@ This immediately presented a number of issues: not only would they have to figur
 That was assuming they'd even be able to uncover the sigil without accidentally destroying it, and there was little chance they'd be able to get any sort of subsurface imaging done on it in time.
 
 After putting it back together and testing the device as a whole for a few minutes, Mike picked it up to take it back to Angela.
-Mike: "That's weird, it's warmer on this side of the fins than on that side."
-Mike paused for a moment, before holding it out and moving a sheet of paper up to the opening on the bottom until it was touching.
+"That's weird, it's warmer on this side of the fins than on that side.
+There weren't any fans or anything though."
+Mike paused for a moment, before tearing off a tiny scrap of paper from his notebook.
+He carefully lifted it up and inserted it into the 'cold' side.
 
-When he pulled his hand away, the sheet of paper stuck.
+The scrap was instantly sucked in and ejected out the top.
 
 --------
 
@@ -56,16 +58,17 @@ Matt was busy looking at the book of tables that Angela had used the day before 
 The mathematical notation was unfamiliar, but with Angela's help he had been able to work out the base-twelve numeral system, and was making headway into the rest of the notation.
 Although the language and symbols were unfamiliar, the underlying mathematics were all fundamentally still the same.
 
-He had just worked out how they notated trig functions when a paper airplane flew in the door and hit him on the back of the head.
+He had just worked out how they notated trig functions when something struck him on the back of the head.
 
-"Hey!" he exclaimed as Jessica ran in.
+"Hey!" 
+He turned around to see it was a paper airplane, and he grabbed it as Jessica ran in.
 
 "We've figured it out!"
 Jessica tossed another paper airplane into the air and it circled around the room.
 
 "The light?
 What does that have to do with this?"
-Matt indicated the airplane that had hit him.
+Matt indicated the crumpled plane in his hand.
 
 "Not the light." 
 Mike walked in behind her.
@@ -77,26 +80,38 @@ Matt turned the paper plane over to see a sigil printed on the underside of each
 Angela examined it for a moment.
 "That's a really low-power sigil too &mdash; in theory a sigil like that would last for _billions_ of operating hours at that size."
 
-Mike was simply beaming. "This is just _perfect_ for the expo."
+"This is just _perfect_ for the expo." ((can't quite figure out how to tag this line))
 
 --------
 
-Marshall Barrera sat in an uncomfortable chair wearing an uncomfortable tie, and waited alongside the other twenty-some other men and women for Vice President Cohen and a few other cabinet members to arrive.
-Once they had, the meeting finally started and the Chief of Staff introduced the first item of bullshit.
-Marshall had long seen Sturgeon's Law in effect throughout his life, but there was nowhere it applied more strongly than right here.
-The matter under discussion itself was irrelevant &mdash; to the people in this room, this was purely a chance for political maneuvering and intrigue.
-Still, he paid as much attention as he dared &mdash; this was his job after all; hopefully he might manage to keep them from making any _unusually_ stupid decisions.
+Marshall Barrera sat in an uncomfortable chair wearing an uncomfortable tie.
+The twenty-some other men and women in the room waited for Vice President Cohen to take her seat, so that the meeting could begin.
+Once she had, the Chief of Staff stood up, and introduced the first item of bullshit for today.
 
-The first item ended up looping back on itself several times before the matter was tabled, with different people essentially regurgitating the same buzzwords in a different order, this time something about "immigration" and "national security".
+Sturgeon's law stated that 90% of everything is crap.
+Marshall didn't like to be cynical, but for these meetings even Sturgeon's law was a dramatic underestimate.
+Even issues of actual importance were, for the majority of those here, simply an avenue for political maneuvering and intrigue.
+Still, he paid as much attention as he dared &mdash; this was his job after all; hopefully he might manage to keep them from doing anything _unusually_ stupid.
 
-This same process continued on with other topics for several more items.
-He had mostly zoned out by this point, when something caught in his mind, bringing him back almost instantly as he mentally replayed to last few sentences to try to find out why.
+The first item ended up looping back on itself several times before the matter was tabled: by the end it had essentially devolved into  regurgitating the same buzzwords over and over again in a different order.
+Something about "immigrants" and "public outreach".
+
+The next topic fared similarily, and this process continued over and over again, until suddenly something caught in his mind.
+He had mostly zoned out by this point, but this brought him back almost instantly as he mentally replayed to last few sentences to try to figure out why.
 
 --------
 
-Even a week after the expo, Matt's phone was still exploding pretty much non-stop &mdash; demands for an explanation of how it worked, requests for interviews with the company, and even several offers to buy their company outright or invest absurd sums.
+Hours after the expo and into the night, Matt's phone was still exploding pretty much non-stop &mdash; demands for an explanation of how it worked, requests for interviews with the company, and even several offers to buy their company outright or invest absurd sums.
 
-But more importantly, the scientific community was going completely off the walls right now &mdash; nearly everyone had been skeptical, but the fact it was so easy to demonstrate the discovery meant that everyone who could was already racing to figure out new things about it first, and yesterday someone had published a paper on it about something he hadn't even considered, titled "Effect of Molecular Weight on the Strength of the Boutwell Effect".
+They'd ran out of printouts only a few hours into the expo and had to send Jessica to try to find a copy shop to get more.
+That was about when he recieved the notification that their server at the office had crashed &mdash; someone had found a link to the PDF on their website and posted it to Reddit, and by this point it was _already_ one of the most upvoted posts of all time.
+
+By the time Mike had finally gotten cloudflare set up on their site, a news crew had shown up and demanded interviews, and an executive from Lockheed-Martin had shown up and made an offer to outright buy the company on the spot.
+
+Needless to say, they were all simply _exhausted_ by the time the expo finally closed.
+
+Then, Matt recieved another notification, but this one was something new.
+Someone had just published a scientific paper _about_ their discovery, "Effect of Molecular Weight on the Strength of the Boutwell Effect".
 
 --------
 
@@ -122,7 +137,7 @@ The man began again.
 "One more time, hopefully it'll sound believable on the third try."
 
 The man glared at him for a fraction of a second, before sighing, resigned.
-"This was uploaded to arxiv.org a few hours ago."
+"This was uploaded to arxiv.org a few days ago."
 
 "There we go."
 The URL at the bottom of the page had been a dead giveaway.
