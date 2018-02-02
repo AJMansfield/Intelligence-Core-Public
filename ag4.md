@@ -1,4 +1,4 @@
-[First][first] | [Previous][prev] | [Wiki][wiki] | Next
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
 > And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was.
 > 
@@ -175,8 +175,9 @@ When Jessica opened it, Mike was standing there.
 [mathtable]: //worldbuilding.stackexchange.com/a/91740/3307
 
 
-[First][first] | [Previous][prev] | [Wiki][wiki] | Next
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
 [first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
 [prev]: //www.reddit.com/r/HFY/comments/7jqwyo/wheels_within_wheels_anon/
 [wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
+[next]: not yet assigned
