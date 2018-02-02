@@ -190,7 +190,7 @@ The silence that met him told him everything he needed to know.
 He paused again. 
 "That's 'researcher' for 'we couldn't get it to work _at all_', in case you were wondering.
 
-"Oh, someone's gonna use this to build a nuke-yoo-lar bomb. Haw haw haw.
+"_Oh, someone's gonna use this to build a nuke-yoo-lar bomb. Haw haw haw._
 
 "Get your heads out of your asses, this is the first really _new_ thing in science in like a decade and you want to shut it down?
 
