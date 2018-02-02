@@ -7,7 +7,7 @@ Wind
 
 --------
 
-At first, Angela wasn't convinced that there was anything to worry about &mdash; she hadn't gone to any particular lengths to avoid attention since she'd arrived on Earth, and so far she'd been fine.
+At first, Angela wasn't convinced that there was anything to worry about &mdash; she hadn't gone to any particular lengths to avoid attention since she'd arrived on Earth and she'd been fine so far.
 But after hearing from them examples of others who 4chan had taken an interest in, she realized it might be prudent to try to avoid notice, at least in the short term until things died down &mdash; apparently being stalked online was _never_ a good thing, _regardless_ of one's planet of origin.
 
 But Mike had another issue on his mind as well.
