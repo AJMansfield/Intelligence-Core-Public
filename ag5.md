@@ -203,7 +203,7 @@ Marshall sighed. He hated the title.
 
 "Because if you don't, someone else will."
 
-[flashlight]: //i.imgur.com/Vw0RKkc.png
+[flashlight]: //i.imgur.com/Vw0RKkc.png/
 
 [First][first] | [Previous][prev] | [Wiki][wiki] | Next
 
