@@ -1,7 +1,7 @@
 Wind
 ----
 
-> Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away.
+> Then was the iron, the clay, the brass, the silver and the gold broken all together, and became like the chaff of the summer flowers, and the wind carried them away.
 > 
 > _&mdash; Daniel 2:35_
 
