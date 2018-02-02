@@ -82,7 +82,7 @@ Mike was simply beaming. "This is just _perfect_ for the expo."
 --------
 
 Marshall Barrera sat in an uncomfortable chair wearing an uncomfortable tie, and waited alongside the other twenty-some other men and women for Vice President Cohen and a few other cabinet members to arrive.
-Once they had, the meeting finally started and the Cheif of Staff introduced the first item of bullshit.
+Once they had, the meeting finally started and the Chief of Staff introduced the first item of bullshit.
 Marshall had long seen Sturgeon's Law in effect throughout his life, but there was nowhere it applied more strongly than right here.
 The matter under discussion itself was irrelevant &mdash; to the people in this room, this was purely a chance for political maneuvering and intrigue.
 Still, he paid as much attention as he dared &mdash; this was his job after all; hopefully he might manage to keep them from making any _unusually_ stupid decisions.
