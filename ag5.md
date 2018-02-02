@@ -115,7 +115,7 @@ Someone had just published a scientific paper _about_ their discovery, "Effect o
 
 --------
 
-"So go over again, so we all understand."
+"So go over it again, so we all understand."
 Marshall began after a moment.
 "What exactly is the problem here?"
 
@@ -151,7 +151,7 @@ Marshall pulled out his phone and started looking up some of the paper's citatio
 "We need to deal with thi&mdash;"
 
 "Uh-huh."
-Marshall had tracked down the original Reddit post with a link to the PDF of a supposedly "self-propelled paper airplane", and sent it to the printer.
+Marshall had tracked down the original Reddit post with the link to the PDF of a supposedly "self-propelled paper airplane", and sent it to the printer.
 It all seemed rather too good to be true to him, but there were a lot of rather credible sources backing this up, and if all it took to prove it was a piece of paper...
 "And so what you're saying is, is that you all are discussing exactly how large a slice of the budget we want to allocate to their research, if this all turns out to be legitimate."
 
@@ -201,4 +201,5 @@ One of the others, a woman this time, spoke up.
 
 Marshall sighed. He hated the title.
 "I suggest you come up with better terms.
-Because if you don't, someone else will."
+
+"Because if you don't, someone else will."
