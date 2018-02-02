@@ -19,7 +19,7 @@ We've already booked and paid for everything, and unless we can figure out how t
 "I know a few basic sigils and some of the theory, but my specialty is medicine, not engineering.
 Your technology is already better in nearly every way than anything I know how to make."
 
-After some discussion, the idea came up of potentially trying to reverse-engineer and replicate some of Angela's items.
+After some discussion the idea came up of potentially trying to reverse-engineer and replicate some of Angela's items.
 While she wasn't keen on breaking something she had no replacement for, she had already replaced her high-intensity light with a human-made LED flashlight.
 She had been keeping the sigil-powered one as a backup in case the LED flashlight failed, but by this point she had enough confidence in human technology to risk breaking it.
 
