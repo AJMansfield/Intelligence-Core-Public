@@ -80,7 +80,7 @@ Matt turned the paper plane over to see a sigil printed on the underside of each
 Angela examined it for a moment.
 "That's a really low-power sigil too &mdash; in theory a sigil like that would last for _billions_ of operating hours at that size."
 
-"This is just _perfect_ for the expo." ((can't quite figure out how to tag this line))
+Mike was clearly overjoyed. "This is just _perfect_ for the expo."
 
 --------
 
