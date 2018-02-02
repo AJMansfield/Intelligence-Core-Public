@@ -162,7 +162,7 @@ I was thinking it'd probably be more practical to offer them a partnership with 
 
 --------
 
-"Hey, we just crossed the one million download mark on the PDF of that paper airplane." Jess walked in.
+"Hey, we just crossed the one million download mark on that PDF." Jess walked in.
 
 Matt paused for a moment.
 "Hey Angela, you said that sigil would be good for somewhere around a billion operating hours?"
