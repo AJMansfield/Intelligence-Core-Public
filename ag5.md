@@ -1,5 +1,4 @@
-Wind
-----
+[First][first] | [Previous][prev] | [Wiki][wiki] | Next
 
 > Then was the iron, the clay, the brass, the silver and the gold broken all together, and became like the chaff of the summer flowers, and the wind carried them away.
 > 
@@ -26,7 +25,7 @@ She had been keeping the sigil-powered one as a backup in case the LED flashligh
 
 --------
 
-![magic flashlight](https://i.imgur.com/Vw0RKkc.png)
+![magic flashlight][flashlight]
 <!-- Credit to CTMGame for designing the logo on the side -->
 
 It was initially surprising to Jessica how 'industrial' feeling the device was.
@@ -203,3 +202,11 @@ Marshall sighed. He hated the title.
 "I suggest you come up with better terms.
 
 "Because if you don't, someone else will."
+
+[flashlight]: //i.imgur.com/Vw0RKkc.png
+
+[First][first] | [Previous][prev] | [Wiki][wiki] | Next
+
+[first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: //www.reddit.com/r/HFY/comments/7lrkc8/wheels_within_wheels_magic/
+[wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
