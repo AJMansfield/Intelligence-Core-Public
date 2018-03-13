@@ -1,3 +1,8 @@
+> Then the Midianites’ merchant men passed by, and they drew forth, and lift Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver: who brought Joseph into Egypt.
+>
+> _&mdash; Genesis 37:28_
+
+--------
 
 As the truck bearing the shipping container with its precious cargo finally dropped it off at his facility in Egypt, Solomon Riviera allowed himself a moment to reflect.
 
@@ -91,7 +96,7 @@ Instead of the days or weeks they had been expecting, the measurement indicated 
 
 --------
 
-"I figgered a @#$%er like you'd be showin' up 'ventually," growled the Native American man who answered the door,
+"I figgered a @#$%\^& like you'd be showin' up 'ventually," growled the Native American man who answered the door,
   as he leveled a shotgun at Solomon.
 The man's two dogs growled and barked at Solomon as his mind raced to try and figure out how to defuse the situation,
   before arriving at a last-ditch strategy.
