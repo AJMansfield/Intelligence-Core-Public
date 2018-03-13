@@ -1,3 +1,5 @@
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next](next)
+
 > Then the Midianites’ merchant men passed by, and they drew forth, and lift Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver: who brought Joseph into Egypt.
 >
 > _&mdash; Genesis 37:28_
@@ -233,3 +235,9 @@ Marshall paused flipping through the packet and looked at the aide.
 "Wait, what?"
 Marshall flipped back through the packet and found their profiles.
 "What for?"
+
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
+
+[first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: //www.reddit.com/r/HFY/comments/7uu9xw/wheels_within_wheels_wind/
+[wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
