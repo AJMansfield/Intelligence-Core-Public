@@ -1,4 +1,4 @@
-[First][first] | [Previous][prev] | [Wiki](wiki) | [Next](next)
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
 > Then the Midianites’ merchant men passed by, and they drew forth, and lift Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver: who brought Joseph into Egypt.
 >
