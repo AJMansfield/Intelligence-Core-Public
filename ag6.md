@@ -4,7 +4,7 @@
 
 --------
 
-As the truck bearing the shipping container with its precious cargo finally dropped it off at his facility in Egypt, Solomon Riviera allowed himself a moment to reflect.
+As the truck bearing the shipping container with its precious cargo finally dropped it off at his facility, Solomon Riviera allowed himself a moment to reflect.
 
 He'd travelled to the United States to investigate what had initially not seemed to him like a very promising lead.
 The images of the purported "alien spaceship" could all have easily been faked with props and lens tricks, and while the "alien language" was definately at least the work of a skilled conlang builder, he hadn't expected much &mdash; this was going to be just another fake.
