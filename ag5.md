@@ -1,4 +1,4 @@
-[First][first] | [Previous][prev] | [Wiki][wiki] | Next
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
 > Then was the iron, the clay, the brass, the silver and the gold broken all together, and became like the chaff of the summer flowers, and the wind carried them away.
 > 
@@ -205,8 +205,9 @@ Marshall sighed. He hated the title.
 
 [flashlight]: https://i.imgur.com/Vw0RKkc.png
 
-[First][first] | [Previous][prev] | [Wiki][wiki] | Next
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
 [first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
 [prev]: //www.reddit.com/r/HFY/comments/7lrkc8/wheels_within_wheels_magic/
 [wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
+
