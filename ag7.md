@@ -25,6 +25,7 @@ His first major interaction with her had been a scene-by-scene debunking of one 
 Normally nothing would have come of it,
   but for some reason a few weeks later she'd contacted him asking for his opinion on the Richards Bay disaster,
   a topic he was intimately familiar with given that 19 years prior he had literally _been there for the cover-up_.
+
 Although he'd had to brush it off with a response that was almost purely a rant about pseudoscience and denialism,
   he had been surprised when the video had come up in his recommendations a few weeks later,
   and even more pleasantly surprised at the contents.
