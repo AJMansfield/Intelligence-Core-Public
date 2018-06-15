@@ -1,4 +1,4 @@
-# Number Sense
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
 > The same laws and regulations shall apply both to you, and to the foreigner residing among you.
 > 
@@ -352,3 +352,13 @@ It wasn't that she disliked being here on Earth or anything,
 "Uhh, I guess, Mike and Jess are getting here tomorrow evening."
 
 She sighed. It would have to do for now.
+
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
+
+[first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: //www.reddit.com/r/HFY/comments/7uu9xw/wheels_within_wheels_wind/
+[wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
+[Snellen chart]: https://en.wikipedia.org/wiki/Snellen_chart
+[Ishihara test]: https://en.wikipedia.org/wiki/Ishihara_test
+[Farnsworth-Munsell 100 hue test]: https://en.wikipedia.org/wiki/Farnsworth-Munsell_100_hue_test
+[subitizing]: https://en.wikipedia.org/wiki/Subitizing
