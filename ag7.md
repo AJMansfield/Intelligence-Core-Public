@@ -356,7 +356,7 @@ She sighed. It would have to do for now.
 [First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
 [first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
-[prev]: //www.reddit.com/r/HFY/comments/7uu9xw/wheels_within_wheels_wind/
+[prev]: //www.reddit.com/r/HFY/comments/847h4z/wheels_within_wheels_egypt/
 [wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
 [Snellen chart]: https://en.wikipedia.org/wiki/Snellen_chart
 [Ishihara test]: https://en.wikipedia.org/wiki/Ishihara_test
