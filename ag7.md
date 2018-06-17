@@ -111,6 +111,9 @@ That was what he wanted,
 
 --------
 
+Brenda Hill read through the email one more time,
+  hoping she might've misread it the previous few hundred times she'd gone over it in the last week.
+
 This was crazy.
 This was the sort of shadow government bullsh\*t you'd see on the X-files.
 This was the sort of thing you'd expect from sci-fi movie villains.
