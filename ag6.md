@@ -241,3 +241,4 @@ Marshall flipped back through the packet and found their profiles.
 [first]: https://www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
 [prev]: https://www.reddit.com/r/HFY/comments/7uu9xw/wheels_within_wheels_wind/
 [wiki]: https://www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
+[next]: https://www.reddit.com/r/HFY/comments/8re4v6/wheels_within_wheels_experimentation
