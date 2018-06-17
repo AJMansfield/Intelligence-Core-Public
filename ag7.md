@@ -359,9 +359,9 @@ She sighed. It would have to do for now.
 
 [First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
-[first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
-[prev]: //www.reddit.com/r/HFY/comments/847h4z/wheels_within_wheels_egypt/
-[wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
+[first]: https://www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: https://www.reddit.com/r/HFY/comments/847h4z/wheels_within_wheels_egypt/
+[wiki]: https://www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
 [Snellen chart]: https://en.wikipedia.org/wiki/Snellen_chart
 [Ishihara test]: https://en.wikipedia.org/wiki/Ishihara_test
 [Farnsworth-Munsell 100 hue test]: https://en.wikipedia.org/wiki/Farnsworth-Munsell_100_hue_test
