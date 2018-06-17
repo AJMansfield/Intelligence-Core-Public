@@ -121,7 +121,7 @@ This was the sort of thing you'd expect to happen in a cheap amateur fiction on 
 
 This was her job.
 
-Lockheed Martin had offered Brenda Hill post-doc position for cognitive science research two months ago,
+Lockheed Martin had offered Brenda a post-doc position for cognitive science research two months ago,
   and she had accepted it without a second thought.
 Although it had been odd the level of background checking and overall secrecy that had been required,
   she had just chalked it up to just bureaucracy.
