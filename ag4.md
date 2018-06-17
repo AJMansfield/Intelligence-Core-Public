@@ -171,13 +171,13 @@ When Jessica opened it, Mike was standing there.
 
 "We need to talk."
 
-[sliderule]: //en.wikipedia.org/wiki/Slide_rule
-[mathtable]: //worldbuilding.stackexchange.com/a/91740/3307
-
+[sliderule]: https://en.wikipedia.org/wiki/Slide_rule
+[mathtable]: https://worldbuilding.stackexchange.com/a/91740/3307
 
 [First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
-[first]: //www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
-[prev]: //www.reddit.com/r/HFY/comments/7jqwyo/wheels_within_wheels_anon/
-[wiki]: //www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
-[next]: not yet assigned
+[first]: https://www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: https://www.reddit.com/r/HFY/comments/7jqwyo/wheels_within_wheels_anon/
+[wiki]: https://www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
+[next]: https://www.reddit.com/r/HFY/comments/7uu9xw/wheels_within_wheels_wind/
+
