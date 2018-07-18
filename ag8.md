@@ -20,8 +20,7 @@ The unit itself was a narrow slice of a much larger building,
    10 meters high and 90 meters long, but only 15 meters wide.
 The front of the unit had a small office area built inside it off to one side, complete with a few cubicles and a drop ceiling.
 Beyond that, though, the unit was essentially empty all the way back to the loading dock at the other end,
-  containing only the shipping container holding the pod and a sad-looking [scissor lift](http://forkliftsystems.com/wp-content/uploads/2014/05/Used-JLG-1930ES-Scissorlift-19923-LT.jpg).
-
+  containing only the shipping container holding the pod and a sad-looking [scissor lift].
 
 He'd managed to purchase the lease on the unit from an electrical contractor that had gone under about twenty years ago,
   and although the lease payments weren't cheap,
