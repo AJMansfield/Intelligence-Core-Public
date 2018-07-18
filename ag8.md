@@ -1,3 +1,5 @@
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
+
 > And lo, there came out of the river seven goodly kine and fat-fleshed, and they fed in a meadow.
 > 
 > And lo, seven other kine came up after them out of the river, evil favored and lean fleshed, and stood by the other kine upon the brink of the river.
@@ -416,6 +418,10 @@ After a moment, the laptop finished booting to read "PROJECT CORAL SOUND", he co
 
 "On the March 25th, 2059, at 23:47:51 UTC, the Catalina Sky Survey detected a previously-uncatalogued magnitude 8 near-earth object, designated 2059 QP8432, in a highly-elliptic inclined retrograde orbit of earth...."
 
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
 
+[first]: https://www.reddit.com/r/HFY/comments/7iqrcn/wheels_within_wheels/
+[prev]: https://www.reddit.com/r/HFY/comments/8re4v6/wheels_within_wheels_experimentation/
+[wiki]: https://www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
 [scissor lift]: http://forkliftsystems.com/wp-content/uploads/2014/05/Used-JLG-1930ES-Scissorlift-19923-LT.jpg
 [ccc]: https://en.wikipedia.org/wiki/Chaos_Communication_Congress
