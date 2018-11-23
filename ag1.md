@@ -11,7 +11,7 @@ If he wanted to have anything at all to show for in 8 hours at the competition, 
 
 This year's undergraduate robotics competition involved autonomously navigating an underwater maze to retrieve a simulated submarine escape pod.
 
-His responsibility had been designing the navigation system used to get to the pod, and he'd chosed to base the design on a species of pufferfish, _Torquigener tetraodontidae_, known for constructing [large circular geometric patterns][pufferfish] underwater in order to attract potential mates.
+His responsibility had been designing the navigation system used to get to the pod, and he'd chosen to base the design on a species of pufferfish, _Torquigener tetraodontidae_, known for constructing [large circular geometric patterns][pufferfish] underwater in order to attract potential mates.
 Neural simulations based on aquatic animals generally performed very well in this type of environment, and it stood to reason that this pufferfish might be especially suited due to it's apparent ability to process complicated geometric patterns.
 
 [pufferfish]: https://doi.org/10.1038/srep02106
@@ -26,7 +26,7 @@ Dejectedly, he set it running, and fell asleep in his chair.
 --------
 
 Matt awoke with a start to sunlight streaming in onto his face.
-He checked the time - 12:30 - and started scrolled through his notifications before suddenly remembering he needed to be at the competition in 15 minutes.
+He checked the time - 12:30 - and started scrolling through his notifications before suddenly remembering he needed to be at the competition in 15 minutes.
 
 He hastily grabbed the AUV and stuffed it in his bag with his laptop, only sparing a glance to ensure everything had compiled, before running as quickly as he could from the Computer Science Department to the Richards Building pool where the competition was being held.
 
@@ -37,7 +37,7 @@ The optimization report had said it had managed to fit the simulation onto the A
 He pulled the AUV out of his bag and handed it to her.
 "It will work, I'm pretty sure."
 
-Jessica had been responsible for the mechanical design of the project, and she'd also been the one to who'd gotten him the neural scan he'd used as a basis for the programming.
+Jessica had been responsible for the mechanical design of the project, and she'd also acquired the neural scan he'd used as a basis for the programming.
 
 "Mike messaged me and he should be here in - nnng there he is." she said, turning as she spotted Mike making his way through the light crowd.
 
@@ -55,16 +55,16 @@ It turned out, their AUV performed very well.
 Well enough to win the competition.
 And in fact, well enough that they had initially been suspected of cheating by hardcoding the maze or controlling it remotely.
 (This was resolved by running it through a new, randomly generated layout, and examining the hardware to make sure there wasn't a reciever that would allow remote control.)
-The AUV just zipped through the maze, following pretty much the idea route first time, and their time to retrieve the capsule came in just under _a third_ that of the next fastest team.
+The AUV just zipped through the maze, following pretty much the ideal route on the first try, and their time to retrieve the capsule came in just under _a third_ that of the next fastest team.
 
-This was despite the fact that they had accidentally _dropped_ the AUV beforehand, and while Matt had hoped nothing too serious had broken, the tinkle of glass from the camera had told him that was a lie.
+This was despite the fact that they had accidentally _dropped_ the AUV beforehand, and while Matt had hoped nothing too serious had broken, the tinkle of glass from the camera suggested otherwise.
 
-His teammate's were overjoyed of course, and didn't really suspect anything, but Matt knew they hadn't just done well, they'd done _impossibly_ well.
+His teammates were overjoyed of course, and didn't really suspect anything, but Matt knew they hadn't just done well, they'd done _impossibly_ well.
 
 --------
 
 Matt got back to his apartment, set the AUV on his desk and powered it on, before unzipping his bag to pull out the 3D printed tile.
-Immediately the AUV's thrusters spun up, and he zipped his bag shut to go shut it off, but as soon as he zipped it closed it shut off.
+Immediately the AUV's thrusters spun up, and he zipped his bag shut to go shut it off, but as soon as he zipped the bag closed it shut off.
 He opened the zipper a tiny bit.
 Nothing.
 Opened it a bit more, and immediately the thrusters spun up again until he zipped it back closed.
@@ -75,7 +75,7 @@ After disconnecting the thrusters (running them in air could potentially cause t
 As he had kind-of expected by this point, the display immediately reacted, and as he moved the tile around the display readout changed to match the direction to the tile.
 
 He continued disconnecting various components, trying to isolate the cause.
-He quickly eliminated the broken camera and the acoustic sensors, and after a few minutes all he had left was the bare processor board, attached to the power supply and the display.
+He quickly eliminated the broken camera and acoustic sensors. After a few minutes all he had left was the bare processor board, attached to the power supply and display.
 Still the display consistently read out the direction to the tile.
 
 This was _very_ weird.
@@ -84,7 +84,7 @@ This was _very_ weird.
 
 Matt knew he ought to be studying for his finals, but he didn't care.
 
-He'd spent the rest of the weekend going through the software and hardware, eliminating pieces to try and figure out how it worked.
+He spent the rest of the weekend going through the software and hardware, eliminating pieces to try and figure out how it worked.
 The pufferfish neural simulation appeared to be a necessary component, but he had eliminated nearly everything else that wasn't in some way required to run that simulation.
 Frustratingly, all of his attempts to observe the simulation as it was running all caused it to stop working, but he was eventually able to pare the simulation to a single cluster of about 40 neurons that appeared to be responsible for this behavior.
 None of them were related to any of the sensory corticies, and in fact most of them weren't even connected to each other.
