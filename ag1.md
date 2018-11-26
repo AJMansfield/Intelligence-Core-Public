@@ -86,8 +86,10 @@ Matt knew he ought to be studying for his finals, but he didn't care.
 
 He spent the rest of the weekend going through the software and hardware, eliminating pieces to try and figure out how it worked.
 The pufferfish neural simulation appeared to be a necessary component, but he had eliminated nearly everything else that wasn't in some way required to run that simulation.
-Frustratingly, all of his attempts to observe the simulation as it was running all caused it to stop working, but he was eventually able to pare the simulation to a single cluster of about 40 neurons that appeared to be responsible for this behavior.
+Frustratingly, all of his attempts to observe the simulation as it was running all caused it to stop working, but [with clever debugging][hash-differential] he was eventually able to isolate a single cluster of about 40 neurons that appeared to be responsible for this behavior.
 None of them were related to any of the sensory corticies, and in fact most of them weren't even connected to each other.
+
+[hash-differential]: https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
 
 So far he'd learned that the range of the effect was somewhat limited, as the further away the tile got, the weaker and less reliable the readings became.
 By about 10 meters away, there would be about a 50/50 chance of a correct reading, and while this could be compensated for by taking several readings, there wasn't a lot that could be done to go much further than that.
