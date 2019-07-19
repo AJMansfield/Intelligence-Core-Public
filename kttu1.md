@@ -115,18 +115,55 @@ Again, if you had more time.
 The most difficult part of crossing the cayon lay ahead,
   and if you were still in the canyon when the rains returned next nightfall,
   you would surely die.
+You cross the stream and begin your ascent.
 
 ----
 
 The rains hit just as you make it to the top,
   and you're forced to fight the shallow rushing water against your boots
   as you scramble to a rocky outcrop from which you can wait it out.
+  
+The rain pours down, as it did the previous night,
+  and you use this opportunity to refill your water bottles: the rain itself at least is safe to drink.
+The sounds of rushing water in the canyon below lull you to sleep.
 
-You make it to the top, and are able to get to the top of another outcrop when the rain begins again. You use this opportunity to refill your water bottles; the rain itself at least is safe to drink. The next day, you continue your trek, uphill towards the structures in the distance. Civilization becomes more evident as you encounter a packed dirt track, occasional wheel ruts indicating vehicular use. You have yet to encounter its users, but as you follow the track through the rough terrain toward the settlement, you pass large, flat, cultivated fields surrounded by dikes and channels meant to divert the flood waters and prevent the crops from being washed away. 
-The unfamiliar plants in these fields are as alien to this planet as you, but a bit of investigation reveals the thick starchy tubers buried beneath the surface.
-Whether they were edible for a human, especially uncooked, was something you would need to learn, but that could wait until you'd reached the settlement. 
+----
+
+The next day, you continue your trek,
+  uphill away from the canyon and towards the structures in the distance.
+
+Civilization becomes more evident as you encounter a packed dirt track,
+  with occasional wheel ruts indicating vehicular use.
+You have yet to encounter its users,
+  but as you follow the track through the rough terrain toward the settlement the terrain changes.
+Rocky flatlands give way to large, flat, cultivated fields, surrounded by dikes and channels meant to divert flood waters.
+
+The unfamiliar plants in these fields are as alien to this planet as you,
+  but a bit of investigation reveals the thick starchy tubers buried beneath the surface,
+  for which they are grown. 
+Whether they were edible for a human,
+  especially uncooked, was something you would need to learn,
+  but that could wait until you'd reached the settlement.
+Perhaps this was already known to them;
+  while uncommon in most corners of the galaxy, humans weren't unknown either.
+Likely, the tubers would need to be ground into a pulp and the raw starch settled out,
+  and the starch itself washed many times before being cooked, as with arrowroot on Earth.
+
+A labor-intensive process,
+  but if you were able to trade for enough of them,
+  it would mean you wouldn' have to subsist on only the meager rations you'd been able to bring
+  while attempting to cultivate and waiting on the first harvest from your own seeds.
+And it meant that if the seeds _failed_ to grow,
+  there was still the possibility you could survive.
+
+But that all depends on the goodwill of the settlement ahead,
+  finding a way to communicate, learning the language,
+  and finding something they would be willing to trade for.
 
 As you progress, the terrain changes.
-In contrast to the lichen-covered wasteland from before, the spaces between the fields are now dominated by the hardy scrub grasses you'd seen earlier in the ravine, and even the occasional adventurous shrub, clinging to the rocks from which it grew.
+In contrast to the lichen-covered wasteland from before,
+  the spaces between the fields are now dominated by the hardy scrub grasses you'd seen earlier in the ravine,
+  and even the occasional adventurous shrub clinging to the rocks from which it grew.
+
 At some point the dirt track transitions to a paved concrete road.
 The giant air-supported domes of the settlement loom ahead of you.
