@@ -136,29 +136,31 @@ Civilization becomes more evident as you encounter a packed dirt track,
   with occasional wheel ruts indicating vehicular use.
 You have yet to encounter its users,
   but as you follow the track through the rough terrain toward the settlement the terrain changes.
-Rocky flatlands give way to large, flat, cultivated fields, surrounded by dikes and channels meant to divert flood waters.
+Rocky flatlands give way to large, flat, cultivated fields,
+  surrounded by dikes and channels meant to divert flood waters.
 
 The unfamiliar plants in these fields are as alien to this planet as you,
   but a bit of investigation reveals the thick starchy tubers buried beneath the surface,
-  for which they are grown. 
+  for which they are likely grown. 
 Whether they were edible for a human,
   especially uncooked, was something you would need to learn,
   but that could wait until you'd reached the settlement.
 Perhaps this was already known to them;
   while uncommon in most corners of the galaxy, humans weren't unknown either.
+  
 Likely, the tubers would need to be ground into a pulp and the raw starch settled out,
   and the starch itself washed many times before being cooked, as with arrowroot on Earth.
-
 A labor-intensive process,
   but if you were able to trade for enough of them,
-  it would mean you wouldn' have to subsist on only the meager rations you'd been able to bring
-  while attempting to cultivate and waiting on the first harvest from your own seeds.
-And it meant that if the seeds _failed_ to grow,
+  it would mean you wouldn't have to subsist on only the meager rations you'd been able to bring
+  while attempting to cultivate and wait for first harvest from your own crops.
+And it meant that if the seeds you brought _failed_ to grow,
   there was still the possibility you could survive.
 
 But that all depends on the goodwill of the settlement ahead,
-  finding a way to communicate, learning the language,
+  finding a way to communicate, learning the language if possible,
   and finding something they would be willing to trade for.
+Whoever, and whatever, they are.
 
 As you progress, the terrain changes.
 In contrast to the lichen-covered wasteland from before,
