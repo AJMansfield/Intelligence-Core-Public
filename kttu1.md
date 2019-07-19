@@ -1,5 +1,7 @@
-Kai Travels the Ultiverse, Question 1!
+Inspired by [this prompt](https://discordapp.com/channels/193833049564119040/193833696288047104/601524122933133335) from [the discord](https://discord.gg/worldbuilding).
 
+> **Kai Travels the Ultiverse, Question 1!**
+> 
 > By some miraculous twist of fate, I've found myself in your world.
 > Somewhere random, chosen by you.
 > What do I need to do to adapt quickly, so that I can survive?
@@ -16,7 +18,7 @@ There's a sharp jerk as the capsule's parachutes deploy,
 Out the window, you can see a large plain of coarse, rocky dirt,
   reminiscent of old photos showing what mars used to look like.
 
-But not quite.
+But not quite the same.
 And as you step out of the capsule in your pressure suit,
   you're able to spot the occasional hardly lichens,
   and patches of biologically-active soil crust breaking up the bare regolith.
@@ -26,7 +28,7 @@ Large, jagged mountains loom on the horizon to the north,
   against a clear blue sky that indicated the presence of oxygen.
 You'd been able to tell that much, at least, or you wouldn't have landed.
 
-You unlach the pod's hatch and step out.
+You unlatch the pod's hatch and step out.
 The gravity is a bit lighter than you're used to, but not by much,
   but the and the air pressure is much lower.
 Your oxygen level readings did indicate you technically could survive without your helmet,
@@ -36,10 +38,10 @@ The initial soil analysis doesn't turn up anything overtly toxic &mdash;
   low arsenic, moderate levels of heavy metals like mercury,
   but no toxic organometallic compounds that would be likely to cause problems.
 After over 20 hours in the bulky pressure suit you're wearing, you're able to crack it open and pull off your helmet,
-  replacing it with a lightweight breathing mask that only provided supplimental oxygen.
+  replacing it with a lightweight breathing mask that only provided supplemental oxygen.
   
 You gather up the parachute cloth from where it fell around the pod, and stow it neatly inside.
-Finally, sfter assembling the rover and transferring your supplies to it from the capsule,
+Finally, after assembling the rover and transferring your supplies to it from the capsule,
   you set off south, heading very slightly downhill.
 Away from the mountains, and toward what you believed might be a settlement that you'd spotted as you landed.
 
@@ -74,14 +76,14 @@ On the other side of the canyon in the distance,
 
 Nightfall comes, and with it comes rain.
 This was what you had expected, but nothing had prepared you for the sheer violence of it.
-Water from the plains surges around the rocky outcrop at the canyoun edge where you'd anchored your vehicle,
+Water from the plains surges around the rocky outcrop at the canyon edge where you'd anchored your vehicle,
   crashing over the edges of the canyon.
 Massive rapids span the entire width of the canyon floor,
   and the small ravine you'd been following formed a torrential waterfall where it emptied into the canyon.
 
 Eventually, the rain stops, and the floods subside, leaving you to the silence of the night,
   broken only by the slow trickle of water and the sound of your breathing.
-Overhead, the milky way shone, unpolluted by artificial lights.
+Overhead, the milky way shines in the night sky, unpolluted by artificial lights.
 
 ----
 
@@ -112,7 +114,7 @@ You taste the water, and spit it out.
 This water is saturated with minerals and salt, and you must distill it if you wish to drink.
 Again, if you had more time.
 
-The most difficult part of crossing the cayon lay ahead,
+The most difficult part of crossing the canyon lay ahead,
   and if you were still in the canyon when the rains returned next nightfall,
   you would surely die.
 You cross the stream and begin your ascent.
