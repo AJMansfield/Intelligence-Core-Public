@@ -93,7 +93,7 @@ The light it gives is dimmer than a full moon,
   but harsher, all coming from a single point in the sky and casting sharp shadows.
 
 The domed city in the distance shines white under the light of this distant second sun.
-The edge of the canyon is noticeably closer than it was the night before.
+The edge of the canyon is noticeably closer than it was the day before.
 
 At this point, you're forced to abandon your vehicle.
 You can't drive it down the canyon walls.
