@@ -1,4 +1,4 @@
-Inspired by [this prompt](https://discordapp.com/channels/193833049564119040/193833696288047104/601524122933133335) from [the discord](https://discord.gg/worldbuilding).
+Inspired by [this prompt](https://discordapp.com/channels/193833049564119040/193833696288047104/601524122933133335) from [the /r/worldbuilding discord](https://discord.gg/worldbuilding).
 
 > **Kai Travels the Ultiverse, Question 1!**
 > 
@@ -30,7 +30,7 @@ You'd been able to tell that much, at least, or you wouldn't have landed.
 
 You unlatch the pod's hatch and step out.
 The gravity is a bit lighter than you're used to, but not by much,
-  but the and the air pressure is much lower.
+  and the air pressure is much lower.
 Your oxygen level readings did indicate you technically could survive without your helmet,
   thanks to a much higher relative concentration, but you'd quickly become winded if you tried to exert yourself.
 
@@ -74,12 +74,12 @@ On the other side of the canyon in the distance,
 
 ----
 
-Nightfall comes, and with it comes rain.
+Nightfall comes, and with it rain.
 This was what you had expected, but nothing had prepared you for the sheer violence of it.
 Water from the plains surges around the rocky outcrop at the canyon edge where you'd anchored your vehicle,
   crashing over the edges of the canyon.
 Massive rapids span the entire width of the canyon floor,
-  and the small ravine you'd been following formed a torrential waterfall where it emptied into the canyon.
+  and the small ravine you'd been following forms a torrential waterfall as it empties into the canyon.
 
 Eventually, the rain stops, and the floods subside, leaving you to the silence of the night,
   broken only by the slow trickle of water and the sound of your breathing.
