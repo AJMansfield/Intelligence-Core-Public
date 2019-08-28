@@ -176,12 +176,15 @@ None of the other workers were getting paid here.
 
 A handful of SIM cards, some of which had been clipped in half like pieces of eight.
 
-do you know where I can stay?
-
 ----
 
+
+small communes of around 20 adults of both sexes
 Work crew offered him a place to stay for a few days, while he got his bearings in the city.
 He spent most of the day working in the fields with this crew.
+
+
+
 
 spoken languages were apparently very fluid for kender.
 
@@ -207,7 +210,7 @@ But at the same time,
   by using that greeting language he was basically greeting everyone as a stranger all the time &mdash;
   making him a sort of permanent foreigner &mdash;
   and the lack of 'linguistic reciprocity' in these exchanges
-  generally lead to a general impression that he was somewhat dim-witted or perhaps childish.
+  generally gave the impression that he was somewhat dim-witted or perhaps childish.
 
 Dammit, you _tried_.
 Your brain just wasn't built for this kind of thing.
@@ -215,47 +218,6 @@ Still, when one of them introduced one of their own terms to a conversation,
   you did your best to _try_ to remember and use it, at least for that conversation;
   show you were at least _trying_ to reciprocate.
 
-Their writing system, at least, was consistent.
-
-you did your best to try to remember words they used for 
-But inferring the context of his 
-  made it hard for him,
-  and gave reputation of being somewhat dim-witted or childish.
-  
-  
-  but using it all the time made him a kind of 'permanent stranger' to everyone,
-  marking him as a foreigner.
-
-  they were more than willing to use whatever english they'd somehow managed to pick up just from context talking to him and presumably other kenders who'd themselves picked up a bit of english
-
-but his lack of a kind of
-
-he _tried_, humans just weren't wired to be able to communicate in t
-
-the fact you're not able to 'reciprocate' and incorporate linguistic fragments
-And, oddly enough, as he gotten around, that common subset often included English words.
-
-There were a handful of 
-  aside from a kind of pidgin language mostly used in a sort of 'language negotiaton' process - 
-
-Each individual clan seemed to use its own separate dialect or language within the clan,
-  but there wasn't really any common pidgin languages, rather, conversations between members of different clans seemed to just use a random mish-mash of the two
-He'd made some progress and had gotten a grasp on a kind of common pidgin language.
-  
-  this was rarely used for full conversations
-
-a kind of common subset that most of the cities inhabitant's would understand,
-  can ask for basic things.
-But while conversations between total strangers would often start out in this common pidgin dialect,
-  they'd quickly negotiate and move into using more complex 'common dialect'.
-
-While the intersection between everyone could be summarized in this small pidgin dialect,
-  any two people would 
-
-Most conversations between strangers usually started with this,
-  the common ground between any two individuals was often much broader than
-
-tries to learn to speak their language, but they were learning to speak English themselves, very rapidly.
 the roots are indeed mashed and washed to separate out the starch.
 
 This was used to make a slightly-sour-tasting flatbread that formed the main staple of their diet.
@@ -270,7 +232,6 @@ Unfortunately many of the spices they often used in cooking weren't really edibl
 There were a handful he could stomach - some kind of greens with a mild citrus-y flavor,
   and this other sweet potato analogue that was mildly spicy,
   needed to start growing his own crops.
-
 
 kai made it into a wrap
   
