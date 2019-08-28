@@ -176,6 +176,14 @@ Four SIM cards and an SD card.
 
 ----
 
+Work crew offered him a place to stay for a few days, while he got his bearings in the city.
+
+spoken languages are very fluid for kender
+the roots are indeed mashed and washed to separate out the starch.
+better than nutrient bars though
+
+----
+
 kai becomes a Tech Support Wizard.
 
 Travels back to his vehicle, drove back to the capsule, excavated it from mud.
