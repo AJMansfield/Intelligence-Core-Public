@@ -158,7 +158,9 @@ k: seems a small price to pay to avoid coming into conflict with the authorities
 k: "It's ok, I'm fine with that."
 takes off necklace, and hands it to the greedy-looking guard
 
-do all work big on earth, like kai?
+guard gives kai an official-looking pass thinger
+
+f: "do all work big on earth, like kai?"
 
 no.
 
@@ -172,14 +174,109 @@ heard that human-made electronics were considered extremely valuable off of Eart
   but hadn't realized that might extend to using them as currency.
 None of the other workers were getting paid here.
 
-Four SIM cards and an SD card.
+A handful of SIM cards, some of which had been clipped in half like pieces of eight.
+
+do you know where I can stay?
 
 ----
 
 Work crew offered him a place to stay for a few days, while he got his bearings in the city.
+He spent most of the day working in the fields with this crew.
 
-spoken languages are very fluid for kender
+spoken languages were apparently very fluid for kender.
+
+It was often said on Earth that English was really three languages in a trenchcoat, robbed other languages in dark alleys and going through their pockets for loose grammar.
+
+If that was the case, the ... _languages_, if the term really even still applied,
+  that these kenders spoke was some kind of unholy abomination that had been pulled directly from some primordial soup of elemental chaos.
+
+Across even _this_ small settlement of about ten thousand people,
+  there wasn't just _one_ common language, or even _two_.
+There were literally _thousands_ of distinct dialects and languages,
+  all bleeding into each other in a horible convoluted mess.
+
+As far as can tell, there _were_ a relatively small number of common-ish pidgin languages &mdash; maybe a half-dozen &mdash;
+  but these were really only ever used when starting a conversation with a stranger,
+  and in real conversation would rapidly evolve into some kind of ad-hoc 'best common subset' language common to its participants.
+
+On the plus side,
+  he'd managed to get a handle on the most common pidgin 'greeting language' used here,
+  and he was able to conduct most business using a mix of _English_ with this pidgin,
+  using grammar and vocabulary many of the kenders had somehow just _picked up_ interacting with him.
+But at the same time,
+  by using that greeting language he was basically greeting everyone as a stranger all the time &mdash;
+  making him a sort of permanent foreigner &mdash;
+  and the lack of 'linguistic reciprocity' in these exchanges
+  generally lead to a general impression that he was somewhat dim-witted or perhaps childish.
+
+Dammit, you _tried_.
+Your brain just wasn't built for this kind of thing.
+Still, when one of them introduced one of their own terms to a conversation,
+  you did your best to _try_ to remember and use it, at least for that conversation;
+  show you were at least _trying_ to reciprocate.
+
+Their writing system, at least, was consistent.
+
+you did your best to try to remember words they used for 
+But inferring the context of his 
+  made it hard for him,
+  and gave reputation of being somewhat dim-witted or childish.
+  
+  
+  but using it all the time made him a kind of 'permanent stranger' to everyone,
+  marking him as a foreigner.
+
+  they were more than willing to use whatever english they'd somehow managed to pick up just from context talking to him and presumably other kenders who'd themselves picked up a bit of english
+
+but his lack of a kind of
+
+he _tried_, humans just weren't wired to be able to communicate in t
+
+the fact you're not able to 'reciprocate' and incorporate linguistic fragments
+And, oddly enough, as he gotten around, that common subset often included English words.
+
+There were a handful of 
+  aside from a kind of pidgin language mostly used in a sort of 'language negotiaton' process - 
+
+Each individual clan seemed to use its own separate dialect or language within the clan,
+  but there wasn't really any common pidgin languages, rather, conversations between members of different clans seemed to just use a random mish-mash of the two
+He'd made some progress and had gotten a grasp on a kind of common pidgin language.
+  
+  this was rarely used for full conversations
+
+a kind of common subset that most of the cities inhabitant's would understand,
+  can ask for basic things.
+But while conversations between total strangers would often start out in this common pidgin dialect,
+  they'd quickly negotiate and move into using more complex 'common dialect'.
+
+While the intersection between everyone could be summarized in this small pidgin dialect,
+  any two people would 
+
+Most conversations between strangers usually started with this,
+  the common ground between any two individuals was often much broader than
+
+tries to learn to speak their language, but they were learning to speak English themselves, very rapidly.
 the roots are indeed mashed and washed to separate out the starch.
+
+This was used to make a slightly-sour-tasting flatbread that formed the main staple of their diet.
+
+Occasionally it would be served with communal dishes of various fillings that you used the flatbread to pick up and then ate with it,
+  but this was something of a luxury at least among the lower classes;
+  these fillings were to provide variety, not to fill you up, and often the bread was just served plain.
+  
+Unfortunately many of the spices they often used in cooking weren't really edible for him,
+  tasting at best kind of funny and at worst downright acrid.
+
+There were a handful he could stomach - some kind of greens with a mild citrus-y flavor,
+  and this other sweet potato analogue that was mildly spicy,
+  needed to start growing his own crops.
+
+
+kai made it into a wrap
+  
+  or used to make a kind of wrap with fillings inside it,
+  
+It was sometimes served with fillings, which were grabbed with a piece of flatbread
 better than nutrient bars though
 
 ----
@@ -188,3 +285,10 @@ kai becomes a Tech Support Wizard.
 
 Travels back to his vehicle, drove back to the capsule, excavated it from mud.
 Strip down all the electronics inside, found a massive socketed CPU.
+
+Portents say: "press OK to continue"
+this is a grave portent indeed.
+
+convert them all to linux?
+
+blessed a baby - write random english words in sharpie on their forehead
