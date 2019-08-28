@@ -36,3 +36,26 @@ So I dropped into your world, I survived for a bit, I lived in a nice town, had 
 Question 6
 I've gotten lucky during my travels and struck it rich beyond belief in your world. Where can I go to live comfortably with my riches and what can I do with them?
 
+----
+
+Kai Travels the Ultiverse Questions 7 + 8!
+
+Well... we did it. We survived, made a living, got married and built a home. Then we lost it all, was real sad and decided to drown that out with 10 years of adventuring. I'm 42 years old, I'm rich, I found my new place of residence. Well, I'm filthy rich and I gotta use it somehow, right?
+
+Q7: Now I'm rich, I'm living in a nice city and I've used my previous experience to marry someone and start a new family. What can I do with my life now? Am I considered an aristocrat or am I just rich? What luxuries await me?
+
+Q8: As time passes, I begin to grow bored. I can't go adventuring again, my family needs me this time around. So, what can I do to pass the time? Money is obviously no issue, so what can I do?
+
+----
+
+Kai Travels the Ultiverse, Questions 9 + 10!
+
+"Everybody wants a happy ending. Right? But it doesn't always roll out that way... Part of the journey is the end." -Tony Stark, Avengers: Endgame 2019
+
+Just a cheeky reference to the movie, but it's true. This has been a wild journey and now, it's the end. Kai has been through a lot and it's sad to see it happen, but this is it. It's the end.
+
+Question 9
+I'm aging now, and the years have taken their toll on me. In my older years, I am not as spry as I once was, so can I remedy this? If not, what preparations must I take before I die?
+
+Question 10
+I've died. What preparations are made for death? My body? What happens to it? Is there an afterlife?
