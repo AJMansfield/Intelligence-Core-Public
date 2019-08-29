@@ -357,8 +357,8 @@ And interactions between members of different communes might _start_ in one of t
 
 It was a blessing, then, that nobody really cared if you spoke any of it _correctly_, whatever that might mean in this context.
 
-They were also, most of the time, _perfectly willing_ to use
-  _whatever_ English they'd _somehow_ managed to just _pick up_ by interacting with you.
+And those you frequently interacted with were also, most of the time, _perfectly willing_ to use
+  whatever English they'd _somehow_ managed to just _pick up_ by interacting with you.
 
 On the plus side,
   you'd managed to get a rough handle on the most common pidgin language and some key vocabulary,
