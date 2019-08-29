@@ -11,62 +11,146 @@
 
 ----
 
-Approach air-supported dome city.
+You hike along the now gravel road, approaching closer to the domes of the settlement ahead,
+  when you first encounter them.
+A group of small humanoids that look to be around four feet tall,
+  laboring in one of the fields along the road.
 
-Frontier world settlement, "ketterexcha"
-- majority inhabitants are kenders/phascolians
-- population: 10,000 adults, across about a thousand different clan/tribe/colony groups
-- has several large air-supported domes "wards", harmonic law sizing
+Their skin color varies, some what tan but easily within the range of human skin colors,
+  and they wear fabric cover-alls, long-sleeved shirts, and gloves to protect themselves.
 
-Encounter group laboring in a field, hail them.
-- your words repeated back at you
-- don't share a language with them, of course
-- you are about 50% taller and generally larger than them
-- able to communicate graphically - draw orbit, reentry
+They even have hair on their heads, of a sort,
+  although as you get closer it looks more like long stringy feathers than your own hair.
+Several of them have a colorful stripe down the middle.
 
-Approach work gang in field.
-Hail them.
-One who seems a kind of leader hails you back, and goes back to working.
+As you pass, one of them waves and hails you in an alien tonge,
+  calling in a seemingly-friendly way.
 
-Pantomime the work action, point at self.
+This work crew is harvesting the tubers you saw earlier,
+  twisting to uproot them, cutting off and discarding the leafy tops.
+The cut tubers are stacked in piles before being loaded onto a small trailer behind a suitably-sized tractor.
 
-Harvesting tubers from the field.
+No reason to be unfriendly back.
+In fact, as you wave in response, you realize this could be the perfect opportunity.
 
-Work gang eventually slows, and they all break for lunch.
+You set down your pack and retrieve your knife,
+  then step into the field,
+  immitating the process you just saw performed.
+With your size, you're able to pull up the tubers easily,
+  and after a moment you've managed to uproot and decapitate a half-dozen of them.
 
-You eat a ration bar. Making idle conversation even though don't understand.
-Kender have already gained several linguistics points in English just from the brief dialogue.
+The worker loading the stacks into the trailer has paused to look at you,
+  uncertain of your intent,
+  and you carry the six you've harvested over to stack them in the trailer yourself.
+You could easily carry more than six, but this helps clarify your intent.
+Nothing like a bit of free labor to help put any fear at ease.
 
-"These things must be good eating, seein' as you're growing em everywhere it seems."
+As you work, you do occasionally see one of the others watching you.
+Perhaps they're simply puzzled by the strange hulking giant that randomly showed up and decided to help,
+  although you like to think they're impressed with your strength and speed,
+  as the stacks of tubers beside you grow.
 
-foreman: "Eat?" made affirmative hand gesture. "good good eat!"
+Eventually, as the sun reaches its zenith,
+  one of the workers &mdash; possibly the crew's foreman &mdash;
+  calls a break.
 
-pulls a tuber from the wheelbarrow, hands it to him
+The dozen or so laborers congregate by the trailer,
+  sitting on stacks of tubers that have yet to be loaded,
+  and pass around canteens of water.
 
-"good eat!"
+You retrieve one of your canteens from where you left your bag,
+  and drink thirstily,
+  before pulling out one of your ration bars.
 
-crew is watching you
+The foreman calls over to you, again in a language you don't understand,
+  but it's clear he's invited you to join them by the trailer,
+  and you do.
 
-puzzled for a moment, then foreman pantomimes biting it
+Many of the crew are clearly nervous with your presence, though,
+  and make only minimal conversation among themselves.
+They all appear to be eating some sort of flatbread,
+  and you munch on your ration bar in silence.
 
-"sure, if you're offering" you bite in and about to spit it out
+Eventually, you break the silence.
 
-glance around, crew is lol-ing.
-realizing this is a joke at your expense, decide to play along
+"These things must be good eating.
+Seein' as you're growing them everywhere it seems," you say,
+  indicating the stacked tubers.
 
-nod, "good eat! you want?" you hand it back enthusiastically, pressing it on him
+"Eating?" the foreman asks, with a slight tilt of the head,
+  and made an affirmative-looking hand gesture.
+"Good, good eating!" He picks up a tuber and hands it to you,
+  and you accept it, not sure what else to do.
 
-rest of crew lols even harder and he reluctantly takes it back
-like he's now expected to take a bite too
+"Good eating!" he says again, with emphasis, and after a moment pantomimes taking a bite out of it.
 
-you can't help yourself, and finally spit out the bit of tuber, gagging in the midst of both the crew's and your own laughter.
-take a swig from your canteen to try to wash out the nasty flavor, swishing it around and spitting on the ground
+The rest of the crew is watching, and so you take a bite.
 
-"very good eat!" you grin at him, and after a moment he joins laughing
+Immediately gag from the taste.
+The raw tuber is incredibly bitter.
 
-clearly all in good fun, and this had broken the ice.
+But as you look around, the crew seems to find this ... _funny_.
+Was this intended as a joke?
 
-Conversing in their alien dialect, and some efforts at conversing with him.
+You decide to take it that way,
+  and so rather than immediately spitting it out,
+  you force yourself to grin.
+
+"Good, good eating! You want?"
+He offered it back to the foreman.
+The crew's gaze turned to him, and he accepted it reluctantly, like he was being pressured into it.
+
+The foreman eyed the tuber nervously.
+
+_This_ was _a joke._
+
+At that moment you couldn't hold it any more, and spat out the chunk of the tuber,
+  coughing and laughing.
+The rest of the crew followed, making a sound that must be analagous to it.
+
+"Good eating!" you state again, emphatically,
+  before rinsing your mouth out with water from your canteen
+  and spitting out onto the ground.
+
+Clearly, this was all meant in good fun, and the foreman joins the laughter,
+  clearly relieved he won't be forced to take a bite himself.
+
+In that moment, the ice was broken, and conversation could flow freely.
+You don't understand most of their words,
+  but you don't need to to understand that you'd been judged and found worthy.
+You just follow along as best you can &mdash; you'll need to learn the local language eventually &mdash;
+  and comment in your own language as it seems appropriate.
+
+"What's the word for these tuber things anyway?" you find yourself asking,
+  holding the one you'd bitten almost as a trophy.
+
+"Word? _tsutssupkan_," replies the workman beside you,
+  and points at another of the tubers,
+  to ensure you understand that he's giving the name for this root in case he misunderstood the question.
+
+He pronounces the word with a particular emphasis on the _ss_ and a very subtle _k_ sound that you're not quite sure you can reproduce,
+  but you nod, confirming that that was what you had asked, and try your best anyway to say it back.
+
+"Tsoo-tsoop-kan," you say.
+
+"Tsutssupkan." He nods back, and this time pronounces it the way you did.
+
+He pauses for a moment, then asks, "word for ... you?"
+
+"Kai. My name is Kai." You point to yourself.
+
+"Small word, for big ..." he motions at you, indicating your large relative size.
+
+"I guess so," you say. "So what's your name?"
+
+----
+
+You nod, confirming that that was what you had asked.
+
+The workman next to you points to He pointed at another of the tubers, indicating this was their name for it, adn 
+
+Eventually, the conversation slowed, you finished your ration bar,
+  and they finished the unusual-looking pieces of flatbread they'd pulled out.
 
 "Could probably use a little salt though. Although I guess it needs to be cooked first or something."
 
