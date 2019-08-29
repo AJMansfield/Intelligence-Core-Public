@@ -45,6 +45,11 @@ The worker loading the stacks into the trailer has paused to look at you,
 You could easily carry more than six, but this helps clarify your intent.
 Nothing like a bit of free labor to help put any fear at ease.
 
+Despite your size, this is still hard work.
+You've been able to adjusted some to the lower oxygen atmosphere,
+  but you still occasionally gasp for air,
+  and sweat drips down your back.
+
 As you work, you do occasionally see one of the others watching you.
 Perhaps they're simply puzzled by the strange hulking giant that randomly showed up and decided to help,
   although you like to think they're impressed with your strength and speed,
@@ -98,11 +103,11 @@ You decide to take it that way,
 
 "Good, good eating! You want?"
 He offered it back to the foreman.
-The crew's gaze turned to him, and he accepted it reluctantly, like he was being pressured into it.
+The crew's gaze turned to him, and he accepted it reluctantly, as if he was being pressured into it.
 
 The foreman eyed the tuber nervously.
 
-_This_ was _a joke._
+This _was_ meant as a joke.
 
 At that moment you couldn't hold it any more, and spat out the chunk of the tuber,
   coughing and laughing.
@@ -113,9 +118,10 @@ The rest of the crew followed, making a sound that was fairly analagous.
   and spitting out onto the ground.
 
 Clearly, this was all meant in good fun, and the foreman joins the laughter,
-  clearly relieved he won't be forced to take a bite himself.
+  relieved he won't be forced to take a bite himself.
+Even for them, these tubers require processing to be edible.
 
-In that moment, the ice was broken, and conversation could flow freely.
+In that moment, the ice breaks, and conversation flows freely.
 You don't understand most of their words,
   but you don't need to to understand that you'd been judged and found worthy.
 You just follow along as best you can &mdash; you'll need to learn the local language eventually &mdash;
@@ -145,102 +151,143 @@ He pauses for a moment, then asks, "word for ... you?"
 
 ----
 
-You nod, confirming that that was what you had asked.
+You work alongside the ... what were you going to refer to them as?
 
-The workman next to you points to He pointed at another of the tubers, indicating this was their name for it, adn 
+They'd identified as '_Ksip-pukt-sim-nmi_' or something like that,
+  using some subtle alien pronounciations that your human mouth couldn't quite articulate,
+  but you had a sense that this was a name for just this particular group,
+  and you hadn't quite been able to communicate desire to know their name for the species as a whole.
 
-Eventually, the conversation slowed, you finished your ration bar,
-  and they finished the unusual-looking pieces of flatbread they'd pulled out.
+Anyway, you work alongside the halflings for several more hours,
+  until finally the field is harvested.
+The trailer is stacked full of the tubers,
+  and you retrieve your pack to follow the crew as they walk behind it to the city up ahead.
 
-"Could probably use a little salt though. Although I guess it needs to be cooked first or something."
+As you walk, the foreman &mdash; who'd identified as '_Ye-o-ne-e_' and who'd accepted your nickname 'Leon',
+  poses a question to you.
+"Where was Kai go?"
 
-Discussion started up, the crew chatting about something-or-other.
+"I don't really have anywhere. I guess, with you? To the city?"
+You gesticulate to illustrate your meaning as best you can.
 
-Tried to follow along, although difficult pronounciations - you suppose you're probably going to have to learn the language.
+You'd expected to have to learn the local language,
+  but the fact they were willing &mdash; and for that matter _able_ &mdash; to learn yours,
+  _this_ rapidly, had been a surprise.
 
-still got caught up in the general flow of conversation.
-"What's the word for these anyway?" you ask.
-hold up the root, don't expect them to understand or answer.
+He frowns for a moment before attempting to clarify.
+"I mean, where was Kai go .. go _before_?"
 
-get response "{complex xeno word}"
+You sigh, memories you'd rather forget returning, of your old life on Earth.
+"I come from a long, _long_ way from here."
 
-tried not to mangle the pronounciation, repeating it and pointing at the root.
+"From ... up?" He indicates the sky.
 
-foreman repeats his simplified pronounciation and nodded. apparently that was good enough for them.
+You suppose that's accurate.
 
-foreman introduces himself, points at self and says what could be assumed was his name
-go around, get names
-
-tried to remember them, but brain not geared for these xeno pronounciations
-
-points at him
-
-"me?". you point to yourself, "kai"
-
-"small word for big {stranger}"
-
-eventually things die down, and kenders start standing back up
-
-"how many more hours until you guys usually knock off for the day?"
-
-kender cocks head
-
-understood from context
-
-spouting xeno jabber then stops
-
-"kai here", points down then up in the sky.
-"work here", sweeps arm from there to where the sun shone in the sky
-
-ok, clearly indicating the time by the position of the sun
-swept further, then pointed toward the domes "go here"
-
-Two more hours.
-easy
-
-returned to the field with the crew
+"Many of us, too, come from up, before here."
 
 ----
 
-two hours passed 
+Finally, you approach the entrance to the city.
+In addition to the large domes you'd seen from afar,
+  there are many smaller domes scattered around,
+  some seemingly isolated, others connected by small tunnels.
 
-f: "where is kai go"
+There's also other, smaller outbuildings, not covered by any dome,
+  and you see trickles of both foot and vehicular traffic move in and out of a squat building at the edge of the dome,
+  large roll doors opening and closing with each wave.
 
-k: strange, choppy. "with you, to the city"
+Your theory that these were air-supported domes appears to have been correct.
 
-f: frown, "I mean, where is kai, go ... go _before_?"
+All the people you see are of the same halfling species as the group you follow,
+  although there's significant color variation,
+  skin tones ranging from deep oranges and pale tans to burnt reds and dark browns.
 
-k: "where am I from? I'm from Earth."
-you point in the general direction in the sky.
-memories of all you'd been forced to leave behind.
+Although, as you look again,
+  beneath the grime your group itself has quite a bit of variation, even just between its own members.
 
-f: "earth has ... big?" indicated your large size, somewhat generally
+You follow the group into one of the smaller entrance buildings.
+The trailer is rolled onto a truck scale and unhitched from the tractor,
+  and the rest of the group stands around as Leon speaks to the guard stationed here.
 
-k: yeah, earth has lots of humans. sigh. Perhaps too many, some say.
+The language they're speaking is very different from the one the crew had used among themselves earlier,
+  although there were _some_ similarities.
+You pick out the word _tsutssupkan_ again,
+  but you almost miss it; pronounciation was _quite_ different from the version you'd learned.
+
+After a moment though, the conversation starts becoming more heated.
+Both of them are gesticulating towards you, and you hear your name used.
+
+Leon breaks off and stalks back,
+  wearing an expression you interpret as frustration.
+
+"The ... " he gesticulates, and you fill in.
+
+"Guard?"
+
+"The guard, he wants ..."
+He indicates the ring you wear on your finger.
+"Or not give ... not let you in."
+
+The meaning was clear.
+The guard expected a bribe, in exchange for some kind of ID card or token you'd need to be allowed in the city.
+
+As much as the memory associated with that ring pains you,
+  it still wasn't one you wished to give up.
+
+"Is there anything else I can give him?" you ask,
+  as you try to figure out what else you had that they might be willing to accept.
+
+Several other members of the crew obviously didn't like this eather,
+  and one of them spat on the floor.
+"Not his to say."
+
+Your mental search comes up empty.
+And you can't exactly afford coming into conflict with the authorities this early on.
+
+The crew seems to be getting agitated, but you put up your hand, and slip the ring off.
+
+"It's ok, I'll pay the bribe."
+
+You hand the ring over, and the halfling slips it into a small pouch.
+He slides across a form covered in alien heiroglyphics.
+
+Leon sees your confusion, and waves the rest of the crew ahead,
+  taking the form from you and filling out most of it before sliding it back.
+
+"How you ..." he pantomimes moving his pen.
+
+"Write?"
+
+"Write." He nods, and points to a handful of fields, indicating what you needed to put there.
+"How you write name of Kai,
+  how you write where you're from."
+He hands you the pen.
+
+You're no judge of alien writing, but Leon's is incredibly neat and tidy,
+  in perfect vertical columns with straight lines and precise circles.
+If it weren't for the small dots of ink at the beginning and end of each stroke and the impressions in the page,
+  you might have thought it typewritten.
+
+The first two fields make sense at least,
+  and you write out 'K-A-I' as neatly as you can in block letters,
+  then 'E-A-R-T-H'.
+
+Leon looks over the form,
+  then hands it to the official.
+
+The official pulls out a round plastic disc the size of a bottle cap,
+  covered on one side with some kind of geometric seal.
+He flips it over, and writes something on the other side,
+  then hands it to you,
+  saying something that you take to mean "don't cause any trouble."
+
+You nod. You don't want any trouble.
+You thread the disc onto a lanyard so you don't lose it.
+
+At last, you're able to exit the gatehouse, and enter the city proper.
 
 ----
-
-get to entrance to dome with the cartload of roots
-
-guards stop your group at the gate
-
-Interrogating foreman about kai. lots of pointing and aggressive gesticulation.
-Also, they're speaking an entirely different language.
-
-guards argue that kai is big and dangerous and should be excluded
-foreman says he works hard
-
-f: "not all work big here either"
-f: "the ..." motined at guard, and kai completes, "guard?"
-f: guard wants (kai's valuable item)
-f: "now, then he give {passport}"
-f: spat, "not his to say"
-
-k: doesn't want to give up the valuable
-k: all too familiar with the concept of corruption
-k: seems a small price to pay to avoid coming into conflict with the authorities this early on
-k: "It's ok, I'm fine with that."
-takes off necklace, and hands it to the greedy-looking guard
 
 guard gives kai an official-looking pass thinger
 
