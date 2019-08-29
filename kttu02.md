@@ -106,7 +106,7 @@ _This_ was _a joke._
 
 At that moment you couldn't hold it any more, and spat out the chunk of the tuber,
   coughing and laughing.
-The rest of the crew followed, making a sound that must be analagous to it.
+The rest of the crew followed, making a sound that was fairly analagous.
 
 "Good eating!" you state again, emphatically,
   before rinsing your mouth out with water from your canteen
