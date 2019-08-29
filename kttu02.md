@@ -55,8 +55,8 @@ Perhaps they're simply puzzled by the strange hulking giant that randomly showed
   although you like to think they're impressed with your strength and speed,
   as the stacks of tubers beside you grow.
 
-Eventually, as the sun reaches its zenith,
-  one of the workers &mdash; possibly the crew's foreman &mdash;
+Eventually, the sun reaches its zenith,
+  and one of the workers &mdash; possibly the crew's foreman &mdash;
   calls a break.
 
 The dozen or so laborers congregate by the trailer,
@@ -91,19 +91,19 @@ Seein' as you're growing them everywhere it seems," you say,
 
 The rest of the crew is watching, and so you take a bite.
 
-Immediately gag from the taste.
+You immediately retch from the taste.
 The raw tuber is incredibly bitter.
 
 But as you look around, the crew seems to find this ... _funny_.
-Was this intended as a joke?
+Was this some sort of practical joke, played at his expense?
 
 You decide to take it that way,
   and so rather than immediately spitting it out,
   you force yourself to grin.
 
-"Good, good eating! You want?"
+"Good, good eating! You want some?"
 He offered it back to the foreman.
-The crew's gaze turned to him, and he accepted it reluctantly, as if he was being pressured into it.
+The crew's gaze turned to him, and he accepted it reluctantly, as if they were all now pressuring _him_ into it.
 
 The foreman eyed the tuber nervously.
 
@@ -294,45 +294,91 @@ At last, you're able to exit the gatehouse, and enter the city proper.
 
 ----
 
+You spend most of your first week in the city adjusting to the city's norms.
+Or, in many cases, the lack thereof.
 
-small communes of around 20 adults of both sexes
-Work crew offered him a place to stay for a few days, while he got his bearings in the city.
-He spent most of the day working in the fields with this crew.
+Probably the most striking difference was that halflings didn't form nuclear families the way humans did,
+  but rather live in larger communes of a sort,
+  usually somewhere from fifteen to thirty older adults, and any of the commune's children.
 
+Most of the work crew were all part of one such commune,
+  but two of the younger ones were in a different category.
+About twenty percent of this city's population consisted of these younger migrant workers,
+  and who mostly lived in separate apartment housing from the main residential commune areas.
 
+The two migrants on the crew had helped you find such an apartment near theirs,
+  but apparently unemployment and homelessness were fairly common among this migrant population,
+  and you often passed alleyways containing lean-tos and make-shift shelter.
 
+Crime, at least, didn't seem to be very common,
+  likely due to the city government's brutal justice system.
+If you were arrested, pled innocent, and were convicted, the only possible outcome was execution.
+For some crimes at least,
+  you had the right to opt for immediate summary exile rather than contesting the charge,
+  but even then, criminals were usually given a brand indicating the crime they were accused of,
+  and on _this_ planet, if your brand was damming enough that wouldn't necessarily be _better_ than execution, just slower.
 
-spoken languages were apparently very fluid for kender.
+You did your best to stay out of trouble.
 
-It was often said on Earth that English was really three languages in a trenchcoat, robbed other languages in dark alleys and going through their pockets for loose grammar.
+The population seemed to be about half male and half female &mdash;
+  sexual dimorphism was indeed something they had in common with humans &mdash;
+  but to your eyes, distinguishing between them wasn't always obvious.
 
-If that was the case, the ... _languages_, if the term really even still applied,
-  that these kenders spoke was some kind of unholy abomination that had been pulled directly from some primordial soup of elemental chaos.
+The one difference you could make out was that it was _usually_ men who had a colored stripe in the middle of their hair,
+  but that wasn't always completely accurate either.
 
-Across even _this_ small settlement of about ten thousand people,
+Not that it mattered. They didn't really seem to have gender-specific roles;
+  an individual's role in society was defined by their role in their commune, and that could be anything, it seemed.
+
+Spoken language was apparently a _very_ fluid concept for these halflings.
+
+It was often said on Earth that the English language was really three languages stacked on top of each other wearing a trench coat.
+That it regularly pursued other languages down alleyways to beat them unconscious and rifle their pockets for new vocabulary.
+
+If that was the case, the ... _languages_, if that was even the right term for what these halflings spoke,
+  was some kind of eldrich abomination wrested from the elemental chaos and given flesh.
+
+Across even _this_ small city,
   there wasn't just _one_ common language, or even _two_.
 There were literally _thousands_ of distinct dialects and languages,
   all bleeding into each other in a horible convoluted mess.
 
-As far as can tell, there _were_ a relatively small number of common-ish pidgin languages &mdash; maybe a half-dozen &mdash;
-  but these were really only ever used when starting a conversation with a stranger,
-  and in real conversation would rapidly evolve into some kind of ad-hoc 'best common subset' language common to its participants.
+As far as can tell, there _were_ a relatively small number of pidgin "greeting" languages &mdash; maybe a half-dozen &mdash; 
+  that most people knew,
+  but these were really only ever used when initiating conversation with a total stranger,
+  or as a starting point for when two speakers really had no other language in common.
+
+Within a single commune,
+  there were usually one or two reasonably-consistent but _distinct_ languages or dialects used for most purposes.
+
+And interactions between members of different communes might _start_ in one of these 'greeting languages',
+  but conversation would rapidly morph into a kind of ad-hoc 'best common subset' language,
+  which might possibly be _unique_ to _that specific interaction_.
+
+It was a blessing, then, that nobody really cared if you spoke any of it _correctly_, whatever that might mean in this context.
+
+They were also, most of the time, _perfectly willing_ to use
+  _whatever_ English they'd _somehow_ managed to just _pick up_ by interacting with you.
 
 On the plus side,
-  he'd managed to get a handle on the most common pidgin 'greeting language' used here,
-  and he was able to conduct most business using a mix of _English_ with this pidgin,
-  using grammar and vocabulary many of the kenders had somehow just _picked up_ interacting with him.
+  you'd managed to get a rough handle on the most common pidgin language and some key vocabulary,
+  and you were able to make yourself understood most of the time.
+
 But at the same time,
-  by using that greeting language he was basically greeting everyone as a stranger all the time &mdash;
-  making him a sort of permanent foreigner &mdash;
-  and the lack of 'linguistic reciprocity' in these exchanges
-  generally gave the impression that he was somewhat dim-witted or perhaps childish.
+  the fact you could only really speak that minimal subset
+  marked you as a foreigner in a way that even your large relative size didn't.
+And the lack of 'linguistic reciprocity' in most of his exchanges
+  generally left other people with the impression that you were somewhat dim-witted or perhaps childish.
 
 Dammit, you _tried_.
-Your brain just wasn't built for this kind of thing.
-Still, when one of them introduced one of their own terms to a conversation,
-  you did your best to _try_ to remember and use it, at least for that conversation;
-  show you were at least _trying_ to reciprocate.
+When someone introduced one of their own terms in a conversation,
+  you did your best to try to infer the meaning and remember it, at least for that conversation.
+It at least showed you were _trying_ to reciprocate;
+  'dim-witted' was certainly a better impression than 'intentionally rude'.
+
+Your brain just wasn't _built_ to handle this sort of insanity.
+
+----
 
 the roots are indeed mashed and washed to separate out the starch.
 
