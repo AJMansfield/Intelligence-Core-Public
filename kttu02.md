@@ -208,7 +208,7 @@ Although, as you look again,
 
 You follow the group into one of the smaller entrance buildings.
 The trailer is rolled onto a truck scale and unhitched from the tractor,
-  and the rest of the group stands around as Leon speaks to the guard stationed here.
+  and the rest of the group stands around as Leon speaks to some kind of uniformed official stationed here.
 
 The language they're speaking is very different from the one the crew had used among themselves earlier,
   although there were _some_ similarities.
@@ -230,7 +230,8 @@ He indicates the ring you wear on your finger.
 "Or not give ... not let you in."
 
 The meaning was clear.
-The guard expected a bribe, in exchange for some kind of ID card or token you'd need to be allowed in the city.
+The guard &mdash; probably more customs official &mdash;
+  expected a bribe, in exchange for some kind of ID card or token you'd need to be allowed in the city.
 
 As much as the memory associated with that ring pains you,
   it still wasn't one you wished to give up.
@@ -245,12 +246,16 @@ Several other members of the crew obviously didn't like this eather,
 Your mental search comes up empty.
 And you can't exactly afford coming into conflict with the authorities this early on.
 
-The crew seems to be getting agitated, but you put up your hand, and slip the ring off.
+The crew seems to be getting agitated,
+  and another uniformed halfling tightens their grip on what was most definitely a halfling-sized assault rifle.
 
-"It's ok, I'll pay the bribe."
+This wasn't worth getting into trouble over.
+You put up your hand, and slip the ring off.
 
-You hand the ring over, and the halfling slips it into a small pouch.
-He slides across a form covered in alien heiroglyphics.
+"It's ok, I'll pay the bribe," you say.
+
+You hand the ring over, and the official slips it into a small pouch at his waist.
+He hands you an official-looking form covered in alien heiroglyphics.
 
 Leon sees your confusion, and waves the rest of the crew ahead,
   taking the form from you and filling out most of it before sliding it back.
@@ -259,9 +264,9 @@ Leon sees your confusion, and waves the rest of the crew ahead,
 
 "Write?"
 
-"Write." He nods, and points to a handful of fields, indicating what you needed to put there.
-"How you write name of Kai,
-  how you write where you're from."
+"Write." He nods. He points to one of the remaining boxes, and then to another.
+"How you write name of Kai, and how you write where you're from."
+
 He hands you the pen.
 
 You're no judge of alien writing, but Leon's is incredibly neat and tidy,
@@ -286,26 +291,6 @@ You nod. You don't want any trouble.
 You thread the disc onto a lanyard so you don't lose it.
 
 At last, you're able to exit the gatehouse, and enter the city proper.
-
-----
-
-guard gives kai an official-looking pass thinger
-
-f: "do all work big on earth, like kai?"
-
-no.
-
-foreman shook his head.
-before, they say, everyone work big here.
-if you work big, eat good.
-no good anywhere.
-
-kai gets paid some shekels - a handful of _computer chips_ - from Earth, of all places
-heard that human-made electronics were considered extremely valuable off of Earth,
-  but hadn't realized that might extend to using them as currency.
-None of the other workers were getting paid here.
-
-A handful of SIM cards, some of which had been clipped in half like pieces of eight.
 
 ----
 
