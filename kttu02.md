@@ -298,34 +298,38 @@ You spend most of your first week in the city adjusting to the city's norms.
 Or, in many cases, the lack thereof.
 
 Probably the most striking difference was that halflings didn't form nuclear families the way humans did,
-  but rather live in larger communes of a sort,
-  usually somewhere from fifteen to thirty older adults, and any of the commune's children.
+  but rather live in larger clans or maybe communes,
+  usually somewhere from fifteen to thirty older adults, and any of the clan's children.
 
-Most of the work crew were all part of one such commune,
+Most of the work crew were all part of one such clan,
   but two of the younger ones were in a different category.
-About twenty percent of this city's population consisted of these younger migrant workers,
-  and who mostly lived in separate apartment housing from the main residential commune areas.
+About twenty percent of this city's population seemed to consist of these younger migrant workers,
+  who mostly lived in a separate area of the city from any clan they might otherwise be associated with.
 
 The two migrants on the crew had helped you find such an apartment near theirs,
   but apparently unemployment and homelessness were fairly common among this migrant population,
-  and you often passed alleyways containing lean-tos and make-shift shelter.
+  and you often passed alleyways in those districts containing lean-tos and make-shift shelters.
 
-Crime, at least, didn't seem to be very common,
+Crime, though, &mdash; aside from petty corruption &mdash;
+  seemed to be nearly nonexistant,
   likely due to the city government's brutal justice system.
-If you were arrested, pled innocent, and were convicted, the only possible outcome was execution.
+
+If you were arrested, contested the accusations, and were convicted, the only possible outcome was execution.
+
 For some crimes at least,
-  you had the right to opt for immediate summary exile rather than contesting the charge,
-  but even then, criminals were usually given a brand indicating the crime they were accused of,
-  and on _this_ planet, if your brand was damming enough that wouldn't necessarily be _better_ than execution, just slower.
+  you could opt for immediate summary exile from the city rather than contesting,
+  but even then, criminals were usually given a brand indicating the crime they were accused of.
+And on _this_ unforgiving planet,
+  a damming-enough brand wouldn't necessarily be _better_ than execution, just slower.
 
 You did your best to stay out of trouble.
 
 The population seemed to be about half male and half female &mdash;
   sexual dimorphism was indeed something they had in common with humans &mdash;
-  but to your eyes, distinguishing between them wasn't always obvious.
+  but to your eyes, distinguishing between them wasn't easy.
 
 The one difference you could make out was that it was _usually_ men who had a colored stripe in the middle of their hair,
-  but that wasn't always completely accurate either.
+  but that wasn't always the case.
 
 Not that it mattered. They didn't really seem to have gender-specific roles;
   an individual's role in society was defined by their role in their commune, and that could be anything, it seemed.
@@ -467,4 +471,4 @@ You weren't willing to part with any of your functional electronics,
 If so, you needed a way to get them in the city without having them stolen.
 Or perhaps you could just pay off the guards with a few of the lesser pieces of scrap?
 
-Either way, you'd need some kind of help.
+Either way, you'd need some kind of help from someone who would know this kind of thing.
