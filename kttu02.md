@@ -339,79 +339,132 @@ If that was the case, the ... _languages_, if that was even the right term for w
   was some kind of eldrich abomination wrested from the elemental chaos and given flesh.
 
 Across even _this_ small city,
-  there wasn't just _one_ common language, or even _two_.
-There were literally _thousands_ of distinct dialects and languages,
+  there wasn't just _one_ common language, or even a dozen.
+There were literally _thousands_ of distinct languages and dialects, in _regular use_,
   all bleeding into each other in a horible convoluted mess.
 
-As far as can tell, there _were_ a relatively small number of pidgin "greeting" languages &mdash; maybe a half-dozen &mdash; 
-  that most people knew,
-  but these were really only ever used when initiating conversation with a total stranger,
-  or as a starting point for when two speakers really had no other language in common.
+At least within a single commune,
+  there are usually one or two reasonably-consistent languages or dialects used for most purposes,
+  formed as a mash-up of whatever languages its members knew before settling down together.
 
-Within a single commune,
-  there were usually one or two reasonably-consistent but _distinct_ languages or dialects used for most purposes.
+And, as far as you can tell, there _are_ a half-dozen pidgin 'greeting languages' that most people in the city know.
 
-And interactions between members of different communes might _start_ in one of these 'greeting languages',
-  but conversation would rapidly morph into a kind of ad-hoc 'best common subset' language,
-  which might possibly be _unique_ to _that specific interaction_.
+But, these were basically only ever used when initiating conversation with a total stranger,
+  or as a starting point for when two speakers weren't sure what else they had in common.
 
-It was a blessing, then, that nobody really cared if you spoke any of it _correctly_, whatever that might mean in this context.
+Yes, _starting point_.
 
-And those you frequently interacted with were also, most of the time, _perfectly willing_ to use
+Interactions between strangers might _start_ in one of these 'greeting languages',
+  but by the end of the conversation it will have morphed into a kind of ad-hoc 'best common subset' language,
+  one that might possibly be _unique_ to _that specific interaction_.
+
+It was a blessing, then, that nobody really cares if you speak any of it _correctly_.
+And those you frequently interact with are also, most of the time, _perfectly willing_ to use
   whatever English they'd _somehow_ managed to just _pick up_ by interacting with you.
 
-On the plus side,
-  you'd managed to get a rough handle on the most common pidgin language and some key vocabulary,
-  and you were able to make yourself understood most of the time.
+All things considered,
+  you'd done a remarkable job getting a handle on the most-commonly-used pidgin language and some key local vocabulary.
+You can even make yourself understood,
+  most of the time.
 
-But at the same time,
-  the fact you could only really speak that minimal subset
-  marked you as a foreigner in a way that even your large relative size didn't.
-And the lack of 'linguistic reciprocity' in most of his exchanges
-  generally left other people with the impression that you were somewhat dim-witted or perhaps childish.
+But the fact you can only really speak that minimal pidgin subset
+  marks you as a foreigner in a way that even your large relative size doesn't.
+And the lack of a sort of 'linguistic reciprocity' in most of your exchanges
+  generally leaves others with the impression that you're somewhat dim-witted or perhaps childish.
 
-Dammit, you _tried_.
-When someone introduced one of their own terms in a conversation,
-  you did your best to try to infer the meaning and remember it, at least for that conversation.
-It at least showed you were _trying_ to reciprocate;
-  'dim-witted' was certainly a better impression than 'intentionally rude'.
+Dammit, you _try_.
+When someone introduces one of their own terms in a conversation,
+  you do your best to try to infer the meaning and remember it, at least for that conversation.
+It at least shows you're _trying_ to reciprocate;
+  'dim-witted' is certainly a step up from 'intentionally rude'.
 
-Your brain just wasn't _built_ to handle this sort of insanity.
-
-----
-
-the roots are indeed mashed and washed to separate out the starch.
-
-This was used to make a slightly-sour-tasting flatbread that formed the main staple of their diet.
-
-Occasionally it would be served with communal dishes of various fillings that you used the flatbread to pick up and then ate with it,
-  but this was something of a luxury at least among the lower classes;
-  these fillings were to provide variety, not to fill you up, and often the bread was just served plain.
-  
-Unfortunately many of the spices they often used in cooking weren't really edible for him,
-  tasting at best kind of funny and at worst downright acrid.
-
-There were a handful he could stomach - some kind of greens with a mild citrus-y flavor,
-  and this other sweet potato analogue that was mildly spicy,
-  needed to start growing his own crops.
-
-kai made it into a wrap
-  
-  or used to make a kind of wrap with fillings inside it,
-  
-It was sometimes served with fillings, which were grabbed with a piece of flatbread
-better than nutrient bars though
+Your brain just isn't _built_ to handle this sort of linguistic insanity.
 
 ----
 
-kai becomes a Tech Support Wizard.
+It's the end of the halfling work-week,
+  and you sit beside the two migrants from the crew at at a table outside the _Ksippuktsimnmi_ clan hall,
+  putting away the soft, slightly spongy, and wonderfully astringent flatbread that forms their main dietary staple.
 
-Travels back to his vehicle, drove back to the capsule, excavated it from mud.
-Strip down all the electronics inside, found a massive socketed CPU.
+The bread is made largely from refined _tsutssupkan_ starch,
+  and today there's an unusually large assortment of other dishes along with it.
+There are no utensils; 
+  you simply use a piece of flatbread to scoop or grab some filling directly from the communal dishes,
+  and then eat it and the flatbread together.
 
-Portents say: "press OK to continue"
-this is a grave portent indeed.
+This is something of a luxury, at least among poorer clans in the city like the _Ksippuktsimnmi_'s.
+Most of the time the bread is simply eaten plain,
+  with a minimal amount of other food simply for nutrition and variety.
+Today though, there is more than enough even for you,
+  and you don't have to worry about recieving reproachful looks for eating too much.
 
-convert them all to linux?
+Unfortunately, many of the spices they often used in cooking aren't really edible for you.
+None of it actually smells unpleasant, and most of the spices simply taste kinda bitter,
+  but you steer clear of anything that's even remotely yellow, 
+  still remembering the acrid taste from two nights ago.
+  
+Salt, fat, sugar, and most acidic flavors, though, are universal.
+The leafy green things with the mild citrus-y flavor are pleasant enough,
+  as are what looks like some sort of stewed melon-y gourd thing,
+  and the greasy agar noodle thing.
 
-blessed a baby - write random english words in sharpie on their forehead
+You really need to start growing some of your own crops.
+Your vitamin tablets are going to last you only so long.
+
+Your thoughts turn to the rover you left at the far side of the canyon.
+Most of the equipment you'll need is still there,
+  and as far as you've been able to discern there's no way to actually drive it here without going thousands of miles out of your way.
+Perhaps you can rig a rope across the canyon and bring it across on a pulley,
+  but you'd need to acquire those things first.
+
+Things come to a close, and Leon approaches you and the two migrants.
+He hands them each something, and you're able to get the gist of what he says to them.
+
+Apparently, on top of being fed and provided an apartment, you also get paid.
+
+----
+
+Now _that_ was interesting.
+
+You hadn't really had a chance to see what passed for currency here,
+  but you now held a handful of ancient pre-paid SIM cards &mdash; like for a _mobile phone_, from _Earth_.
+
+You'd heard that human-made electronics were considered valuable outside Earth &mdash;
+  but the thought that they might be used as _currency_ hadn't even crossed your mind.
+
+You counted them up.
+Ten and six-eighths.
+The "eighths" being pie slices from SIM cards that had been cut like old-fasioned pieces of eight.
+
+Most of the intact cards bore colorful logos from a handful of ancient Earth cell providers,
+  back from when they'd all still been separate.
+
+You supposed it made a kind of sense.
+Even though the cards were useless here, these would be almost _impossible_ to counterfeit.
+One would need access to the silicon foundries of Earth, twenty-plus light-years away, to even attempt such a thing,
+  assuming there was a working phone anywhere that could recognise when a legitimate SIM card was inserted.
+
+You'd heard of xeno junk traders buying up huge swathes of Earth's e-waste,
+  thinking it would immediately start working perfectly again the moment they got it out of Earth's energy depression.
+
+Unlike the sigil-based technology these halflings used for daily life,
+  electronics didn't work that way,
+  but you'd never thought about where all that e-waste might have _ended up_.
+
+Still, had _nobody_ really made the connection between you and Earth?
+You hadn't ever actually told anyone you were a "Human", specifically,
+  and you'd only ever written "Earth", that one time on the immigration form.
+Even if they could speak it, odds were these halflings probably couldn't _read_ written English.
+
+Although perhaps that was for the best.
+Attracting too much attention could be dangerous.
+
+Still, the pod you'd landed in, that had a bunch of electronics and flight computers in it.
+Were those valuable?
+You weren't willing to part with any of your functional electronics,
+  but given this strange currency perhaps even scrap electronics might be valuable.
+
+If so, you needed a way to get them in the city without having them stolen.
+Or perhaps you could just pay off the guards with a few of the lesser pieces of scrap?
+
+Either way, you'd need some kind of help.
