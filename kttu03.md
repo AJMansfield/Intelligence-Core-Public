@@ -182,3 +182,9 @@ what is 'puter used for?
   - human spaceships
   - human airplanes
 - vidya gaems
+
+----
+
+dates, woos, marries
+
+dynamic between his own family and his kender clan
