@@ -175,6 +175,7 @@ If you broke something major, getting another that would work could cost you a k
 
 what is 'puter used for?
 - military crypto
+- medical imaging
 - tabulation, statistics
 - engineering calculations
 - running other computerized equipment
