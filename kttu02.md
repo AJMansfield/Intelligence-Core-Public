@@ -490,8 +490,62 @@ nylon: 1 1/2 inch is 0.57 lbm/ft
 
 steel is lighter than nylon
 need 250 ft, that's 105 lbm weighing 84 lbs.
+kai will carry the cable
+
+A frames neex to take 2400 lbf, based on calculator can use 3/4x1-1/2 16ga, 0.94 lbm/ft
+need 4x6 ft, that's 4x5.64 = 22.56 lbm, weighing 4x4.51 = 18 lbs.
+
+plus winches and chains and the smaller pull cable, sand anchors
+
+all in all about 500 lbs of *stuff*
+
+procure a handcart to carry it all
+
+all travel to the crossing point they'd identified with the heavy stuff
+
+leave all but the necessary shovels, sand anchors, and a-frame with the team
+
+note: this is planned to take 4 days, we'll leave cairns
+
+kai and one other hike back to the point where it's possible to descend and ascend
+cross over to other side
+
+have to search for a bit, eventually find the rover
+pull up the tarp, partially buried in wet sand
+
+rover is intact, as are the goods
+
+drive to point opposite the rest of the team, signal them
+
+they launch the lead line, you grab it and pull the steel cable across
+dig in the sand anchor and set up the A-frame, and attach the steel cable.
+
+signal ready. the line goes taut, they signal ready
+
+pull the pulley up and across the canyon. hook is right there.
+
+note: UV, sunscreen
+
+unload the rover, rig up parcels and tow them across
+
+finally time for the rover itself, hook it up, tow it across.
+
+everything is across
+
+final step: hike back and across?
 
 ----
+
+plan is for everyone to cross the canyon, then test things out for real crossing the minor gorge beside
+
+go upriver, to the point where the canyon narrows slightly enough to enable stringing the rope across
+
+then part of team crosses back over to far side
+launch thin string across, tow steel cable across, set up the line, get everything across
+
+not putting people across the line, no way
+
+break down the hawser, far side reels it in, kai and nydia 
 
 kai, morgan, jerry; and also nydia, one of the othe two from the work crew
 
@@ -500,6 +554,7 @@ marked the position of the buggy and also best guess for the pod since they aske
 go several miles upstream with the buggy to a point where the span is much shorter
 
 how is stuff transported? pack animals? wagon? palanquin carried betwen two people?
+
 
 practice how to do it, to make sure they knew what to do
 launch rope across the gorge, tow a bigger cable plus another small cable across
