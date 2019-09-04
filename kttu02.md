@@ -467,9 +467,35 @@ j: I help too
 
 ----
 
+come up with a plan
+continue working this week
+
+aquire a better map of the canyons
+
+one-inch fiber rope, tensile strength 
+what kind of rope or cable is available here?
+
+kai's vehicle is a bit under 1 ton empty
+crossing with a 10:1 sag, cable load factor is about 2.5, a-frame load factor is about 1.5
+
+there is steel cable available. 9/16 steel cable has safe load of 2.7 tons and weighs .53 lb/ft
+nylon rope is available. 1 3/4 nylon is 2.7 tons weighs 0.780 lb/ft
+
+actually, gravity is 'slightly lighter than you're used to' so 0.9 or 0.8?
+gives us a bit more room.
+
+rover weighs 0.8 tons, then we only need 2 ton (4000 lb) cable
+steel: 1/2 inch is 0.42 lbm/ft
+nylon: 1 1/2 inch is 0.57 lbm/ft
+
+steel is lighter than nylon
+need 250 ft, that's 105 lbm weighing 84 lbs.
+
+----
+
 kai, morgan, jerry; and also nydia, one of the othe two from the work crew
 
-have better survey map of the canyon network
+have aquired a better survey map of the canyon network
 marked the position of the buggy and also best guess for the pod since they asked
 go several miles upstream with the buggy to a point where the span is much shorter
 
@@ -481,4 +507,4 @@ both sides set up a-frame footer and dig a sand anchor
 signal mirror flash to launching side indicating it's anchored, ready to tension the main cable
 use small rope to pull payload attached to pulley across the canyon on the main cable
 
-Similar principle to breeches buoy reenactments
+Similar principle to breeches buoy process. Reference reenactments on youtube.
