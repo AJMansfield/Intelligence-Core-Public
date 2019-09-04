@@ -281,60 +281,63 @@ The first two fields make sense at least,
 Leon looks over the form,
   then hands it to the official.
 
-The official pulls out a round plastic disc the size of a bottle cap,
-  covered on one side with some kind of geometric seal.
+The official pulls out a white plastic disc the size of a half-dollar coin,
+  covered on one side with some kind of colorful geometric seal.
 He flips it over, and writes something on the other side,
   then hands it to you,
   saying something that you take to mean "don't cause any trouble."
 
 You nod. You don't want any trouble.
-You thread the disc onto a lanyard so you don't lose it.
+You also definitely don't want to lose it.
+You use the small hole at the disc's perimeter to thread it onto a lanyard.
 
 At last, you're able to exit the gatehouse, and enter the city proper.
 
 ----
 
 You spend most of your first week in the city adjusting to the city's norms.
-Or, in many cases, the lack thereof.
 
-Probably the most striking difference was that halflings didn't form nuclear families the way humans did,
-  but rather live in larger clans or maybe communes,
-  usually somewhere from fifteen to thirty older adults, and any of the clan's children.
+Probably the most striking difference is that these halflings don't seem to form nuclear families the way humans do,
+  but rather live in larger clans of usually somewhere from fifteen to thirty older adults.
 
-Most of the work crew were all part of one such clan,
-  but two of the younger ones were in a different category.
-About twenty percent of this city's population seemed to consist of these younger migrant workers,
-  who mostly lived in a separate area of the city from any clan they might otherwise be associated with.
+The _Ksippuktsimnmi_ clan you've fallen in with seems to have around twenty members,
+  most of which you met working in the field the first day,
+  and about two thirds which you've learned are actually female.
 
-The two migrants on the crew had helped you find such an apartment near theirs,
-  but apparently unemployment and homelessness were fairly common among this migrant population,
-  and you often passed alleyways in those districts containing lean-tos and make-shift shelters.
+To your eyes about the only difference you can make out is that it's _usually_ men
+  who have a colored stripe in the middle of their head hair,
+  although that doesn't seem to be a hard-and-fast rule.
+
+However, aside from the clan members, four of the younger halflings on the crew are apparently in a different category.
+They, and you, aren't really considered part of the clan,
+  but more like hired help.
+
+About twenty percent of this city's population seems to consist of this younger migrant worker class,
+  and most of them live in a separate area of the city away from the _Ksippuktsimnmi_ clan building.
+
+For the moment, you stay with two of the migrants, who you manage to coerce the nicknames "Jerry" and "Morgan" from.
+The two of them share a very small apartment in the migrant district,
+  and with a third occupant of your size it feels rather crowded,
+  but you make do, and are grateful for it.
+
+Apparently unemployment and homelessness are common among this population,
+  and you often passed alleyways in the migrant districts containing lean-tos and make-shift shelters.
 
 Crime, though, &mdash; aside from petty corruption &mdash;
   seemed to be nearly nonexistant,
   likely due to the city government's brutal justice system.
 
-If you were arrested, contested the accusations, and were convicted, the only possible outcome was execution.
+If one were arrested and convicted of a crime, the only possible outcome was execution.
 
 For some crimes at least,
-  you could opt for immediate summary exile from the city rather than contesting,
+  it seemed you could opt for immediate summary exile from the city rather than contesting any accusation,
   but even then, criminals were usually given a brand indicating the crime they were accused of.
 And on _this_ unforgiving planet,
-  a damming-enough brand wouldn't necessarily be _better_ than execution, just slower.
+  depending on the time of year that might not be _better_ than execution, just slower.
 
-You did your best to stay out of trouble.
+You do your best to stay out of trouble.
 
-The population seemed to be about half male and half female &mdash;
-  sexual dimorphism was indeed something they had in common with humans &mdash;
-  but to your eyes, distinguishing between them wasn't easy.
-
-The one difference you could make out was that it was _usually_ men who had a colored stripe in the middle of their hair,
-  but that wasn't always the case.
-
-Not that it mattered. They didn't really seem to have gender-specific roles;
-  an individual's role in society was defined by their role in their commune, and that could be anything, it seemed.
-
-Spoken language was apparently a _very_ fluid concept for these halflings.
+One thing you do have significant trouble with is the language.
 
 It was often said on Earth that the English language was really three languages stacked on top of each other wearing a trench coat.
 That it regularly pursued other languages down alleyways to beat them unconscious and rifle their pockets for new vocabulary.
@@ -343,17 +346,16 @@ If that was the case, the ... _languages_, if that was even the right term for w
   was some kind of eldrich abomination wrested from the elemental chaos and given flesh.
 
 Across even _this_ small city,
-  there wasn't just _one_ common language, or even a dozen.
+  there wasn't just _one_ language, or even a dozen.
 There were literally _thousands_ of distinct languages and dialects, in _regular use_,
   all bleeding into each other in a horible convoluted mess.
 
-At least within a single commune,
-  there are usually one or two reasonably-consistent languages or dialects used for most purposes,
-  formed as a mash-up of whatever languages its members knew before settling down together.
+At least within a single clan,
+  there are usually one or two reasonably-consistent languages or dialects used within the clan for _most_ purposes.
 
 And, as far as you can tell, there _are_ a half-dozen pidgin 'greeting languages' that most people in the city know.
 
-But, these were basically only ever used when initiating conversation with a total stranger,
+But, these are basically only ever used when initiating conversation with a total stranger,
   or as a starting point for when two speakers weren't sure what else they had in common.
 
 Yes, _starting point_.
@@ -387,47 +389,49 @@ Your brain just isn't _built_ to handle this sort of linguistic insanity.
 ----
 
 It's the end of the halfling work-week,
-  and you sit beside the two migrants from the crew at at a table outside the _Ksippuktsimnmi_ clan hall,
-  putting away the soft, slightly spongy, and wonderfully astringent flatbread that forms their main dietary staple.
+  and you sit beside the other hired workers at at a table outside the _Ksippuktsimnmi_ clan hall,
+  putting away the soft, slightly spongy flatbread that forms their main dietary staple.
 
 The bread is made largely from refined _tsutssupkan_ starch,
-  and today there's an unusually large assortment of other dishes along with it.
+  and isn't incredibly flavorful,
+  but it is filling, and today there's an unusually large assortment of other dishes along with it.
 There are no utensils; 
   you simply use a piece of flatbread to scoop or grab some filling directly from the communal dishes,
   and then eat it and the flatbread together.
 
-This is something of a luxury, at least among poorer clans in the city like the _Ksippuktsimnmi_'s.
+This is something of a luxury, at least among poorer clans in the city like _Ksippuktsimnmi_.
 Most of the time the bread is simply eaten plain,
   with a minimal amount of other food simply for nutrition and variety.
 Today though, there is more than enough even for you,
   and you don't have to worry about recieving reproachful looks for eating too much.
 
-Unfortunately, many of the spices they often used in cooking aren't really edible for you.
-None of it actually smells unpleasant, and most of the spices simply taste kinda bitter,
+Many of their spices and flavorings aren't really edible for you, unfortunately.
+None of it actually smells unpleasant, and mostly the inedible spices simply taste kinda bitter,
   but you steer clear of anything that's even remotely yellow, 
   still remembering the acrid taste from two nights ago.
-  
-Salt, fat, sugar, and most acidic flavors, though, are universal.
+
+But salt, fat, sugar, and acid are universal.
 The leafy green things with the mild citrus-y flavor are pleasant enough,
   as are what looks like some sort of stewed melon-y gourd thing,
-  and the greasy agar noodle thing.
+  and the greasy gelatin noodle thing.
 
 You really need to start growing some of your own crops.
-Your vitamin tablets are going to last you only so long.
+While you're able to get enough calories, your vitamin tablets are going to last you only so long.
 
 Your thoughts turn to the rover you left at the far side of the canyon.
 Most of the equipment you'll need is still there,
   and as far as you've been able to discern there's no way to actually drive it here without going thousands of miles out of your way.
 Perhaps you can rig a rope across the canyon and bring it across on a pulley,
-  but you'd need to acquire those things first.
+  but you'd need to acquire those things first,
+  and doing it purely by yourself would take a very long time.
 
-Things come to a close, and Leon approaches you and the two migrants.
-He hands them each something, and you're able to get the gist of what he says to them.
-
-Apparently, on top of being fed and provided an apartment, you also get paid.
+Things come to a close, and Leon approaches you and the others.
+He hands each of you a stack of plastic chips similar to  something, and you're able to get the gist of what he says to them.
+Apparently, today is also payday.
 
 ----
 
+You recieve The coins you recieve are r
 Now _that_ was interesting.
 
 You hadn't really had a chance to see what passed for currency here,
