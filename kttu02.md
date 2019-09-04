@@ -431,7 +431,7 @@ Apparently, today is also payday.
 
 ----
 
-The coins in your pouch are similar to the plastic badge you recieved earlier from the city gatehouse,
+The coins in your hand are similar to the plastic badge you recieved earlier from the city gatehouse,
   but bear a very different &mdash; but still colorful &mdash; geometric design.
 
 In addition to fourteen intact coins, there were also five wedges presumably cut from other coins,
@@ -441,31 +441,54 @@ These plastic coins are rather light in your large hands though,
   and you're not really sure of their value.
 Presumably the larger ones are worth more, but how much more?
 
-Probably first on your list is getting a larger apartment.
-The tiny single room apartment you'd shared with Morgan and Jerry was better than sleeping in the rain,
-  but you needed more space.
-What could you even afford, though?
+Probably first on your list is getting your own place.
+Sleeping on Morgan and Jerry's metaphorical couch (read: floor) is certainly better than sleeping in the street,
+  but even if you'd had it all to yourself this tiny single room apartment would've been cramped.
 
-You'll also need space to set up your hydroponics to start growing Earth vegtables to supplement your diet,
-  and the equipment needed to retrieve it from across the canyon,
-  and probably a dozen other things.
+Dammit, you need more space, and some privacy would certainly be nice, too.
 
-Eventually, you turn to Morgan for help, and explain to her &mdash;
-  you're pretty sure it's a 'her' &mdash; explain what you're considering, as best you can.
+But what can you even afford, on your wage?
+You didn't really have any sense for how much any of these coins were worth.
 
-k: Need more space, this is too small for me.
-m: I can take care of that, just let me do the haggling.
-k: I also need to retrieve some of my stuff ...
-when I landed here I landed on the other side of the canyon, and I had to leave a lot of my stuff on the other side.
-k draws out a map.
-k: I don't really know what the best way to get it all across is though,
-I was thinking I could string a rope across and pull it across with a pulley, but I don't have any of that,
-or even know where I'd get it
-m: I come help you?
-k: sure I could use all the help I can get. Where would I even get this stuff though? I don't even know how much that'll cost
-j: I help too
+And for that matter, who did you go through to get a place?
+Did the city government own it all, or were there individual landlords you'd rent from?
+
+As you consider this, sitting against the wall of the tiny room,
+  Morgan enters and sees you.
+
+"Is ... is there a problem?"
+
+You sigh.
+Both she &mdash; you're pretty sure it's a she &mdash;
+  and Jerry are reasonably proficient in English by this point, _somehow_,
+  but this wasn't meant passive-agressively or anything.
+It's an actual question.
+
+"Just, not sure how to proceed.
+I know I need to get a bigger place &mdash;"
+  you gesticulate, indicating the small size of the apartment "&mdash;
+  but I don't really know anything about how things work in this city.
+
+"I don't even know what the different coins are worth,
+  even if I found the right person to ask about my own place,
+  how do I know they're not taking advantage of me to overcharge me?"
+You sigh again and set the fistful of plastic chips on the floor in front of you.
+
+"I guess the other big problem,
+  is how to get the rest of my stuff across the canyon from where I had to leave it.
+I've got some ideas for _how_ to do it,
+  but I don't even know where to get the stuff I'd need."
+
+While you vent, she sits down on the floor and counts through the coins.
+"That's not very much," she admits after a moment.
+"But maybe? I know a bigger place, maybe I can make a deal for not too much."
+
+You hadn't noticed Jerry enter, but apparently he had.
+"What is the other stuff across the canyon? Maybe we can help?"
 
 ----
+
+You spend the next several hours outlining the issue and going over 
 
 come up with a plan
 continue working this week
