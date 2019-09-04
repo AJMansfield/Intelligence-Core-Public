@@ -59,7 +59,7 @@ Eventually, the sun reaches its zenith,
   and one of the workers &mdash; possibly the crew's foreman &mdash;
   calls a break.
 
-The dozen or so laborers congregate by the trailer,
+The twenty or so laborers congregate by the trailer,
   sitting on stacks of tubers that have yet to be loaded,
   and pass around canteens of water.
 
@@ -431,48 +431,54 @@ Apparently, today is also payday.
 
 ----
 
-You recieve The coins you recieve are r
-Now _that_ was interesting.
+The coins in your pouch are similar to the plastic badge you recieved earlier from the city gatehouse,
+  but bear a very different &mdash; but still colorful &mdash; geometric design.
 
-You hadn't really had a chance to see what passed for currency here,
-  but you now held a handful of ancient pre-paid SIM cards &mdash; like for a _mobile phone_, from _Earth_.
+In addition to fourteen intact coins, there were also five wedges presumably cut from other coins,
+  like old-fasioned pieces of eight.
 
-You'd heard that human-made electronics were considered valuable outside Earth &mdash;
-  but the thought that they might be used as _currency_ hadn't even crossed your mind.
+These plastic coins are rather light in your large hands though,
+  and you're not really sure of their value.
+Presumably the larger ones are worth more, but how much more?
 
-You counted them up.
-Ten and six-eighths.
-The "eighths" being pie slices from SIM cards that had been cut like old-fasioned pieces of eight.
+Probably first on your list is getting a larger apartment.
+The tiny single room apartment you'd shared with Morgan and Jerry was better than sleeping in the rain,
+  but you needed more space.
+What could you even afford, though?
 
-Most of the intact cards bore colorful logos from a handful of ancient Earth cell providers,
-  back from when they'd all still been separate.
+You'll also need space to set up your hydroponics to start growing Earth vegtables to supplement your diet,
+  and the equipment needed to retrieve it from across the canyon,
+  and probably a dozen other things.
 
-You supposed it made a kind of sense.
-Even though the cards were useless here, these would be almost _impossible_ to counterfeit.
-One would need access to the silicon foundries of Earth, twenty-plus light-years away, to even attempt such a thing,
-  assuming there was a working phone anywhere that could recognise when a legitimate SIM card was inserted.
+Eventually, you turn to Morgan for help, and explain to her &mdash;
+  you're pretty sure it's a 'her' &mdash; explain what you're considering, as best you can.
 
-You'd heard of xeno junk traders buying up huge swathes of Earth's e-waste,
-  thinking it would immediately start working perfectly again the moment they got it out of Earth's energy depression.
+k: Need more space, this is too small for me.
+m: I can take care of that, just let me do the haggling.
+k: I also need to retrieve some of my stuff ...
+when I landed here I landed on the other side of the canyon, and I had to leave a lot of my stuff on the other side.
+k draws out a map.
+k: I don't really know what the best way to get it all across is though,
+I was thinking I could string a rope across and pull it across with a pulley, but I don't have any of that,
+or even know where I'd get it
+m: I come help you?
+k: sure I could use all the help I can get. Where would I even get this stuff though? I don't even know how much that'll cost
+j: I help too
 
-Unlike the sigil-based technology these halflings used for daily life,
-  electronics didn't work that way,
-  but you'd never thought about where all that e-waste might have _ended up_.
+----
 
-Still, had _nobody_ really made the connection between you and Earth?
-You hadn't ever actually told anyone you were a "Human", specifically,
-  and you'd only ever written "Earth", that one time on the immigration form.
-Even if they could speak it, odds were these halflings probably couldn't _read_ written English.
+kai, morgan, jerry; and also nydia, one of the othe two from the work crew
 
-Although perhaps that was for the best.
-Attracting too much attention could be dangerous.
+have better survey map of the canyon network
+marked the position of the buggy and also best guess for the pod since they asked
+go several miles upstream with the buggy to a point where the span is much shorter
 
-Still, the pod you'd landed in, that had a bunch of electronics and flight computers in it.
-Were those valuable?
-You weren't willing to part with any of your functional electronics,
-  but given this strange currency perhaps even scrap electronics might be valuable.
+how is stuff transported? pack animals? wagon? palanquin carried betwen two people?
 
-If so, you needed a way to get them in the city without having them stolen.
-Or perhaps you could just pay off the guards with a few of the lesser pieces of scrap?
+practice how to do it, to make sure they knew what to do
+launch rope across the gorge, tow a bigger cable plus another small cable across
+both sides set up a-frame footer and dig a sand anchor
+signal mirror flash to launching side indicating it's anchored, ready to tension the main cable
+use small rope to pull payload attached to pulley across the canyon on the main cable
 
-Either way, you'd need some kind of help from someone who would know this kind of thing.
+Similar principle to breeches buoy reenactments
