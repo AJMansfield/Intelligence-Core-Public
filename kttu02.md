@@ -489,26 +489,120 @@ You hadn't noticed Jerry enter, but apparently he had.
 ----
 
 You spend the next several hours communicating the issue, and outlining your plan to retrieve your rover and its contents.
-Both of them seemed more than willing to help, or at least listen.
+Both of them seemed more than willing to help, or at least listen and comment.
 
 The first thing you need is a better map.
-You have some photographs you took from orbit, but they don't show enough detail to make concrete plans around.
+You have some photographs from orbit, but they don't show enough detail to make concrete plans around.
 
 Fortunately, maps _are_ available, and after some work you're able to find and purchase a suitable survey map of the canyon network.
 Odds are the canyon has eroded some since that survey, but it will work for your purposes.
 
 Using the map, you identify a suitable point where the canyon narrows enough to make your concept feasible,
-  and start assembling a list of everything you'll need.
+  and assemble a list of everything you'll need.
 
 ----
 
-{next week, continue work. don't go losing your job}
-{in the evening, managed to find steel wire rope.
-Morgan holds your money, and you're suprised that you have enough to get what you need.
+Over the last week &mdash; here, _nine_ days &mdash; you'd managed to assemble everything you need in the evenings after work.
+There wasn't much in the way of "wood" available here except as a luxury material,
+  so steel box section it was, but otherwise the steel wire rope and rigging hardware you needed were all available,
+  if you knew who to ask, and Jerry apparently did.
+He and Morgan had also handled haggling with the sellers for you, for which you were grateful.
 
-bring in the other two migrants 
+At some point the other two non-clan members of the work crew &mdash; Nydia and Eli &mdash;
+  had somehow _also_ gotten involved with the project, although you weren't really sure why, exactly.
+
+You looked back over your plan.
+Normally for something like this you'd have two people, one on each side, to coordinate this,
+  but without a second person this was going to take several trips back and forth,
+  each one taking nearly three days to hike to a point where it was possible to cross the canyon floor and back.
+
+"This is gonna take forever to set up out there with just me," you mutter to yourself over your structural calculations.
+
+Morgan turns to you. "It's not just you, we'll help."
+
+"Wait what?"
+You hadn't expected a response, and it takes you a moment to process.
+"I mean, sure,
+  I'd appreciate the help,
+  but you've done more than enough to help already."
+
+"I ... I'm not sure I understand."
+She wore an expression you'd learned to interpret as puzzlement.
+"We're helping you.
+All of us, together.
+Do we need someone to stay behind?"
+
+You sigh.
+_As long as they're willing, I guess that's fine._
+_Even spending the time to train them it_ would _probably be faster._
 
 ----
+
+You pull yourself up over the canyon edge, and pant for a moment.
+You've acclimatized to the lower oxygen and were able to cross the canyon floor fairly quickly.
+
+As the three other halflings reach the top, you start pulling up the rope attached to the steel A-frame.
+
+Most of the heavy pieces of equipment &mdash; the steel cable, the transfer pulleys, etc. &mdash;
+  are at the chosen site on the other side of the canyon,
+  but there was but there was no avoiding the need to carry the A-frame and cable anchors across by hand.
+You'd left it there with Jerry and Eli;
+  Jerry had seemed the most competent with the rigging when you'd practiced the procedure earlier on flat ground.
+
+Unfortunately, there hadn't been anywhere near the chosen site that could be easily crossed.
+After dropping off the heavy cable and most of the equipment,
+  it took two days to hike to the point where you'd crossed before after abandoning your rover.
+
+Now though, you are across, with Morgan and Nydia, and &mdash;
+  assuming it's still there &mdash; only about a hundred yards from the rover.
+
+----
+
+The rover is in nearly as good shape as when you left it, nearly a month ago,
+  and with it you're able to make it back to the chosen site well before nightfall.
+
+As you approach the rocky outcrop, you call across the canyon to the other half of your team.
+"Ahoy!"
+Your voice echoes back from the canyon wall,
+  and you spot the A-frame on the other side where you'd anchored it in place.
+
+After a moment, Jerry steps up next to it and hollars back.
+"Did you miss us?"
+
+You strike camp for the night.
+
+----
+
+Morning comes, and the winds are favorable.
+You assemble a small kite from a thin wire,
+  and after a few false starts Nydia manages to fly it far enough across for Eli to catch the string.
+The string is used to pull a larger rope, and then that rope is used to pull the steel cable.
+
+The steel cable is strung across the top of both A-frames and anchored firmly into the rock on either side,
+  and pulled tight on the far end using a manual winch.
+At last, it's in place,
+  and you pull on a smaller thin rope. With it comes a large pulley, running on the steel cable, bearing a hook.
+
+Over the next few hours you unload your rover and place the items into nets that you rig to the hook.
+The parcels are pulled across to the other side and detached, and the hook pulled back empty.
+
+Eventually, you're left with just the rover.
+Rig it to the pulley, pull it across.
+
+
+  which are pulled across by the crew on the other side and unloaded.
+
+
+  and at last, you're able to pull on a 
+
+
+
+Your plan to fly a small kite across the canyon worked, and 
+
+
+
+You camp on the rocky outcrop, signaling to Jerry and Eli that you've made it with a small signal mirror.
+Four bright flashes back indicates they got your signal.
 
 Half-inch steel wire rope, 250 feet.
 Or the next larger local size, anyway.
