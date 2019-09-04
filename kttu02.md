@@ -488,7 +488,43 @@ You hadn't noticed Jerry enter, but apparently he had.
 
 ----
 
-You spend the next several hours outlining the issue and going over 
+You spend the next several hours communicating the issue, and outlining your plan to retrieve your rover and its contents.
+Both of them seemed more than willing to help, or at least listen.
+
+The first thing you need is a better map.
+You have some photographs you took from orbit, but they don't show enough detail to make concrete plans around.
+
+Fortunately, maps _are_ available, and after some work you're able to find and purchase a suitable survey map of the canyon network.
+Odds are the canyon has eroded some since that survey, but it will work for your purposes.
+
+Using the map, you identify a suitable point where the canyon narrows enough to make your concept feasible,
+  and start assembling a list of everything you'll need.
+
+----
+
+{next week, continue work. don't go losing your job}
+{in the evening, managed to find steel wire rope.
+Morgan holds your money, and you're suprised that you have enough to get what you need.
+
+bring in the other two migrants 
+
+----
+
+Half-inch steel wire rope, 250 feet.
+Or the next larger local size, anyway.
+Like the language, the units here are a mess, but you have spotted steel cable in use supporting the domes of the city,
+  clearly it _is_ available here.
+
+Fortunately, steel wire rope _is_ available here.
+You've run the numbers, and while something like nylon would have worked,
+  you would have needed a rope over an inch and a half thick.
+Half-inch steel cable is much easier to 
+
+You'll still need around 250 feet of half-inch steel cable.
+
+You've run the numbers for other materials, but even if nylon or polyester ropes were available
+
+You'd traced out a more precise map
 
 come up with a plan
 continue working this week
