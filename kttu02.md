@@ -622,3 +622,5 @@ signal mirror flash to launching side indicating it's anchored, ready to tension
 use small rope to pull payload attached to pulley across the canyon on the main cable
 
 Similar principle to breeches buoy process. Reference reenactments on youtube.
+
+Party of five: Kai, morgan, jerry, nydia, eli
