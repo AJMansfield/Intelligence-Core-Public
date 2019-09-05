@@ -59,3 +59,31 @@ I'm aging now, and the years have taken their toll on me. In my older years, I a
 
 Question 10
 I've died. What preparations are made for death? My body? What happens to it? Is there an afterlife?
+
+-----
+-----
+
+# Characters
+
+## Morgan
+kender female, age 19.1 earth years.
+knows business/money, eventual clan comptroller role.
+
+## Jerry
+kender male, age 18.7 earth years.
+farmer by trade, in the sense that he is very engineer-y problem-solve-y
+
+## Nydia
+kender female, age 19.6 earth years.
+agriculture background.
+child rearing?
+most likely to shank you.
+
+## Eli
+kender female, age 19.8 earth years.
+from offworld, grew up on spacer trade ships.
+
+## Coke
+kender female, age 17.8 earth years.
+low level spellcasting, kicked out of wizard college.
+can barely strike a mage light but knows the theory.
