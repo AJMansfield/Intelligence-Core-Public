@@ -14,17 +14,17 @@
 You hike along the now gravel road, approaching closer to the domes of the settlement ahead,
   when you first encounter them.
 A group of small humanoids that look to be around four feet tall,
-  laboring in one of the fields along the road.
+  laboring in one of the fields alongside the road.
 
-Their skin color varies, some what tan but easily within the range of human skin colors,
+Coloration is quite varied, but easily within the range of human skin colors,
   and they wear fabric cover-alls, long-sleeved shirts, and gloves to protect themselves.
 
 They even have hair on their heads, of a sort,
   although as you get closer it looks more like long stringy feathers than your own hair.
-Several of them have a colorful stripe down the middle.
+You note that several of them have a contrasting stripe down the middle of their hair.
 
 As you pass, one of them waves and hails you in an alien tonge,
-  calling in a seemingly-friendly way.
+  calling in a seemingly friendly way.
 
 This work crew is harvesting the tubers you saw earlier,
   twisting to uproot them, cutting off and discarding the leafy tops.
@@ -151,11 +151,11 @@ He pauses for a moment, then asks, "word for ... you?"
 
 ----
 
-You work alongside the ... what were you going to refer to them as?
+You work alongside the ... what were they, exactly, anyway?
 
-They'd identified as '_Ksip-pukt-sim-nmi_' or something like that,
+They group had identified as '_Ksip-pukt-sim-nmi_' or something of the sort,
   using some subtle alien pronounciations that your human mouth couldn't quite articulate,
-  but you had a sense that this was a name for just this particular group,
+  but that appeared to be a name for this group in particular,
   and you hadn't quite been able to communicate desire to know their name for the species as a whole.
 
 Anyway, you work alongside the halflings for several more hours,
@@ -297,9 +297,6 @@ At last, you're able to exit the gatehouse, and enter the city proper.
 
 You spend most of your first week in the city adjusting to the city's norms.
 
-Probably the most striking difference is that these halflings don't seem to form nuclear families the way humans do,
-  but rather live in larger clans of usually somewhere from fifteen to thirty older adults.
-
 The _Ksippuktsimnmi_ clan you've fallen in with seems to have around twenty members,
   most of which you met working in the field the first day,
   and about two thirds which you've learned are actually female.
@@ -308,22 +305,19 @@ To your eyes about the only difference you can make out is that it's _usually_ m
   who have a colored stripe in the middle of their head hair,
   although that doesn't seem to be a hard-and-fast rule.
 
-However, aside from the clan members, four of the younger halflings on the crew are apparently in a different category.
-They, and you, aren't really considered part of the clan,
-  but more like hired help.
+Most of the city's adult population are apparently part of similar small clans of ten to thirty-odd members,
+  but there's also another category of people who live here, a kind of 'migrant worker' class
+  that seems to consist of mostly younger adults of the species,
+  and generally live in a separate district of the city.
 
-About twenty percent of this city's population seems to consist of this younger migrant worker class,
-  and most of them live in a separate area of the city away from the _Ksippuktsimnmi_ clan building.
-
-For the moment, you stay with two of the migrants, who you manage to coerce the nicknames "Jerry" and "Morgan" from.
-The two of them share a very small apartment in the migrant district,
-  and with a third occupant of your size it feels rather crowded,
+You and four others of the crew are considered part of this migrant worker class,
+  and for the moment, you stay with two of the migrants, who you manage to coerce the nicknames "Jerry" and "Morgan" from.
+Even without a third occupant of your size the space would've felt crowded,
   but you make do, and are grateful for it.
+Apparently unemployment and homelessness are common among this migrant population,
+  and you often passed alleyways in these districts containing lean-tos and make-shift shelters.
 
-Apparently unemployment and homelessness are common among this population,
-  and you often passed alleyways in the migrant districts containing lean-tos and make-shift shelters.
-
-Crime, though, &mdash; aside from petty corruption &mdash;
+Crime, though, &mdash; aside from the petty corruption you've experienced firsthand &mdash;
   seemed to be nearly nonexistant,
   likely due to the city government's brutal justice system.
 
@@ -337,17 +331,17 @@ And on _this_ unforgiving planet,
 
 You do your best to stay out of trouble.
 
-One thing you do have significant trouble with is the language.
+One thing you do have significant trouble with though, is the language.
 
-It was often said on Earth that the English language was really three languages stacked on top of each other wearing a trench coat.
-That it regularly pursued other languages down alleyways to beat them unconscious and rifle their pockets for new vocabulary.
+It is often said on Earth that the English language is really three languages stacked on top of each other wearing a trench coat.
+That it regularly pursues other languages down alleyways to beat them unconscious and rifles their pockets for new vocabulary.
 
-If that was the case, the ... _languages_, if that was even the right term for what these halflings spoke,
-  was some kind of eldrich abomination wrested from the elemental chaos and given flesh.
+If that is the case, the ... _languages_, if that was even the right term for what these halflings speak,
+  is some kind of eldrich abomination wrested from the elemental chaos and given flesh.
 
 Across even _this_ small city,
-  there wasn't just _one_ language, or even a dozen.
-There were literally _thousands_ of distinct languages and dialects, in _regular use_,
+  there isn't just _one_ language, or even a dozen.
+There are literally _thousands_ of distinct languages and dialects, in _regular use_,
   all bleeding into each other in a horible convoluted mess.
 
 At least within a single clan,
@@ -483,7 +477,7 @@ While you vent, she sits down on the floor and counts through the coins.
 "That's not very much," she admits after a moment.
 "But maybe? I know a bigger place, maybe I can make a deal for not too much."
 
-You hadn't noticed Jerry enter, but apparently he had.
+You hadn't noticed Jerry enter, but he speaks up now.
 "What is the other stuff across the canyon? Maybe we can help?"
 
 ----
@@ -491,8 +485,8 @@ You hadn't noticed Jerry enter, but apparently he had.
 You spend the next several hours communicating the issue, and outlining your plan to retrieve your rover and its contents.
 Both of them seemed more than willing to help, or at least listen and comment.
 
-The first thing you need is a better map.
-You have some photographs from orbit, but they don't show enough detail to make concrete plans around.
+With their help, you're able to procure a better map of the canyon network.
+You already have some photographs from orbit, but they don't show enough detail concrete plans around.
 
 Fortunately, maps _are_ available, and after some work you're able to find and purchase a suitable survey map of the canyon network.
 Odds are the canyon has eroded some since that survey, but it will work for your purposes.
