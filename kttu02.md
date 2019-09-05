@@ -301,9 +301,11 @@ The _Ksippuktsimnmi_ clan you've fallen in with seems to have around twenty memb
   most of which you met working in the field the first day,
   and about two thirds which you've learned are actually female.
 
-To your eyes about the only difference you can make out is that it's _usually_ men
-  who have a colored stripe in the middle of their head hair,
-  although that doesn't seem to be a hard-and-fast rule.
+Although to your eyes,
+  about the only difference you're able to make out between the sexes is that it's _usually_ men
+  who have a colored stripe in the middle of their head hair.
+It's definitely not a hard-and-fast rule though.
+To them there's apparently differences in facial structure or something that are blatantly obvious.
 
 Most of the city's adult population are apparently part of similar small clans of ten to thirty-odd members,
   but there's also another category of people who live here, a kind of 'migrant worker' class
@@ -478,9 +480,233 @@ While you vent, she sits down on the floor and counts through the coins.
 "But maybe? I know a bigger place, maybe I can make a deal for not too much."
 
 You hadn't noticed Jerry enter, but he speaks up now.
-"What is the other stuff across the canyon? Maybe we can help?"
+"What is your other stuff across the canyon? We can help."
 
 ----
+
+True to her word, Morgan was able to find a larger place,
+  one that was much larger, and, thank god,
+  with its own shower and bathroom instead of the single communal bathroom per floor in the old place.
+There's even a table and chairs,
+  and a small balcony.
+
+There was, though, apparently some mismatch in expectations,
+  as you're now sharing it with not just Morgan and Jerry,
+  but also the two other migrant-class workers from the crew,
+  Nydia and Eli (or so you've nicknamed them, anyway).
+
+You guess it makes sense.
+By splitting the rent five ways you _are_ able to get more square footage per dollar,
+  or whatever units these halflings measure that kind of thing with.
+Given how much of a mess language is here, you're not sure if you want to open that can of worms.
+
+In any case, over the next week &mdash; here, nine days &mdash;
+  with the help of Jerry in particular you're able to locate most of what you need.
+There's not much in the way of "wood" available here except as a luxury material,
+  so you modify your plans to use light-gauge steel box section instead,
+  but you're able to find where to get half-inch steel wire rope and the bits of rigging hardware you need.
+
+All of this is _quite_ expensive though, more than you can afford at the moment,
+  but knowing the prices of these things gives you a goal to save for.
+
+Against all odds, you're able to find a collection of survey maps showing parts of the canyon network.
+It's somewhat out of date, but it confirms that there really isn't any way to just drive your rover around.
+
+With the map, you're also able to identify a site only about two days hike from the city,
+  where the canyon narrows to less than 150 feet between some large rock formations.
+It's an ideal location for what you're planning.
+
+Normally, though, for something like this you'd have at least two people,
+  one on each side.
+Without a second person, you will need to hike across the canyon floor probably six or seven times,
+  and won't be possible to do that at the chosen site.
+Rather, you'll have to hike nearly a day north of there cross,
+  almost to where you left the rover, in order to cross on foot.
+
+On the far side, at least, you'll be able to _use_ the rover to travel along the canyon edge more quickly,
+  but at minimum this is going to take nearly fourteen days for something that would take maybe three with another person.
+And that's assuming everything works as expected.
+
+At some point you find yourself talking over the problems with your roommates.
+Maybe one of them might have a better idea,
+  or if nothing else you might be able to get one of them to loan you some cash to help pay for the equipment.
+Probably not, but the answer's always no if you don't ask, right?
+
+"Ok, well then, you can teach us how to set it up," Eli states, matter-of-factly.
+"That way you don't have to travel back and forth for every step."
+
+"Wait, what?"
+It takes you a moment to process her statement.
+
+Before you can respond, Jerry breaks in.
+"I know a guy who works on the city domes,
+  I can probably get the cable for cheaper than that.
+The dome cables apparently all have to be continuous pieces
+  and they sometimes have a lot of extra cable the end of a spool that they can't use."
+
+"Woah woah woah, hold up a moment.
+I mean, sure, I'd appreciate the help" &mdash; you really would &mdash;
+  "but you've done more than enough to help already."
+
+"I ... I'm not sure I understand."
+Eli wore an expression you'd learned to interpret as puzzlement,
+  shared to various degrees by the other three.
+"We're helping you.
+All of us, together."
+
+You sigh.
+
+----
+
+After some more work,
+  you're able to find an unused area of land not too far from the city
+  in which to practice setting up the line,
+  and train the four &mdash; now _five_ halflings, actually &mdash;
+  how to rig the cable and pulleys.
+Here, at least,
+  failing just means picking the cable back up off the ground,
+  rather than hoping you don't die retrieving it from the canyon floor.
+
+About that.
+
+The newest addition to the party you've nicknamed Coke,
+  partially because of the dark brown hair stripe and skin tone,
+  but also because the one syllable you'd managed to catch of his real name sounded a bit like "cola".
+He'd just appeared one day, and was now apparently part of the team.
+
+One of the others &mdash; you think Jerry &mdash; had gone ahead and just _gotten_ a large spool of cable,
+  and he'd either gotten it for free or had paid for it himself without telling you.
+
+These sorts of developments seemed to just happen now, apparently,
+  and it was about all you could do to just take it in stride.
+
+Initially you try to resist, but your efforts are at best met with confusion,
+  and although you're not great at reading their expressions,
+  you think you might have accidently hurt Morgan's feelings at one point by trying.
+
+Just chill. Go with the flow. It seemed headed your way anyway.
+
+It doesn't take much practice with the equipment you've gathered
+  before they're able to set up the A-frames and string the cable themselves.
+
+And, more importantly, before you're confident enough to trust them to do it.
+
+All five of them are, of course, coming with you.
+It's not even worth trying to dissuade them.
+
+----
+
+At last the rest of your arrangements are in place and you're able to leave with your party of halflings.
+
+The cable and most of the equipment is carried in a small hand-cart that gets traded off periodically,
+  and you are able to make good time on the dirt roads extending away from the city.
+
+By disk, you reach the point to turn off from the road,
+  and strike camp just in time to avoid the rains.
+
+Another day dawns.
+Maneuvering the cart off-road over the rough terrain is slow going,
+  but midday finds you at the canyon rim.
+This is the point at which you split up.
+
+From here, Morgan and Coke will proceed south with the cart to the site you'd chosen,
+  and set up camp to await your arrival on the other side.
+  
+You, Jerry, Nydia, and Eli will travel north to the point where you'd crossed before.
+You distribute the pieces of equipment you'll need on the otherside from the cart for members of the team to carry,
+  and unload one of the A-frames.
+
+As you proceed along the rim, you rotate carrying the A-frame between pairs of the crew.
+Eventually, you reach the point across from where you'd left the rover, and strike camp early.
+
+You awaken an break camp four hours before dawn, as soon as the sun's binary partner is high enough in the sky to see by.
+You'll need as much time as possible to cross the canyon floor before the next nightfall.
+
+The descent goes smoothly, and you reach the canyon floor just as the sky begins to lighten,
+  although you won't see sunlight this far down for several hours yet.
+The river at the bottom is more full than it was your first time,
+  but you're able to find a route across,
+  hopping between several large boulders that had come to rest there the night before.
+
+The ascent proves more challenging.
+It's not a technically demanding climb,
+  but even acclimatized as you are to the low oxygen atmosphere,
+  you find yourself panting from exertion,
+  and need to rest frequently.
+
+Nydia has much less trouble though,
+  and is able to ascend ahead of you to anchor a rope,
+  making the climb easier for you.
+
+All things considered, your party makes it up the other side without incident,
+  and with nearly four hours of daylight remaining,
+  you reach the rover, right where you left it covered in the tarp.
+
+----
+
+Time was kind to the small rover,
+  and as you peel back the sediment-covered tarp concealing it you breathe a sigh of relief.
+It's still here.
+
+"Wow," you hear Eli comment behind you as you detach the anchors holding the rover firmly in place.
+"You weren't kidding."
+
+The batteries are still 60% charged, and a quick check of the throttle causes the tires to spin under it,
+  kicking up a bit of dust.
+
+"Alright, looks like it still works!" you declare.
+
+----
+
+It takes a bit of work re-arranging the cargo, but you're able to strap some of it to the side,
+  enough to make room for the three halflings to ride with you.
+
+It's slow going,
+
+All of the cargo you'd had on board appears to be intact
+- halflings know it's some kind of vehicle
+- still very impressed by it
+- there's not much room 
+
+eyThe other members of the party seem duly impressed by it
+You need as much time as possible to cross the canyon floor to avoid being swept away,
+
+and strike camp early at the rim,
+  then as soon as there was enough light from the second sun to proc
+
+The next morning comes, and this is the point where you're forced to split up.
+You transfer some of the equipment in the cart to your pack, and unload one of the A-frames to carry 
+You unload one of the A-frames and some 
+
+  and you unload one of the A-frames and some of the equipment from the cart.
+
+From here, Morgan and Coke will pro
+  . Morgan and Coke will carry  will stay here
+  
+  where you're planning to turn off from the Nightfall comes 
+By nightfall, according to the map,
+  the site you've chosen is 
+ 
+
+  just gone ahead and aquired a large spool of cable &mdash; which was, fortunately, long enough &mdash;
+
+You are able to 
+Coke - so nicknamed because of the dark hair stripe and skin tone, and also because the one syllable of his real name you'd managed to catch sounded a bit like "cola".
+
+He'd either paid for it himself without telling you or managed to get it for free
+
+halfling clans communicate openly internally, foundation of teamwork
+how does the money work? there's a hanndful of cities that have facilities for launching exports to trade.
+coin is issued by export cities,
+  given as an export token to be able to exchange for goods,
+  which you can then use to buy various sorts of goods or equipment from them that the've imported in the past
+the tokens get used for general currency
+
+- no way to drive it around the canyon
+- vehicles are quite valuable
+- outline your plan
+- based on my photos there's a point where the canyon narrows
+- can string a rope across
 
 You spend the next several hours communicating the issue, and outlining your plan to retrieve your rover and its contents.
 Both of them seemed more than willing to help, or at least listen and comment.
@@ -493,42 +719,6 @@ Odds are the canyon has eroded some since that survey, but it will work for your
 
 Using the map, you identify a suitable point where the canyon narrows enough to make your concept feasible,
   and assemble a list of everything you'll need.
-
-----
-
-Over the last week &mdash; here, _nine_ days &mdash; you'd managed to assemble everything you need in the evenings after work.
-There wasn't much in the way of "wood" available here except as a luxury material,
-  so steel box section it was, but otherwise the steel wire rope and rigging hardware you needed were all available,
-  if you knew who to ask, and Jerry apparently did.
-He and Morgan had also handled haggling with the sellers for you, for which you were grateful.
-
-At some point the other two non-clan members of the work crew &mdash; Nydia and Eli &mdash;
-  had somehow _also_ gotten involved with the project, although you weren't really sure why, exactly.
-
-You looked back over your plan.
-Normally for something like this you'd have two people, one on each side, to coordinate this,
-  but without a second person this was going to take several trips back and forth,
-  each one taking nearly three days to hike to a point where it was possible to cross the canyon floor and back.
-
-"This is gonna take forever to set up out there with just me," you mutter to yourself over your structural calculations.
-
-Morgan turns to you. "It's not just you, we'll help."
-
-"Wait what?"
-You hadn't expected a response, and it takes you a moment to process.
-"I mean, sure,
-  I'd appreciate the help,
-  but you've done more than enough to help already."
-
-"I ... I'm not sure I understand."
-She wore an expression you'd learned to interpret as puzzlement.
-"We're helping you.
-All of us, together.
-Do we need someone to stay behind?"
-
-You sigh.
-_As long as they're willing, I guess that's fine._
-_Even spending the time to train them it_ would _probably be faster._
 
 ----
 
@@ -711,4 +901,4 @@ use small rope to pull payload attached to pulley across the canyon on the main 
 
 Similar principle to breeches buoy process. Reference reenactments on youtube.
 
-Party of five: Kai, morgan, jerry, nydia, eli
+Party of five: Kai, morgan, jerry, nydia, eli, coke
