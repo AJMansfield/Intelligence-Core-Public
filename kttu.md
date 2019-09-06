@@ -65,19 +65,41 @@ I've died. What preparations are made for death? My body? What happens to it? Is
 
 # Characters
 
+## Kai
+human male, age 17.5 earth years.
+Grew up on Earth, in Canada.
+Joined Canadian military, space force, right out of high school.
+
+Deep space deployment around Jupiter.
+Recieves an order (doesn't really matter what it was now) and moved to engage hyperdrive.
+Knocked off-axis at the last moment by {something}, can't correct quickly enough to avoid going interstellar.
+Able to transmit goodbyes, but that's about it.
+
+Offgassing slowly during the four-week transit that took twenty-eight years on Earth.
+Burn out hyperdrive course correcting to even make the intercept to this star.
+Salvage the craft's hydroponics and stuff into the deorbit capsule, hope for the best landing.
+
+Left assault weapons on the rover, not wanting to risk having any 'issues' with local authorities.
+
 ## Morgan
 kender female, age 19.1 earth years.
-knows business/money, eventual clan comptroller role.
+Grew up harvesting some kind of ocean-growing textile, got fed up.
+knows business/money, haggling, book-keeping.
+eventual clan comptroller role.
 
 ## Jerry
 kender male, age 18.7 earth years.
-farmer by trade, in the sense that he is very engineer-y problem-solve-y
+Farmer by trade, in the sense that he is very engineer-y problem-solve-y.
 
 ## Nydia
 kender female, age 19.6 earth years.
 agriculture background.
-child rearing?
-most likely to shank you.
+born in a client city to one of the main urban centers.
+had gone through combat training to hopefully join the city militia,
+  but then the city got upturned by a coup and she was forced to flee.
+cooled off from the whole military thing a bit too, now that she'd seen the other side.
+def most likely to shank you.
+eventual 'mamma bear' role.
 
 ## Eli
 kender female, age 19.8 earth years.
