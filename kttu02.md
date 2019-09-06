@@ -609,10 +609,10 @@ Maneuvering the cart off-road over the rough terrain is slow going,
   but midday finds you at the canyon rim.
 This is the point at which you split up.
 
-From here, Morgan and Coke will proceed south with the cart to the site you'd chosen,
+From here, Jerry and Eli will proceed south with the cart to the site you'd chosen,
   and set up camp to await your arrival on the other side.
   
-You, Jerry, Nydia, and Eli will travel north to the point where you'd crossed before.
+You, Morgan, Nydia, and Coke will travel north to the point where you'd crossed before.
 You distribute the pieces of equipment you'll need on the otherside from the cart for members of the team to carry,
   and unload one of the A-frames.
 
@@ -635,8 +635,8 @@ It's not a technically demanding climb,
   and need to rest frequently.
 
 Nydia has much less trouble though,
-  and is able to ascend ahead of you to anchor a rope,
-  making the climb easier for you.
+  and ascends ahead of you to anchor ropes to the rock,
+  making the climb easier.
 
 All things considered, your party makes it up the other side without incident,
   and with nearly four hours of daylight remaining,
@@ -648,20 +648,139 @@ Time was kind to the small rover,
   and as you peel back the sediment-covered tarp concealing it you breathe a sigh of relief.
 It's still here.
 
-"Wow," you hear Eli comment behind you as you detach the anchors holding the rover firmly in place.
+"Wow," you hear Coke comment behind you as you detach the anchors holding the rover firmly in place.
 "You weren't kidding."
 
-The batteries are still 60% charged, and a quick check of the throttle causes the tires to spin under it,
-  kicking up a bit of dust.
+The batteries are still 60% charged, and you flash the headlights.
+A quick check of the throttle causes the tires to spin out and kick up a bit of dust.
 
 "Alright, looks like it still works!" you declare.
 
 ----
 
-It takes a bit of work re-arranging the cargo, but you're able to strap some of it to the side,
-  enough to make room for the three halflings to ride with you.
+It takes a bit of work re-arranging the cargo,
+  but you're able to hang some of it off the side with ropes,
+  and eventually you're able to make room for the three halflings.
 
-It's slow going,
+As you drive back to the chosen site,
+  there's some kind of discussion,
+  apparently about your rover,
+  although there's some native terms you don't understand.
+Right now the driving demands most of your attention though, so for now you just listen.
+
+"Is this even gas powered? There's no engine noise," Nydia says.
+
+"I don't know what else it could be, I don't even know if building a _jelnfya_ car would even be possible much less practical,"
+  Coke replies, using a term you think you might've heard once before but don't really know.
+"You'd need a crazy good _hojelnfyen_ or something and it wouldn't even last long enough to be worth it.
+  And if it did it'd be crazy expensive even if &mdash;"
+
+Morgan cuts her off. "Kai can probably just tell us how it works; Kai how does this rover thing work?"
+
+"Hold on a moment." 
+There's another bump as one of your wheels hits a rock and you have to avoid spinning out,
+  but after a moment you reach a relatively open stretch and can spare enough attention to answer.
+"It's electric. Although the term probably doesn't mean anything to you."
+
+"_Jelnfya_," Nydia states, using that same term again, although saying it to nobody in particular.
+
+"I dunno, maybe?
+Tell you what,
+  I can show you what's under the hood when I break it down to get it across the canyon."
+
+Eventually the discussion turns.
+
+Coke apparently flunked out of some kind of schooling before she wound up out here,
+  though not for lack of trying.
+She was supposedly quite adapt at the theory of whatever it was,
+  and she'd flunked out due to some kind of "inability to perform" rather than any academic failing,
+  although you weren't sure quite what it was she couldn't do.
+
+Morgan, on the other hand, grew up in a clan farming kind of ocean-grown textile crop,
+  and had basically gotten fed up and left that behind,
+  just wandering to try to figure out what she actually wanted to do.
+
+Nydia though... in some ways her story reminded you of your own, kinda.
+Not really, the similarities ended pretty quick.
+She'd grown up in an outlying settlement near what was apparently one of the largest cities on the planet,
+  and had entered some kind of training program with an end goal of joining some sort of police force or perhaps militia.
+
+But partway through, some kind of big civil war or coup had erupted and she'd been forced to flee,
+  eventually winding up out here at what was apparely a fairly small settlement by her standards.
+She'd largely cooled off from that idea of joining a city militia altogether though,
+  after experiencing the petty corruption and minor injustices common out here.
+
+Eventually though, the discussion turns to you.
+
+"How about you, Kai? Where are you from" Morgan asks.
+
+Your thoughts turn back to Earth, and the friends and family you left behind.
+
+You'd joined the military right out of high school,
+  and had been on a deployment around Jupiter when you'd recieved orders to reposition your vessel.
+Where to didn't really matter at this point though;
+  what mattered was that just as you were activating your hyperdrive,
+  your vessel was knocked off-axis by some kind of debris,
+  and by the time you'd realized it had been too late to abort,
+  or to even correct your course quickly enough to avoid going interstellar.
+
+Even if the hyperdrive hadn't been burned out by the correction you'd had to make to get _this_ intercept,
+  even if you somehow could have flown back, over fifty years would've elapsed on Earth,
+  but for you the scars were barely half a year old.
+
+You hadn't even had a chance to say goodbye.
+Relativity is a bitch.
+
+You're really not ready to talk about it.
+
+Fortunately, you soon arrive at the site,
+  and you're able to brush off the question.
+
+----
+
+Jerry and Eli spot the cloud of dust kicked up by your vehicle,
+  and by the time you come to a stop they're both waiting.
+
+"Oooy!" Jerry calls across the canyon,
+  his voice echoing back several times.
+
+There's not enough daylight left to set up before nightfall,
+  but it's good to see they too made it to their destination safely.
+
+"Did you miss me?" you hollar back.
+
+"Fat chance!" Eli calls, and that's that.
+
+You strike camp on your side, and eventually the evening torrential rains cut off conversation.
+Tomorrow, you will find out whether this entire idea was worthwhile.
+
+----
+
+In the morning, you assemble the kite, 
+  and you assemble a crude kite from 
+the winds are favorable, blowing across the canyon towards the other side,
+  but fortunately the 
+
+You're not 
+convo turns to you:
+canadian, military right out of high school, doing some kind of cross-training and was with a US unit, space force.
+deep space deployment around jupiter, some kind of engagement, recieve an order to intercept
+about to engage hyperdrive to meet them, but gets knocked, is unable to correct orientation fast enough to avoid going interstellar
+
+able to transmit goodbyes but that was about it,
+  and to make things worse he'd somehow fried the hyperdrive coming in
+
+whatever the hit had been, offgassing something, slowly
+  eventually going 
+
+rover/capsule meant for possible orbital drop to ground ops around titan or mars or somewhere
+  able to scavenge what he could and load it in the pod
+
+can you do magic things?
+c: {magic}
+
+"Do the {word} in {word} even know how to make something like this, Coke?" asks Nydia.
+
 
 All of the cargo you'd had on board appears to be intact
 - halflings know it's some kind of vehicle
