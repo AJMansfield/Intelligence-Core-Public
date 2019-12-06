@@ -16,8 +16,8 @@ You hike along the now gravel road, approaching closer to the domes of the settl
 A group of small humanoids that look to be around four feet tall,
   laboring in one of the fields alongside the road.
 
-Coloration is quite varied, but easily within the range of human skin colors,
-  and they wear fabric cover-alls, long-sleeved shirts, and gloves to protect themselves.
+Their complexions are quite varied, but easily within the range of human skin colors,
+  and they wear insulated fabric cover-alls, long-sleeved shirts, and thick gloves to protect themselves.
 
 They even have hair on their heads, of a sort,
   although as you get closer it looks more like long stringy feathers than your own hair.
