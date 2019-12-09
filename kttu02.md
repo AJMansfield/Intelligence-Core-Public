@@ -191,7 +191,7 @@ You suppose that's accurate.
 ----
 
 Finally, you approach the entrance to the city.
-In addition to the large dome you'd seen from afar,
+In addition to the large domes you'd seen from afar,
   there are a handful of smaller domes scattered around.
 Some are seemingly isolated, while others are connected to the main city by small enclosed tunnels.
 
@@ -201,7 +201,7 @@ There's also other, smaller outbuildings, not covered by any dome,
 
 Your theory that these were air-supported domes appears to have been correct.
 
-All the people you see are of the same halfling species as the group you follow,
+All the people you see are of the same species as the group you follow,
   although there's significant color variation:
 Skin tones range from deep burnt reds and pale tans to presidential oranges and dark browns,
   and hair color seems to follow a similar gamut, with the addition of whites, greys, and blacks.
@@ -250,7 +250,7 @@ The crew seems to be getting agitated,
 Several other members of the crew obviously didn't like this eather,
   and one of them spits on the floor.
 
-Another uniformed halfling tightens their grip on what was most definitely a halfling-sized assault rifle.
+Another uniformed kender tightens their grip on what was most definitely a kender-sized assault rifle.
 
 This wasn't worth getting into trouble over.
 You put up your hand, and slip the ring off.
@@ -317,41 +317,81 @@ At last, you're able to exit the gatehouse, and enter the city proper.
 
 ----
 
-You spend most of your first week in the city adjusting to the city's norms.
+Leon leads you through the city,
+  winding your way through a number of streets.
+  
+The city appears to be a strange mix of chaos and order,
+  with neat, straight main routes passing between buildings that looke as though they've been stacked atop each other.
+Narrow alleyways frequently extend off either side,
+  many opening up into courtyards full of unfamiliar green plants.
+None of it appears to be particularly sturdy,
+  but you suppose it doesn't have to be, given that they're protected from the elements by the dome.
 
-The _Ksippuktsimnmi_ clan you've fallen in with seems to have around twenty members,
-  most of which you met working in the field the first day.
+A thousand and one unfamiliar smells assault your senses as you make your way through the city,
+  and all kinds of sounds echo down from the cavernous roof.
+Vendors hawking their colorful wares,
+  portable carts dispensing various kinds of street food,
+  children loudly playing in large open squares.
+
+In the distance there's a constant low rumble, likely from whatever machinery keeps the air fresh.
+You're able to breath far more easily here - your watch indicates a much lower concentration of CO2 in the dome.
+
+As the sun begins to set,
+  you cross from one dome into another through a partially-buried tunnel between them.
+Many of the earlier sounds gradually fade as you continue on,
+  and you spot denizens of the city starting to light gas lamps in their homes and storefronts,
+  the yellow glow replacing the flat diffuse light from up above.
+
+This new dome appears to be slightly more run-down than the other.
+
+Eventually, you arrive at what you assume must be his home.
+
+----
+
+You spend most of your first week in the city working in the fields outside the city and adjusting to the city's norms.
+
+Unlike humans, these kender didn't seem to form nuclear families,
+  but rather lived in much larger clans of usually ten to thirty-odd members.
+The _Ksippuktsimnmi_ clan you've fallen in was one such;
+  and the building you'd arrived at last night was actually home to the entire clan.
+
+There seemed to be about twenty adults, most of whom you'd met working in the field the day before,
+  and nearly a dozen children of varying ages.
+
 You'd happened to guess right that Leon was male,
-  but you'd learned that about two thirds of them are actually female.
+  but that had been a rather lucky guess, as you've since learned that about two thirds of the clan members are actually female.
 
 Although to your eyes, it's pretty difficult to tell the difference.
 The one difference you're able to make out between the sexes is that it's _usually_ men
   who have a constrasting stripe in their hair, but that's definitely not a hard-and-fast rule.
-To them there's apparently some kind of difference in their facial structure that makes it blatantly obvious.
+There's apparently some kind of difference in their facial structure that makes the distinction blatantly obvious to them.
 
-Most of the city's adult population are apparently part of similar small clans of ten to thirty-odd members,
-  but there's also another category of people who live here, a kind of 'migrant worker' class
-  consisting of almost entirely younger adults,
-  and who live in a separate area of the city.
+While most of the city's adult population are part of similar small clans,
+  there is also another class of people in the city.
+You're not entirely sure what the distinction is,
+  but it appears to have something to do with whether or not they're considered members of a clan.
+In any case, these 'clanless' kender were almost entirely younger adults,
+  and they live in a separate area of the city from most 'clan kender'.
 
-You and four others of the crew are considered part of this migrant worker class,
-  and for the moment, you stay with two of the migrants, who you manage to coerce the nicknames "Jerry" and "Morgan" from.
-Even without a third occupant of your size the space would've felt crowded,
+Importantly, you're considered a member of this class as well,
+  and while Leon had graciously allowed you to sleep in their courtyard that first night,
+  he'd made it abundantly clear that you were not welcome to stay at their clan-hall generally.
+
+They did, however, feed you and the four other clanless kender from the work crew dinner at the end of each work day,
+  and you were glad to not have to worry about food.
+
+For the moment, you're staying with two of them,
+  from whom you'd managed to coerce the nicknames "Jerry" and "Morgan".
+Even without a third occupant of your size the small apartment would've felt crowded,
   but you make do, and are grateful for it.
-Apparently unemployment and homelessness are common among this migrant population,
-  and you often pass alleyways in these districts containing lean-tos and make-shift shelters.
+Hopefully you'll be able to find somewhere else to live before too long.
 
-Crime, though, &mdash; aside from the petty corruption you've already experienced firsthand &mdash;
-  seemed to be nearly nonexistant,
-  likely due to the city government's brutal justice system.
+Apparently unemployment and homelessness are common among the clanless,
+  and walking to and from the building you often pass alleyways containing lean-tos and make-shift shelters.
 
-If one were arrested and convicted of a crime, the only possible outcome was execution.
-
-For some crimes at least,
-  it seemed you could opt for immediate exile from the city rather than contesting any accusation,
-  but even then, criminals were usually given a brand indicating the crime they were accused of.
-And on _this_ unforgiving planet,
-  depending on the time of year that might not be _better_ than execution, just slower.
+Crime, though, &mdash; aside from the petty corruption you'd experienced firsthand &mdash;
+  doesn't appear to be common, but what does happen is punished severely &mdash;
+  public executions and floggings are an almost daily occurence here.
 
 You do your best to stay out of trouble.
 
@@ -360,7 +400,7 @@ One thing you do have significant trouble with though, is the language.
 It is often said on Earth that the English language is really three languages stacked on top of each other wearing a trench coat.
 That it regularly pursues other languages down alleyways to beat them unconscious and rifles their pockets for new vocabulary.
 
-If that is the case, the ... _languages_, if that was even the right term for what these halflings speak,
+If that is the case, the ... _languages_, if that was even the right term for what these kender speak,
   is some kind of eldrich abomination wrested from the elemental chaos and given flesh.
 
 Across even _this_ small city,
@@ -406,8 +446,8 @@ Your brain just isn't _built_ to handle this sort of linguistic insanity.
 
 ----
 
-It's the end of the halfling work-week,
-  and you sit beside the other hired workers at at a table outside the _Ksippuktsimnmi_ clan hall,
+It's the end of the kender work-week,
+  and you sit beside the other clanless workers at large table in the _Ksippuktsimnmi_ clan hall courtyard,
   putting away the soft, slightly spongy flatbread that forms their main dietary staple.
 
 The bread is made largely from refined _tsutssupkan_ starch,
@@ -444,7 +484,8 @@ Perhaps you can rig a rope across the canyon and bring it across on a pulley,
   but you'd need to acquire those things first,
   and doing it purely by yourself would take a very long time.
 
-Things come to a close, and Leon approaches you and the other migrants.
+Things come to a close, and Leon approaches you and the other clanless.
 He hands each of you a stack of plastic chips similar to the one around your neck,
-  and you're able to get the gist of what he's saying.
+  and you're able to get the gist of what he says.
+
 Apparently, today is also payday.
