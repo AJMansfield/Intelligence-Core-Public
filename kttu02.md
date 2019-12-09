@@ -16,19 +16,19 @@
 
 You hike along the now gravel road, approaching closer to the domes of the settlement ahead,
   when you first encounter them.
-A group of small humanoids that look to be around four feet tall,
-  laboring in one of the fields alongside the road.
 
+A group of small humanoids, about four feet tall,
+  labor in one of the fields alongside the road.
 For the most part, they wear insulated fabric cover-alls, long-sleeved shirts, and thick gloves to protect themselves,
   and most of them wear wide-brimed hats of some kind,
-  although a few wear toques or have their heads bare.
+  although there's significant variation.
 
 This work crew is harvesting the tubers you saw earlier.
 They grip the base of the stem near the ground and twist to uproot it, before hacking off the leafy top with a machete.
 The cut tuber is then stacked into a pile with other tubers while the tops are discarded to the side.
 
-As you watch, a small trailer pulled by a suitably-sized tractor drives up to the pile,
-  and two more halflings load the piled tubers into the trailer.
+As you watch, a small trailer pulled by a tractor circles by,
+  and two more halflings start loading the piled tubers into the trailer.
 
 As you pass, one of them waves and hails you in an alien tonge,
   calling in a seemingly friendly way.
