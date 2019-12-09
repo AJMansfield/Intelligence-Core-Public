@@ -9,6 +9,9 @@
 > With the job I've landed, what luxuries could I look forward to?
 > Tell me; what is your economy like?
 
+
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
+
 ----
 
 You hike along the now gravel road, approaching closer to the domes of the settlement ahead,
@@ -489,3 +492,11 @@ He hands each of you a stack of plastic chips similar to the one around your nec
   and you're able to get the gist of what he says.
 
 Apparently, today is also payday.
+
+----
+
+[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
+
+[first]: kttu01.md
+[prev]: kttu01.md
+[wiki]: https://www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
