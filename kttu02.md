@@ -104,7 +104,7 @@ You decide to take it that way,
 
 "Good, good eating! You want some?"
 He offered it back to the foreman.
-The crew's gaze turned to him, and he accepted it reluctantly, as if they were all now pressuring _him_ into it.
+The crew's gaze turned to him, and he accepted it reluctantly, as if they are all now pressuring _him_ into it.
 
 The foreman eyed the tuber nervously.
 
@@ -153,7 +153,7 @@ You laugh at the joke.
 
 ----
 
-You work alongside the ... what were you going ot call them, anyway?
+You work alongside the ... what are you going ot call them, anyway?
 
 They group had identified as '_Ksip-pukt-sim-nmi_' or something of the sort,
   using some subtle alien pronounciations that your human mouth couldn't quite articulate,
@@ -175,7 +175,7 @@ As you walk, the foreman &mdash; who'd identified as '_Ye-o-ne-e_' and who'd acc
 You gesticulate to illustrate your meaning as best you can.
 
 You'd expected to have to learn the local language,
-  but the fact they were willing &mdash; and for that matter _able_ &mdash; to learn yours,
+  but the fact they are willing &mdash; and for that matter _able_ &mdash; to learn yours,
   _this_ rapidly, had been a surprise.
 
 He frowns for a moment before attempting to clarify.
@@ -199,7 +199,7 @@ There's also other, smaller outbuildings, not covered by any dome,
   and you see trickles of both foot and vehicular traffic move in and out of a squat building at the edge of the main,
   large roll doors opening and closing with each wave.
 
-Your theory that these were air-supported domes appears to have been correct.
+Your theory that these are air-supported domes appears to have been correct.
 
 All the people you see are of the same species as the group you follow,
   although there's significant color variation:
@@ -217,7 +217,7 @@ The trailer is rolled onto a truck scale and unhitched from the tractor,
   and the rest of the group stands around as Leon speaks to some kind of official stationed here.
 
 The language they're speaking is very different from the one the crew had used among themselves earlier,
-  although there were _some_ similarities.
+  although there are _some_ similarities.
 You pick out the word _tsutssupkan_ again,
   but you almost miss it; pronounciation was _quite_ different from the version you'd learned.
 
@@ -274,7 +274,7 @@ He hands you the pen.
 
 You're no judge of alien writing, but Leon's is incredibly neat and tidy,
   in perfect vertical columns with straight lines and precise circles.
-If it weren't for the small dots of ink at the beginning and end of each stroke and the impressions in the page,
+If it wasn't or the small dots of ink at the beginning and end of each stroke and the impressions in the page,
   you might have thought it typewritten.
 
 The first two fields make sense at least,
@@ -370,15 +370,15 @@ While most of the city's adult population are part of similar small clans,
   there is also another class of people in the city.
 You're not entirely sure what the distinction is,
   but it appears to have something to do with whether or not they're considered members of a clan.
-In any case, these 'clanless' kender were almost entirely younger adults,
+In any case, these 'clanless' kender are almost entirely younger adults,
   and they live in a separate area of the city from most 'clan kender'.
 
 Importantly, you're considered a member of this class as well,
   and while Leon had graciously allowed you to sleep in their courtyard that first night,
-  he'd made it abundantly clear that you were not welcome to stay at their clan-hall generally.
+  he'd made it abundantly clear that you are not welcome to stay at their clan-hall long-term.
 
 They did, however, feed you and the four other clanless kender from the work crew dinner at the end of each work day,
-  and you were glad to not have to worry about food.
+  and you are glad to not have to worry about food.
 
 For the moment, you're staying with two of them,
   from whom you'd managed to coerce the nicknames "Jerry" and "Morgan".
@@ -414,7 +414,7 @@ At least within a single clan,
 And, as far as you can tell, there _are_ a half-dozen pidgin 'greeting languages' that most people in the city know.
 
 But, these are basically only ever used when initiating conversation with a total stranger,
-  or as a starting point for when two speakers weren't sure what else they had in common.
+  or as a starting point for when two speakers aren't sure what else they had in common.
 
 Yes, _starting point_.
 
