@@ -16,52 +16,56 @@ You hike along the now gravel road, approaching closer to the domes of the settl
 A group of small humanoids that look to be around four feet tall,
   laboring in one of the fields alongside the road.
 
-Their complexions are quite varied, but easily within the range of human skin colors,
+Their complexions are varied, but easily within the range of human skin colors,
   and they wear insulated fabric cover-alls, long-sleeved shirts, and thick gloves to protect themselves.
 
 They even have hair on their heads, of a sort,
   although as you get closer it looks more like long stringy feathers than your own hair.
 You note that several of them have a contrasting stripe down the middle of their hair.
 
+This work crew is harvesting the tubers you saw earlier.
+They grip the base of the stem near the ground and twist to uproot it, before hacking off the leafy top with a machete.
+The cut tuber is then stacked into a pile with other tubers while the tops are discarded to the side.
+
+As you watch, a small trailer pulled by a suitably-sized tractor drives up to the pile,
+  and two more halflings load the piled tubers into the trailer.
+
 As you pass, one of them waves and hails you in an alien tonge,
   calling in a seemingly friendly way.
-
-This work crew is harvesting the tubers you saw earlier,
-  twisting to uproot them, cutting off and discarding the leafy tops.
-The cut tubers are stacked in piles before being loaded onto a small trailer behind a suitably-sized tractor.
 
 No reason to be unfriendly back.
 In fact, as you wave in response, you realize this could be the perfect opportunity.
 
 You set down your pack and retrieve your knife,
-  then step into the field,
-  immitating the process you just saw performed.
-With your size, you're able to pull up the tubers easily,
+  then step into an un-harvested area of the field,
+  and immitate the process you just saw performed.
+With your larger size, you're able to pull up the tubers easily,
   and after a moment you've managed to uproot and decapitate a half-dozen of them.
 
-The worker loading the stacks into the trailer has paused to look at you,
+The worker standing in the trailer has paused to look at you,
   uncertain of your intent,
-  and you carry the six you've harvested over to stack them in the trailer yourself.
+  and so you carry the six you've harvested over and drop them in the trailer.
 You could easily carry more than six, but this helps clarify your intent.
+
 Nothing like a bit of free labor to help put any fear at ease.
 
 Despite your size, this is still hard work.
-You've been able to adjusted some to the lower oxygen atmosphere,
+You've been able to adjust some to the low pressure of this planet's atmosphere,
   but you still occasionally gasp for air,
-  and sweat drips down your back.
+  and despite the chilly temperatures sweat drips down your back.
 
-As you work, you do occasionally see one of the others watching you.
+As you work, you do occasionally see one of the others pausing to watching you.
 Perhaps they're simply puzzled by the strange hulking giant that randomly showed up and decided to help,
   although you like to think they're impressed with your strength and speed,
-  as the stacks of tubers beside you grow.
+  as the stack of tubers beside you grows.
 
 Eventually, the sun reaches its zenith,
-  and one of the workers &mdash; possibly the crew's foreman &mdash;
-  calls a break.
+  and one of the workers with the trailer calls out something across the field.
+He &mdash; you assume it's a he &mdash; seems to be the crew's foreman,
+  and the twenty or so other laborers pause harvesting and congregate by the trailer.
 
-The twenty or so laborers congregate by the trailer,
-  sitting on stacks of tubers that have yet to be loaded,
-  and pass around canteens of water.
+A break?
+About time, anyway, you certainly need one.
 
 You retrieve one of your canteens from where you left your bag,
   and drink thirstily,
@@ -82,7 +86,7 @@ Eventually, you break the silence.
 Seein' as you're growing them everywhere it seems," you say,
   indicating the stacked tubers.
 
-"Eating?" the foreman asks, with a slight tilt of the head,
+"Eating?" the foreman asks, with a slight tilt of the head.
   and made an affirmative-looking hand gesture.
 "Good, good eating!" He picks up a tuber and hands it to you,
   and you accept it, not sure what else to do.
@@ -91,11 +95,11 @@ Seein' as you're growing them everywhere it seems," you say,
 
 The rest of the crew is watching, and so you take a bite.
 
-You immediately retch from the taste.
+You immediately recoil from the taste.
 The raw tuber is incredibly bitter.
 
 But as you look around, the crew seems to find this ... _funny_.
-Was this some sort of practical joke, played at his expense?
+Was this some sort of practical joke, played at your expense?
 
 You decide to take it that way,
   and so rather than immediately spitting it out,
@@ -119,7 +123,7 @@ The rest of the crew followed, making a sound that was fairly analagous.
 
 Clearly, this was all meant in good fun, and the foreman joins the laughter,
   relieved he won't be forced to take a bite himself.
-Even for them, these tubers require processing to be edible.
+Even for them, apparently, these tubers had to be processed somehow before they could be eaten.
 
 In that moment, the ice breaks, and conversation flows freely.
 You don't understand most of their words,
@@ -145,25 +149,28 @@ He pauses for a moment, then asks, "word for ... you?"
 
 "Kai. My name is Kai." You point to yourself.
 
-"Small word, for big ..." he motions at you, indicating your large relative size.
+"Small name, for big ..." he motions at you, indicating your large relative size.
 
+You laugh at the joke.
 "I guess so," you say. "So what's your name?"
 
 ----
 
-You work alongside the ... what were they, exactly, anyway?
+You work alongside the ... what were you going ot call them, anyway?
 
 They group had identified as '_Ksip-pukt-sim-nmi_' or something of the sort,
   using some subtle alien pronounciations that your human mouth couldn't quite articulate,
   but that appeared to be a name for this group in particular,
-  and you hadn't quite been able to communicate desire to know their name for the species as a whole.
+  and you hadn't quite been able to communicate that you wanted to know their name for the species as a whole.
 
-Anyway, you work alongside the halflings for several more hours,
+Kender? Sure, any name will do.
+
+Anyway, you work alongside the kenders for several more hours,
   until finally the field is harvested.
 The trailer is stacked full of the tubers,
   and you retrieve your pack to follow the crew as they walk behind it to the city up ahead.
 
-As you walk, the foreman &mdash; who'd identified as '_Ye-o-ne-e_' and who'd accepted your nickname 'Leon',
+As you walk, the foreman &mdash; who'd identified as '_Ye-o-ne-e_' and who'd accepted your nickname 'Leon' &mdash;
   poses a question to you.
 "Where was Kai go?"
 
@@ -184,24 +191,22 @@ You sigh, memories you'd rather forget returning, of your old life on Earth.
 
 You suppose that's accurate.
 
-"Many of us, too, come from up, before here."
-
 ----
 
 Finally, you approach the entrance to the city.
-In addition to the large domes you'd seen from afar,
-  there are many smaller domes scattered around,
-  some seemingly isolated, others connected by small tunnels.
+In addition to the large dome you'd seen from afar,
+  there are a handful of smaller domes scattered around.
+Some are seemingly isolated, while others are connected to the main city by small enclosed tunnels.
 
 There's also other, smaller outbuildings, not covered by any dome,
-  and you see trickles of both foot and vehicular traffic move in and out of a squat building at the edge of the dome,
+  and you see trickles of both foot and vehicular traffic move in and out of a squat building at the edge of the main,
   large roll doors opening and closing with each wave.
 
 Your theory that these were air-supported domes appears to have been correct.
 
 All the people you see are of the same halfling species as the group you follow,
   although there's significant color variation,
-  skin tones ranging from deep oranges and pale tans to burnt reds and dark browns.
+  skin tones ranging from deep burnt reds and pale tans to presidential oranges and dark browns.
 
 Although, as you look again,
   beneath the grime your group itself has quite a bit of variation, even just between its own members.
