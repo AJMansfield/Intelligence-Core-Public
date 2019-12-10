@@ -248,11 +248,12 @@ The fourth guard is directing the workman driving the tractor to move onto a set
   while Leon speaks with another halfling seated at a desk covered in papers.
 
 This halfling is dressed in a curious outfit that marks him as some kind of official.
-A short-sleeved dark-green robe comes down to the officials knee,
-  embroidered with geometric patterns in a similar dark-green thread,
-  and comically short cape barely half a meter long drapes behind, extending along the length of the garment's sleeves.
+His dark green robe comes down to his knee,
+  embroidered with geometric patterns in a similar dark green thread,
+  and a comically short cape barely a foot long drapes behind,
+  extending along the length of the garment's short sleeves.
 Under this he wears a black shirt with tight-fitting sleeves that come to his wrists,
-  and on his head sits a dark-green cap,
+  and on his head sits a cap the same color as his robe,
   with a circular design similar to the guard's badges embroidered on the front,
   and a short thin red tassel at the back.
 
