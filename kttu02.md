@@ -184,9 +184,9 @@ You take it that way, anyway.
 "I don't really have anywhere. I guess, with you? To the city?"
 You gesticulate to illustrate your meaning as best you can.
 
-You'd expected to have to learn the local language,
-  but the fact they are willing &mdash; and for that matter _able_ &mdash; to pick up this much of yours,
-  _this_ rapidly, had been a surprise.
+You'd expected to need to learn the local language,
+  but the fact they seem willing &mdash; and for that matter _able_ &mdash; to pick up this much of yours,
+  _this_ rapidly, is certainly a surprise.
 
 He frowns for a moment before attempting to clarify.
 "I mean, where was Kai go .. go _before_?"
@@ -204,12 +204,13 @@ Finally, you crest the last hill,
   and the city lies before you.
 
 In addition to the large domes you'd seen from afar,
-  there are a handful of smaller domes scattered around.
-Some are seemingly isolated, connected only by exterior roads,
+  there many smaller domes scattered around it, to the sides.
+Some are isolated, appearing to be connected only by exterior roads,
   while others have small enclosed tunnels connecting them to the larger domes.
 
-There's also other, smaller outbuildings, not covered by any dome,
-  and you see waves of both foot and vehicular traffic move in and out of a squat building at the edge of the dome closest to you,
+At the base of the main dome directly ahead of you,
+  there's a squat rectangular building that protrudes from its side.
+Waves of both foot and vehicular traffic move in and out of the gatehouse,
   through large roll doors that open and close with each wave.
 Your earlier theory that these were air-supported domes appears have been correct.
 
@@ -219,9 +220,9 @@ Skin tones range from deep burnt reds and pale tans to presidential oranges and 
   and hair color seems to follow a similar gamut, with the addition of whites, greys, and blacks.
 Several of them also have a contrasting stripe of differently-colored hair in the middle of their head.
 
-Although actually, as you look again, beneath the mud and grime your group has nearly the same level of variation.
+Although, as you look again, beneath the mud and grime your group has nearly the same level of variation.
 
-You continue following the group, but rather than going to the entrance straight ahead,
+You continue to follow your group, but rather than going to the entrance straight ahead,
   they instead turn left, following the now-paved road around the dome.
 Far above you you're able to spot a work crew performing some kind of maintenance on the dome.
 
@@ -234,117 +235,100 @@ He wears an armor plate carrier over a tan and reddish-brown cameoflage jumpsuit
   with heavy studded boots on his feet
   and a large circular badge on his left collarbone.
 
-He saunters back to a table at which three similarly-dressed soldiers have remained seated,
-  apparently in the middle of some kind of game given the assortment of cards and plastic chips sitting on the table.
-A handful of halfling-sized assault rifles are leaned up against the wall, and their helmets are stacked in a pile in one corner.
+He saunters back to a table at which two similarly-dressed guards have remained seated,
+  and they await the return of a fourth guard
+  so they can resume whatever game is played with the cards and plastic chips thereon.
+A handful of halfling-sized assault rifles lean against the wall,
+  and camoflage helmets with clear face shields lie haphazardly in one corner.
 
-Your ears pop from the pressure change as the gatehouse is pressurized 
+Your ears pop as the pressure in the gatehouse rises, 
+  and you find yourself breathing more easily in the enriched atmosphere.
 
-The workman driving the tractor stops, and a worker unhitches the trailer.
-It looks like they've rolled it onto a set of truck scales and are weighing it t
+The fourth guard is directing the workman driving the tractor to move onto a set of truck scales,
+  while Leon speaks with another halfling seated at a desk covered in papers.
 
-Your ears pop slightly from a rapid pressure change.
-
-Eventually, you come to a diff
-
-  make their way a bit further around the dome to a different gatehouse,
-  nearer to the series of elongated tube-shaped domes that lie beside it.
-
-- drive the tractor into the gatehouse, onto a truck scale
-- guard pulls roll door closed and walks back to the table
-  - is halfling wearing red/tan camo jumpsuit and armor plate carrier
-  - dressed in a uniform
-  - they're wearing drab brown one-piece jumpsuits, armor plate carriers, helmets with face shields, studded boots
-  - have a large colorful geometric design on a medallion on their right collarbone
-  - can see three others sitting around a metal table playing some kind of game
-  - halfling-sized assault rifles leaned up against the wall behind them, helments with face shields scattered on the floor
-- ears pop as pressure increases slightly, breathing becomes easier
-- city official at a metal desk stacked with folders
-- leon talks to customs/city/granary official for a few moments
-- you hear your name come up in the conversation, he's leaning on the desk
-- official eyes you, sizing you up, says something back
-- argument starts getting heated
-
-- leon stalks over to you
-- whats the matter, he wants a bribe
-- 
-
-holding assault rifle pulls on a chain to close the roll door
-- you can see four other guards
-- leon t
-
-- driver gets out of the tractor
-They drive the trailer directly into the gatehouse, and unhitch it from 
-
-Out front of the gatehouse, they drive the trailer onto a large truck scale and unhitch it from the tractor,
-  and a handful of additional halflings walk out from the gatehouse to meet 
-They drive the tractor into The tractor drives into 
-The whole crew walks into the 
-The trailer is rolled onto a truck scale and unhitched from the tractor,
-  and the rest of the group stands around as Leon speaks to some kind of official stationed here.
+This halfling is dressed in a curious outfit that marks him as some kind of official.
+A short-sleeved dark-green robe comes down to the officials knee,
+  embroidered with geometric patterns in a similar dark-green thread,
+  and comically short cape barely half a meter long drapes behind, extending along the length of the garment's sleeves.
+Under this he wears a black shirt with tight-fitting sleeves that come to his wrists,
+  and on his head sits a dark-green cap,
+  with a circular design similar to the guard's badges embroidered on the front,
+  and a short thin red tassel at the back.
 
 The language they're speaking is very different from the one the crew had used among themselves earlier,
-  although there are _some_ similarities.
-You pick out the word _tsutssupkan_ again,
-  but you almost miss it; pronounciation was _quite_ different from the version you'd learned.
+  though there are some similarities.
+You pick out the word _tsutssupkan_ again, but the way it is pronounced is quite different from the version you'd learned
 
 After a moment though, the conversation starts becoming more heated.
-Both of them are gesticulating towards you, and you hear your name used.
+Both of gesticulate towards you, and you hear your name used.
 
-Leon breaks off and stalks back,
+You're not sure what's going on, so you walk up near the desk,
+  and after a moment Leon breaks off and stalks back,
   wearing an expression you interpret as frustration.
 
 "The ... " he gesticulates, and you fill in.
 
-"Guard?"
+"Official?"
 
-"The guard, he wants ..."
+"The official, he wants ..."
 He indicates the ring you wear on your finger.
 "Or not give ... not let you in."
 
 The meaning was clear.
-The guard &mdash; probably more customs official &mdash;
-  expected a bribe, in exchange for you being allowed into the city.
-
-As much as the memory associated with that ring pains you,
-  it still wasn't one you wished to give up.
+The official expected a bribe in exchange for allowing you into the city.
 
 "Is there anything else I can give him?" you ask,
-  and start looking through your pack to find something else you'd be more wiling to part with.
+  and begin looking through your pack trying to find something you'd be more willing to part with.
+As much as the memory associated with that ring pains you,
+  it still isn't one you wish to give up.
 
-The crew seems to be getting agitated,
-  and another of them starts arguing with the official.
-Several other members of the crew obviously didn't like this eather,
-  and one of them spits on the floor.
+As you search, though, the other members of the work crew start becoming much more agitated,
+  and two more of them start arguing with the official,
+  shouting what you can only assume are varying profanities.
+One of the others spits on the floor.
 
-Another uniformed kender tightens their grip on what was most definitely a kender-sized assault rifle.
+For his part, the official has returned the invective tit for tat,
+  and as the guards gambling in the corner pause to watch, ready in case there's trouble,
+  you realize that this may be about to turn ugly.
 
-This wasn't worth getting into trouble over.
-You put up your hand, and slip the ring off.
+No.
+This wasn't worth getting in trouble over.
+You hold out your hand and slip the ring off your finger.
 
 "It's ok, I'll pay the bribe," you say.
 
-You hand the ring over, and the official slips it into a small pouch at his waist.
-He hands you an official-looking form covered in alien heiroglyphics.
+You hand the ring over, and the official slips it into a pouch inside his robe.
+Standing up, he opens a filing cabinet behind him,
+  and retrieves and hands you an official-looking form covered in alien heiroglyphics.
 
-Leon sees your confusion, and waves the rest of the crew ahead,
-  taking the form from you and filling out most of it before sliding it back.
+Seeing your confusion, Leon waves the rest of the crew ahead,
+  and one of the soldiers stands to open the large roll door leading into the city.
+
+Crisis averted, for now at least,
+  although several of the workmen call out parting profanities as they leave,
+  which the official returns in kind, hollering after them.
+
+Leon takes the form from you and pulls you over to a side table,
+  and starts filling it out for you.
+
+You're no judge of halfling penmanship, but Leon handwriting is incredibly neat and tidy,
+  in perfect vertical columns with straight lines and precise circles.
+If it wasn't for the small dots of ink and the fact you were watching him write it,
+  you might have thought it typewritten.
+
+After a moment, he stops and slides it back to you.
 
 "How you ..." he pantomimes moving his pen.
 
 "Write?"
 
-"Write." He nods. He points to one of the remaining boxes, and then to another.
-"How you write name of Kai, and how you write where you're from."
+"Write." He nods. He points to one of the remaining empty boxes on the form, and then to another.
+"How you write name of Kai; how you write where from Kai."
 
 He hands you the pen.
 
-You're no judge of alien writing, but Leon's is incredibly neat and tidy,
-  in perfect vertical columns with straight lines and precise circles.
-If it wasn't or the small dots of ink at the beginning and end of each stroke and the impressions in the page,
-  you might have thought it typewritten.
-
-The first two fields make sense at least,
+His meaning is fairly clear,
   and you write out 'K-A-I' as neatly as you can in block letters,
   then 'E-A-R-T-H'.
 
@@ -352,33 +336,36 @@ Leon looks over the form,
   then hands it to the official.
 
 The official pulls out a white plastic disc about two inches across,
-  covered on one side with some kind of colorful geometric seal.
-He flips it over, and writes something on the other side,
+  covered on one side with another colorful geometric seal similar to that on his hat or the soldiers' badges.
+He flips it over, and scribes something on the other side,
   then hands it to you,
   saying something that you take to mean "don't cause any trouble."
 
 You nod. You don't want any trouble.
-You also definitely don't want to lose it.
-You use the small hole at the disc's perimeter to thread it onto a lanyard.
 
-As you step away to exit the gatehouse and enter the city,
-  Leon calls your attention back and you turn.
-One of the guards is holding a cable padlock and taps it against the rifle you have strapped to the side of your pack,
+As you step away towards the city entrance,
+  Leon calls your attention back one more time.
+One of the has stood up and approached you,
+  and holds a small cable padlock in his hands.
+He taps it against the rifle you have strapped to the side of your pack,
   saying something you don't understand.
 
-Are you not allowed to take weapons into the city?
-You're not sure exactly what's going on,
+Are weapons not permitted in the city?
+You'd spotted several firearms stowed in the back of the tractor's cab,
+  maybe the prohibition only applied to foreigners.
+
+In any case, you weren't sure exactly what was going on,
   so you remove the magazine from the rifle abd lock the bolt open,
   then offer it to the guard.
-
 Rather than take it from you,
-  the guard simply loops the cable lock through the magazine well and locks it,
+  the guard simply loops the cable lock through the magazine well and locks it closed,
   leaving you holding the weapon.
   
 Ok, fair enough.
-Clearly a measure to control weapons in the city.
-You pull your handgun out of your pack and allow them to lock it as well &mdash;
-  it's probably illegal to have an unlocked weapon in the city, and you don't want any trouble.
+Presumably they'll remove it when you leave the city.
+
+Not wanting to fall afoul of the cities laws,
+  you pull your handgun out of your pack and allow them to lock it as well.
 
 At last, you're able to exit the gatehouse, and enter the city proper.
 
@@ -388,36 +375,35 @@ Leon leads you through the city,
   winding your way through a number of streets.
   
 The city appears to be a strange mix of chaos and order,
-  with neat, straight main routes passing between buildings that looke as though they've been stacked atop each other.
-Narrow alleyways frequently extend off either side,
-  many opening up into courtyards full of unfamiliar green plants.
-None of it appears to be particularly sturdy,
-  but you suppose it doesn't have to be, given that they're protected from the elements by the dome.
+  with neat, straight main roads passing between large blocky buildings that look as if they've been stacked atop one another.
+Narrow alleyways extend off either side,
+  many opening up into courtyards full of unfamiliar plants.
+None of their construction appears to be particularly sturdy,
+  but you suppose it doesn't have to be, given that it's protected from the elements by the dome.
 
 A thousand and one unfamiliar smells assault your senses as you make your way through the city,
   and all kinds of sounds echo down from the cavernous roof.
-Vendors hawking their colorful wares,
-  portable carts dispensing various kinds of street food,
-  children loudly playing in large open squares.
-
-In the distance there's a constant low rumble, likely from whatever machinery keeps the air fresh.
-You're able to breath far more easily here - your watch indicates a much lower concentration of CO2 in the dome.
+Vendors hawk their colorful wares,
+  portable carts dispense various kinds of street food,
+  and children play loudly in large open squares.
+The machinery that keeps the air fresh is a constant low rumble in the distance.
 
 As the sun begins to set,
-  you cross from one dome into another through a partially-buried tunnel between them.
-Many of the earlier sounds gradually fade as you continue on,
-  and you spot denizens of the city starting to light gas lamps in their homes and storefronts,
-  the yellow glow replacing the flat diffuse light from up above.
+  you cross from one dome into another,
+  through the wide partially-buried tunnel that connects them.
+Many of the noises of the city gradually fade as the light dims,
+  and you spot denizens of the city starting to light lamps of some description in their homes and storefronts,
+  the cheery yellow glow replacing the flat diffuse light from up above.
 
-This new dome appears to be slightly more run-down than the other.
-
-Eventually, you arrive at what you assume must be his home.
+This new dome appears to be slightly more run-down than the other,
+  with streets swept slightly less often and a few more cracks in the pavement,
+  but eventually you arrive at what you assume must be Leon's home.
 
 ----
 
 You spend most of your first week in the city working in the fields outside the city and adjusting to the city's norms.
 
-Unlike humans, these kender didn't seem to form nuclear families,
+Unlike humans, these halflings didn't seem to form nuclear families,
   but rather lived in much larger clans of usually ten to thirty-odd members.
 The _Ksippuktsimnmi_ clan you've fallen in was one such;
   and the building you'd arrived at last night was actually home to the entire clan.
@@ -437,7 +423,7 @@ While most of the city's adult population are part of similar small clans,
   there is also another class of people in the city.
 You're not entirely sure what the distinction is,
   but it appears to have something to do with whether or not they're considered members of a clan.
-In any case, these 'clanless' kender are almost entirely younger adults,
+In any case, these 'clanless' halflings are almost entirely younger adults,
   and they live in a separate area of the city from most 'clan kender'.
 
 Importantly, you're considered a member of this class as well,
