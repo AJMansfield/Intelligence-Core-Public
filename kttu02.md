@@ -10,7 +10,7 @@
 > Tell me; what is your economy like?
 
 
-[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
+[First][first] | [Wiki][wiki] | [Next][next]
 
 ----
 
@@ -21,7 +21,7 @@ A group of small humanoids
   labor in one of the fields alongside the road.
 They stand about four feet tall,
   and for the most part are wearing insulated fabric cover-alls and sturdy long-sleeved shirts.
-Most of them wear wide-brimed hats of some kind,
+Most of them wear wide-brimmed hats of some kind,
   although others wear sock caps or have their heads bare,
   exposing tufts of hair.
 
@@ -40,7 +40,7 @@ In fact, as you wave in response, you realize this could be the perfect opportun
 
 You set down your pack and retrieve your knife,
   then step into an un-harvested area of the field,
-  and immitate the process you just saw performed.
+  and initiate the process you just saw performed.
 With your larger size, you're able to pull up the tubers easily,
   and after a moment you've managed to uproot and decapitate a half-dozen of them.
 
@@ -95,7 +95,7 @@ Seein' as you're growing them everywhere it seems," you say,
 
 "Good eating!" he says again, with emphasis, and after a moment pantomimes taking a bite out of it.
 
-You're suprised the foreman had managed to deduce your meaning from so little,
+You're surprised the foreman had managed to deduce your meaning from so little,
   but now the rest of the crew is watching you.
 Not much else to do,
   so you take a bite out of it.
@@ -120,7 +120,7 @@ This _was_ meant as a joke.
 
 At that moment you couldn't hold it any more, and spat out the chunk of the tuber,
   coughing and laughing.
-The rest of the crew followed, making a sound that was fairly analagous.
+The rest of the crew followed, making a sound that was fairly analogous.
 
 "Good eating!" you state again, emphatically,
   before rinsing your mouth out with water from your canteen
@@ -163,7 +163,7 @@ You laugh at the joke.
 You work alongside the ... what will you call these people, anyway?
 
 They group had identified as '_Ksip-pukt-sim-nmi_' or something of the sort,
-  using some subtle alien pronounciations that your human mouth couldn't quite articulate,
+  using some subtle alien pronunciations that your human mouth couldn't quite articulate,
   but that appeared to be a name for this group in particular,
   and you hadn't quite been able to communicate that you wanted to know their name for the species as a whole.
 
@@ -231,7 +231,7 @@ Eventually, you come to a second gatehouse,
 
 As your eyes adjust to the shaded interior,
   a guard pulls on a chain and closes the roll door behind you.
-He wears an armor plate carrier over a tan and reddish-brown cameoflage jumpsuit,
+He wears an armor plate carrier over a tan and reddish-brown camouflage jumpsuit,
   with heavy studded boots on his feet
   and a large circular badge on his left collarbone.
 
@@ -239,7 +239,7 @@ He saunters back to a table at which two similarly-dressed guards have remained 
   and they await the return of a fourth guard
   so they can resume whatever game is played with the cards and plastic chips thereon.
 A handful of halfling-sized assault rifles lean against the wall,
-  and camoflage helmets with clear face shields lie haphazardly in one corner.
+  and helmets with clear face shields lie haphazardly in one corner.
 
 Your ears pop as the pressure in the gatehouse rises, 
   and you find yourself breathing more easily in the enriched atmosphere.
@@ -301,7 +301,7 @@ You hold out your hand and slip the ring off your finger.
 
 You hand the ring over, and the official slips it into a pouch inside his robe.
 Standing up, he opens a filing cabinet behind him,
-  and retrieves and hands you an official-looking form covered in alien heiroglyphics.
+  and retrieves and hands you an official-looking form covered in alien hieroglyphics.
 
 Seeing your confusion, Leon waves the rest of the crew ahead,
   and one of the soldiers stands to open the large roll door leading into the city.
@@ -423,7 +423,7 @@ You'd happened to guess right that Leon was male,
   in fact, nearly two thirds of the clan members &mdash; and of the city population as a whole &mdash; were female.
 
 The one difference you're able to make out between the sexes is that it's _usually_ men
-  who have a constrasting stripe in their hair, but that's definitely not a hard-and-fast rule.
+  who have a contrasting stripe in their hair, but that's definitely not a hard-and-fast rule.
 There's apparently some kind of difference in their facial structure that makes the distinction blatantly obvious to them.
 
 While most of the city's adult population are part of similar small clans,
@@ -440,7 +440,7 @@ They did, though, still feed you and the four other migrant workers on the crew 
   inviting you to join them for dinner,
   and you are glad to not have to worry about food.
 
-For the moment, you were staying in a tiny apartment with two of the aforementioned migrant workerwith two of them,
+For the moment, you were staying in a tiny apartment with two of the aforementioned migrant workers,
   from whom you'd managed to coerce the nicknames "Jerry" and "Morgan".
 Even without a third occupant of your size the apartment would've felt crowded,
   and you've already hit your head on the door frame more times than you can count,
@@ -468,12 +468,12 @@ It is often said on Earth that the English language is really three languages st
 That it regularly pursues other languages down alleyways to beat them unconscious and rifles their pockets for new vocabulary.
 
 If that is the case, the ... _languages_, if that was even the right term for what these halflings speak,
-  is some kind of eldrich abomination wrested from the elemental chaos and given flesh.
+  is some kind of eldritch abomination wrested from the elemental chaos and given flesh.
 
 Across even _this_ small city of twenty thousand,
   there isn't just _one_ language, or even a dozen.
 There are literally _thousands_ of distinct languages and dialects, in _regular use_,
-  all bleeding into each other in a horible convoluted mess.
+  all bleeding into each other in a horrible convoluted mess.
 
 At least within a single clan,
   there are usually one or two reasonably-consistent languages or dialects used within the clan for _most_ purposes.
@@ -528,7 +528,7 @@ This is something of a luxury, at least among poorer clans in the city like _Ksi
 Most of the time the bread is simply eaten plain,
   with a minimal amount of other food simply for nutrition and variety.
 Today though, there is more than enough even for you,
-  and you don't have to worry about recieving reproachful looks for eating too much.
+  and you don't have to worry about receiving reproachful looks for eating too much.
 
 Many of their spices and flavorings aren't really edible for you, unfortunately.
 None of it actually smells unpleasant, and mostly the inedible spices simply taste somewhat bitter,
@@ -547,7 +547,7 @@ While you're able to get enough calories, you have no idea whether these foods c
 Your thoughts turn to the rover you left at the far side of the canyon.
 Most of the equipment you'll need is still there,
   and as far as you've been able to discern there's no way to actually drive it here without going thousands of miles out of the way.
-Perhaps you can rig a rope across the canyon and bring it across in pieces with pullies,
+Perhaps you can rig a rope across the canyon and bring it across in pieces with pulleys,
   but you'd need to acquire those things first,
   and doing it purely by yourself would take a very long time.
 
@@ -561,7 +561,7 @@ Hidden as it was on the far side of the canyon, the rover was likely still safe 
   and if you tried moving it across the canyon on a pulley by yourself,
   it might very well already be stolen by the time you managed to get back across yourself.
 
-Difficult problems.
+Difficult problems to work around.
 
 Things come to a close with the meal, and Leon approaches you and the others beside you.
 He hands each of you a stack of plastic chips similar to the one around your neck,
@@ -571,8 +571,7 @@ Apparently, today is also payday.
 
 ----
 
-[First][first] | [Previous][prev] | [Wiki][wiki] | [Next][next]
+[First][first] | [Wiki][wiki] | [Next][next]
 
-[first]: kttu01.md
-[prev]: kttu01.md
+[first]: https://www.reddit.com/r/HFY/comments/cfeyrd/kai_travels_the_ultiverse_q1_planet_kemhe/
 [wiki]: https://www.reddit.com/r/HFY/wiki/series/wheels_within_wheels
