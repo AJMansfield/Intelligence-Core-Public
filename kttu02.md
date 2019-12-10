@@ -346,7 +346,7 @@ You nod. You don't want any trouble.
 
 As you step away towards the city entrance,
   Leon calls your attention back one more time.
-One of the has stood up and approached you,
+One of the guards has approached you,
   and holds a small cable padlock in his hands.
 He taps it against the rifle you have strapped to the side of your pack,
   saying something you don't understand.
@@ -356,7 +356,7 @@ You'd spotted several firearms stowed in the back of the tractor's cab,
   maybe the prohibition only applied to foreigners.
 
 In any case, you weren't sure exactly what was going on,
-  so you remove the magazine from the rifle abd lock the bolt open,
+  so you remove the magazine from the rifle and lock the bolt open,
   then offer it to the guard.
 Rather than take it from you,
   the guard simply loops the cable lock through the magazine well and locks it closed,
@@ -365,7 +365,7 @@ Rather than take it from you,
 Ok, fair enough.
 Presumably they lock will be removed when you leave the city.
 
-Not wanting to fall afoul of the cities laws,
+Not wanting to fall afoul of the city's laws,
   you pull your handgun out of your pack and allow them to lock it as well.
 
 At last, you're able to exit the gatehouse, and enter the city proper.
@@ -567,7 +567,7 @@ Things come to a close with the meal, and Leon approaches you and the others bes
 He hands each of you a stack of plastic chips similar to the one around your neck,
   and you're able to get the gist of what he says.
 
-Apparently, today is also payday.
+Apparently, today is also payday. 
 
 ----
 
