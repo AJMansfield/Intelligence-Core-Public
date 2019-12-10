@@ -17,11 +17,13 @@
 You hike along the now gravel road, approaching closer to the domes of the settlement ahead,
   when you first encounter them.
 
-A group of small humanoids, about four feet tall,
+A group of small humanoids
   labor in one of the fields alongside the road.
-For the most part, they wear insulated fabric cover-alls, long-sleeved shirts, and thick gloves to protect themselves,
-  and most of them wear wide-brimed hats of some kind,
-  although there's significant variation.
+They stand about four feet tall,
+  and for the most part are wearing insulated fabric cover-alls and sturdy long-sleeved shirts.
+Most of them wear wide-brimed hats of some kind,
+  although others wear sock caps or have their heads bare,
+  exposing tufts of hair.
 
 This work crew is harvesting the tubers you saw earlier.
 They grip the base of the stem near the ground and twist to uproot it, before hacking off the leafy top with a machete.
@@ -75,8 +77,8 @@ The foreman calls over to you, again in a language you don't understand,
   but it's clear he's invited you to join them by the trailer,
   and you do.
 
-Many of the crew are clearly nervous with your presence, though,
-  and make only minimal conversation among themselves.
+Many of the crew are nervous with your presence, though,
+  and as you sit, they make only muted conversation among themselves.
 They all appear to be eating some sort of flatbread,
   and you munch on your ration bar in silence.
 
@@ -84,16 +86,19 @@ Eventually, you break the silence.
 
 "These things must be good eating.
 Seein' as you're growing them everywhere it seems," you say,
-  indicating the stacked tubers.
+  gesturing with your ration bar and indicating the stacked tubers.
 
-"Eating?" the foreman asks, with a slight tilt of the head.
-  and made an affirmative-looking hand gesture.
+"Eating?" the foreman asks, with a slight tilt of the head,
+  repeating the word back to you.
 "Good, good eating!" He picks up a tuber and hands it to you,
   and you accept it, not sure what else to do.
 
 "Good eating!" he says again, with emphasis, and after a moment pantomimes taking a bite out of it.
 
-The rest of the crew is watching, and so you take a bite.
+You're suprised the foreman had managed to deduce your meaning from so little,
+  but now the rest of the crew is watching you.
+Not much else to do,
+  so you take a bite out of it.
 
 You immediately recoil from the taste.
 The raw tuber is incredibly bitter.
@@ -126,7 +131,7 @@ Clearly, this was all meant in good fun, and the foreman joins the laughter,
 Even for them, apparently, these tubers had to be processed somehow before they could be eaten.
 
 In that moment, the ice breaks, and conversation flows freely.
-You don't understand most of their words,
+You don't understand their words,
   but you don't need to to understand that you'd been judged and found worthy.
 You just follow along as best you can &mdash; you'll need to learn the local language eventually &mdash;
   and comment in your own language as it seems appropriate.
@@ -143,8 +148,7 @@ He pronounces the word with a particular emphasis on the _ss_ and a very subtle 
 
 "Tsoo-tsoop-kan," you say.
 
-"Tsutssupkan." He nods back, and this time pronounces it the way you did.
-
+"Tsutssupkan." He nods back, this time pronouncing it almost exactly the way you just did.
 He pauses for a moment, then asks, "word for ... you?"
 
 "Kai. My name is Kai." You point to yourself.
@@ -156,16 +160,16 @@ You laugh at the joke.
 
 ----
 
-You work alongside the ... what are you going ot call them, anyway?
+You work alongside the ... what will you call these people, anyway?
 
 They group had identified as '_Ksip-pukt-sim-nmi_' or something of the sort,
   using some subtle alien pronounciations that your human mouth couldn't quite articulate,
   but that appeared to be a name for this group in particular,
   and you hadn't quite been able to communicate that you wanted to know their name for the species as a whole.
 
-Kender? Sure, any name will do.
+Whatever, not like it matters anyway.
 
-Anyway, you work alongside the kenders for several more hours,
+Anyway, you work alongside the halflings for several more hours,
   until finally the field is harvested.
 The trailer is stacked full of the tubers,
   and you retrieve your pack to follow the crew as they walk behind it to the city up ahead.
@@ -174,11 +178,14 @@ As you walk, the foreman &mdash; who'd identified as '_Ye-o-ne-e_' and who'd acc
   poses a question to you.
 "Where was Kai go?"
 
+He probably means to ask you what you plan to do, now that the work day is over?
+You take it that way, anyway.
+
 "I don't really have anywhere. I guess, with you? To the city?"
 You gesticulate to illustrate your meaning as best you can.
 
 You'd expected to have to learn the local language,
-  but the fact they are willing &mdash; and for that matter _able_ &mdash; to learn yours,
+  but the fact they are willing &mdash; and for that matter _able_ &mdash; to pick up this much of yours,
   _this_ rapidly, had been a surprise.
 
 He frowns for a moment before attempting to clarify.
@@ -193,28 +200,85 @@ You suppose that's accurate.
 
 ----
 
-Finally, you approach the entrance to the city.
+Finally, you crest the last hill,
+  and the city lies before you.
+
 In addition to the large domes you'd seen from afar,
   there are a handful of smaller domes scattered around.
-Some are seemingly isolated, while others are connected to the main city by small enclosed tunnels.
+Some are seemingly isolated, connected only by exterior roads,
+  while others have small enclosed tunnels connecting them to the larger domes.
 
 There's also other, smaller outbuildings, not covered by any dome,
-  and you see trickles of both foot and vehicular traffic move in and out of a squat building at the edge of the main,
-  large roll doors opening and closing with each wave.
+  and you see waves of both foot and vehicular traffic move in and out of a squat building at the edge of the dome closest to you,
+  through large roll doors that open and close with each wave.
+Your earlier theory that these were air-supported domes appears have been correct.
 
-Your theory that these are air-supported domes appears to have been correct.
-
-All the people you see are of the same species as the group you follow,
-  although there's significant color variation:
+All the people you see are of the same species as the group you presently follow,
+  although there's significant variation:
 Skin tones range from deep burnt reds and pale tans to presidential oranges and dark browns,
   and hair color seems to follow a similar gamut, with the addition of whites, greys, and blacks.
 Several of them also have a contrasting stripe of differently-colored hair in the middle of their head.
 
-Although, as you look again,
-  beneath the grime your group itself has quite a bit of variation, even just between its own members.
+Although actually, as you look again, beneath the mud and grime your group has nearly the same level of variation.
 
 You continue following the group, but rather than going to the entrance straight ahead,
-  they make their way a bit further around the dome to another gatehouse off to the side.
+  they instead turn left, following the now-paved road around the dome.
+Far above you you're able to spot a work crew performing some kind of maintenance on the dome.
+
+Eventually, you come to a second gatehouse,
+  and the halflings drive their tractor pulling the trailer into one of the large roll doors.
+
+As your eyes adjust to the shaded interior,
+  a guard pulls on a chain and closes the roll door behind you.
+He wears an armor plate carrier over a tan and reddish-brown cameoflage jumpsuit,
+  with heavy studded boots on his feet
+  and a large circular badge on his left collarbone.
+
+He saunters back to a table at which three similarly-dressed soldiers have remained seated,
+  apparently in the middle of some kind of game given the assortment of cards and plastic chips sitting on the table.
+A handful of halfling-sized assault rifles are leaned up against the wall, and their helmets are stacked in a pile in one corner.
+
+Your ears pop from the pressure change as the gatehouse is pressurized 
+
+The workman driving the tractor stops, and a worker unhitches the trailer.
+It looks like they've rolled it onto a set of truck scales and are weighing it t
+
+Your ears pop slightly from a rapid pressure change.
+
+Eventually, you come to a diff
+
+  make their way a bit further around the dome to a different gatehouse,
+  nearer to the series of elongated tube-shaped domes that lie beside it.
+
+- drive the tractor into the gatehouse, onto a truck scale
+- guard pulls roll door closed and walks back to the table
+  - is halfling wearing red/tan camo jumpsuit and armor plate carrier
+  - dressed in a uniform
+  - they're wearing drab brown one-piece jumpsuits, armor plate carriers, helmets with face shields, studded boots
+  - have a large colorful geometric design on a medallion on their right collarbone
+  - can see three others sitting around a metal table playing some kind of game
+  - halfling-sized assault rifles leaned up against the wall behind them, helments with face shields scattered on the floor
+- ears pop as pressure increases slightly, breathing becomes easier
+- city official at a metal desk stacked with folders
+- leon talks to customs/city/granary official for a few moments
+- you hear your name come up in the conversation, he's leaning on the desk
+- official eyes you, sizing you up, says something back
+- argument starts getting heated
+
+- leon stalks over to you
+- whats the matter, he wants a bribe
+- 
+
+holding assault rifle pulls on a chain to close the roll door
+- you can see four other guards
+- leon t
+
+- driver gets out of the tractor
+They drive the trailer directly into the gatehouse, and unhitch it from 
+
+Out front of the gatehouse, they drive the trailer onto a large truck scale and unhitch it from the tractor,
+  and a handful of additional halflings walk out from the gatehouse to meet 
+They drive the tractor into The tractor drives into 
 The whole crew walks into the 
 The trailer is rolled onto a truck scale and unhitched from the tractor,
   and the rest of the group stands around as Leon speaks to some kind of official stationed here.
