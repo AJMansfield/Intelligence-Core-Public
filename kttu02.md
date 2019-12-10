@@ -362,7 +362,7 @@ Rather than take it from you,
   leaving you holding the weapon.
   
 Ok, fair enough.
-Presumably they'll remove it when you leave the city.
+Presumably they lock will be removed when you leave the city.
 
 Not wanting to fall afoul of the cities laws,
   you pull your handgun out of your pack and allow them to lock it as well.
@@ -370,6 +370,11 @@ Not wanting to fall afoul of the cities laws,
 At last, you're able to exit the gatehouse, and enter the city proper.
 
 ----
+
+You thread the plastic disc the official gave you onto a lanyard around your neck,
+  through the small hole near its diameter you assume is for this purpose.
+You're not sure exactly what the importance of it is,
+  but you certainly don't want to lose it.
 
 Leon leads you through the city,
   winding your way through a number of streets.
@@ -403,60 +408,68 @@ This new dome appears to be slightly more run-down than the other,
 
 You spend most of your first week in the city working in the fields outside the city and adjusting to the city's norms.
 
-Unlike humans, these halflings didn't seem to form nuclear families,
-  but rather lived in much larger clans of usually ten to thirty-odd members.
-The _Ksippuktsimnmi_ clan you've fallen in was one such;
+Unlike humans, these halflings curiously don't seem to form nuclear families,
+  but rather live in much larger clans of usually ten to thirty-odd adults members.
+The _Ksippuktsimnmi_ clan you've fallen in was in fact one such;
   and the building you'd arrived at last night was actually home to the entire clan.
 
-There seemed to be about twenty adults, most of whom you'd met working in the field the day before,
-  and nearly a dozen children of varying ages.
+This clan seemed to be about twenty adults, most of whom you'd met working in the field the first day,
+  but there were a few others you hadn't met, and nearly a dozen children of varying ages.
 
+To your eyes, it's fairly difficult to tell the difference between men and women of this species.
 You'd happened to guess right that Leon was male,
-  but that had been a rather lucky guess, as you've since learned that about two thirds of the clan members are actually female.
+  but that had been a rather lucky guess:
+  in fact, nearly two thirds of the clan members &mdash; and of the city population as a whole &mdash; were female.
 
-Although to your eyes, it's pretty difficult to tell the difference.
 The one difference you're able to make out between the sexes is that it's _usually_ men
   who have a constrasting stripe in their hair, but that's definitely not a hard-and-fast rule.
 There's apparently some kind of difference in their facial structure that makes the distinction blatantly obvious to them.
 
 While most of the city's adult population are part of similar small clans,
-  there is also another class of people in the city.
-You're not entirely sure what the distinction is,
-  but it appears to have something to do with whether or not they're considered members of a clan.
-In any case, these 'clanless' halflings are almost entirely younger adults,
-  and they live in a separate area of the city from most 'clan kender'.
+  there is also another class of people in the city,
+  a sort of "migrant worker" class composed almost entirely of younger adults.
+You're not entirely sure what the distinction is or what makes an individual a member of this class,
+  but it seemed to have something to do with whether or not you were a member of a clan.
 
-Importantly, you're considered a member of this class as well,
-  and while Leon had graciously allowed you to sleep in their courtyard that first night,
-  he'd made it abundantly clear that you are not welcome to stay at their clan-hall long-term.
-
-They did, however, feed you and the four other clanless kender from the work crew dinner at the end of each work day,
+In any case, these 'clanless' halflings lived in a separate area of the city,
+  and importantly, you yourself were apparently considered a member of this class as well &mdash;
+  while Leon and his clan had graciously allowed you to sleep in their courtyard that first night,
+  they'd made it abundantly clear that you were not welcome to stay at their clan-hall long-term.
+They did, though, still feed you and the four other migrant workers on the crew at the end of each work day,
+  inviting you to join them for dinner,
   and you are glad to not have to worry about food.
 
-For the moment, you're staying with two of them,
+For the moment, you were staying in a tiny apartment with two of the aforementioned migrant workerwith two of them,
   from whom you'd managed to coerce the nicknames "Jerry" and "Morgan".
-Even without a third occupant of your size the small apartment would've felt crowded,
+Even without a third occupant of your size the apartment would've felt crowded,
+  and you've already hit your head on the door frame more times than you can count,
   but you make do, and are grateful for it.
+Apparently unemployment and homelessness are common among this migrant worker class,
+  and many of the alleys you pass contain lean-tos and make-shift shelters.
+
 Hopefully you'll be able to find somewhere else to live before too long.
 
-Apparently unemployment and homelessness are common among the clanless,
-  and walking to and from the building you often pass alleyways containing lean-tos and make-shift shelters.
-
 Crime, though, &mdash; aside from the petty corruption you'd experienced firsthand &mdash;
-  doesn't appear to be common, but what does happen is punished severely &mdash;
-  public executions and floggings are an almost daily occurence here.
+  doesn't appear to be common, but what does happen is punished severely.
+Public executions and floggings aren't exactly frequent,
+  but you still remember going to see the commotion in one of the squares,
+  just in time to watch as the firing squad put a bullet through the head of a condemned thief,
+  and you don't think you'll soon forget the smell of blood
+  as they dispensed twelve lashes onto the back of another accused of being her accomplice.
 
-You do your best to stay out of trouble.
+Almost as disturbing, was how quickly the atmosphere returned to the same cheery babble you encountered on your first day.
+
+Needless to say, you do your best to stay out of trouble.
 
 One thing you do have significant trouble with though, is the language.
 
 It is often said on Earth that the English language is really three languages stacked on top of each other wearing a trench coat.
 That it regularly pursues other languages down alleyways to beat them unconscious and rifles their pockets for new vocabulary.
 
-If that is the case, the ... _languages_, if that was even the right term for what these kender speak,
+If that is the case, the ... _languages_, if that was even the right term for what these halflings speak,
   is some kind of eldrich abomination wrested from the elemental chaos and given flesh.
 
-Across even _this_ small city,
+Across even _this_ small city of twenty thousand,
   there isn't just _one_ language, or even a dozen.
 There are literally _thousands_ of distinct languages and dialects, in _regular use_,
   all bleeding into each other in a horible convoluted mess.
@@ -499,8 +512,8 @@ Your brain just isn't _built_ to handle this sort of linguistic insanity.
 
 ----
 
-It's the end of the kender work-week,
-  and you sit beside the other clanless workers at large table in the _Ksippuktsimnmi_ clan hall courtyard,
+It's the end of the halfling work-week,
+  and you sit beside the other migrant workers at large table in the _Ksippuktsimnmi_ clan hall courtyard,
   putting away the soft, slightly spongy flatbread that forms their main dietary staple.
 
 The bread is made largely from refined _tsutssupkan_ starch,
@@ -517,9 +530,9 @@ Today though, there is more than enough even for you,
   and you don't have to worry about recieving reproachful looks for eating too much.
 
 Many of their spices and flavorings aren't really edible for you, unfortunately.
-None of it actually smells unpleasant, and mostly the inedible spices simply taste kinda bitter,
+None of it actually smells unpleasant, and mostly the inedible spices simply taste somewhat bitter,
   but you steer clear of anything that's even remotely yellow, 
-  still remembering the acrid taste from two nights ago.
+  still remembering _that_ acrid taste from two nights ago.
 
 But salt, fat, sugar, and acid are universal.
 The leafy green things with the mild citrus-y flavor are pleasant enough,
@@ -532,12 +545,24 @@ While you're able to get enough calories, you have no idea whether these foods c
 
 Your thoughts turn to the rover you left at the far side of the canyon.
 Most of the equipment you'll need is still there,
-  and as far as you've been able to discern there's no way to actually drive it here without going thousands of miles out of your way.
-Perhaps you can rig a rope across the canyon and bring it across on a pulley,
+  and as far as you've been able to discern there's no way to actually drive it here without going thousands of miles out of the way.
+Perhaps you can rig a rope across the canyon and bring it across in pieces with pullies,
   but you'd need to acquire those things first,
   and doing it purely by yourself would take a very long time.
 
-Things come to a close, and Leon approaches you and the other clanless.
+There was also the risk of being attacked or having it stolen in the process:
+  while you'd avoided any altercations coming here,
+  likely due to your imposing size and the fact nobody knew you were coming,
+  banditry was apparently common out beyond the limits of the city.
+
+Hidden as it was on the far side of the canyon, the rover was likely still safe where it was,
+  but even if you weren't attacked you would very likely be followed if you tried to return to it,
+  and if you tried moving it across the canyon on a pulley by yourself,
+  it might very well already be stolen by the time you managed to get back across yourself.
+
+Difficult problems.
+
+Things come to a close with the meal, and Leon approaches you and the others beside you.
 He hands each of you a stack of plastic chips similar to the one around your neck,
   and you're able to get the gist of what he says.
 
