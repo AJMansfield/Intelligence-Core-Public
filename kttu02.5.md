@@ -2,7 +2,7 @@
 ----
 
 You sit on your bedroll against the concrete wall of the apartment,
-  examining the plastic chips Leon had paid you with.
+  examining the plastic chips you recieved from Leon as payment for the week's work.
 
 Each coin bears a colorful geometric design similar to the one on the badge you recieved when you first entered the city,
   and in addition to the fourteen intacts discs of varying sizes,
@@ -32,7 +32,7 @@ Very little about their physiology is at all attractive to you,
 Given that this was a daily occurrence though, you'd just gotten used to it and did your best to ignore her.
 
 Jerry for his part doesn't even seem to care when he's around for it,
-  but he also isn't in the habit of walking across a public hallway buck naked,
+  but he also isn't in the habit of walking across a public hallway fully naked,
   and usually makes at least an effort at modesty.
 
 Dammit, you really need more space, and some privacy would certainly be nice, too.
@@ -80,97 +80,119 @@ As you vent, she sits down on the floor and counts through the coins.
 "But maybe? I know a bigger place, maybe I can make a deal for not very much.
   And you can sell your things if you need. I can help, get good deal."
 
-"Yeah." You sigh again. "I suppose I'll have to sell some my stuff, sooner or later."
-
-You didn't notice when Jerry had entered, but he speaks up now.
-"What is your other stuff across the canyon? Maybe we can help."
+"Yeah." You sigh again. "I suppose I'll have to sell some of my stuff, sooner or later."
 
 ----
 
-True to her word, Morgan manages to find you a bigger place,
+Unfortunately, very little of what you own you can realistically afford to sell,
+Perhaps you would be able to get a few chips trading in your watch,
+  but everything else you were going to need long-term,
+  and especially for clothing it wasn't likely you'd ever be able to find suitable replacements that fit you later on.
+
+The one thing you do seriously consider trying to sell is your handgun,
+  but unless you are able to find a buyer interested in what would be in their eyes a massively oversized novelty weapon,
+  you'll be unlikely to get a good price for it,
+  so you just hold on to it for now.
+
+True to her word, though, Morgan manages to find you a bigger place,
   one with ceilings high enough you didn't have to constantly worry about hitting your head,
   and, thank god, 
   with its own shower and bathroom instead of the single communal bathroom shared between a dozen apartments in the old place.
-There's even a table and chairs,
+Showers are still cold,
+  but there's even a table and chairs,
   and a small balcony.
 
 There was, though, apparently some mismatch in expectations,
   as you're now sharing this new larger place with not just Morgan and Jerry,
-  but also the two other migrant-class workers from the crew,
+  but also the two other migrant-class halflings from the crew,
   Nydia and Eli (or so you've nicknamed them, anyway).
 
-You guess it makes sense.
+You guess it's not all bad though;
 By splitting the rent five ways you _are_ able to get more square footage per dollar,
   or whatever units these halflings used anyway.
 Given how much of a mess language is here, you're not sure if you want to open that can of worms.
 
-In any case, over the next week &mdash; here, six days, the 78 day year being divided into thirteen of them &mdash;
-  Jerry helps you locate most of the equipment you need in order to stretch a line across the canyon to use for moving your stuff across.
+And while you still don't have _much_ privacy,
+  Morgan has seemed to accept your rationale of "not dripping water on the floor"
+  as valid reason to finish drying off and dress in the bathroom rather than out in the common area,
+  so at least _that_ isn't a problem anymore.
+
+In any case, over the next week &mdash;
+  here, six days &mdash;
+  in between the long days working in the fields harvesting _tsussupkan_,
+  you begin putting together a more concrete plan on how to get the rover and its cargo across the canyon.
 
 The basic concept is to stretch a thick steel cable across the canyon somewhere and anchor it firmly between two supports,
   then use a thinner cable to pull some sort of carriage across with the cargo suspended from it.
-You've run the numbers,
-  and three-quarter inch steel cable should be able to support the weight of the rover's main chassis.
-The wheels and cargo would have to be hauled over separately, but that should let you maintain a reasonable safety margin,
-  but it _should_ work.
+You've seen the dome maintenance crews hauling large reels of wire rope used for construction and repairs,
+  so cable of the sort you need is at least available, although you don't yet know at what price.
 
-Hopefully, you'll be able to purchase an end-of-reel offcut from one of the massive spools of
-  steel cable used by the dome maintenance crews for construction and repairs.
+You run the numbers.
+A three-quarter inch steel wire rope (or the local nominal equivalent)
+  should be able to support the weight of the rover's main chassis,
+  with a reasonable safety factor.
+The wheels and cargo would have to be hauled over separately,
+  but this _should_ work.
 
-Your initial design called for using wood beams to construct the A-frame braces and anchors at each end,
-  but you quickly realize that there's not much in the way of "wood" available out here except as a luxury material.
-However with Jerry's help, you're able to find some light-gauge steel box section that's suitable.
+In addition to the cable, your initial design calls for using wood beams to construct A-frame braces and anchors at each end,
+  but you quickly realize there's not really much in the way of "wood" available out here except as a luxury material.
+Some kind of light-gauge steel box section, then?
+You've seen steel structural tubing in use,
+  so it should be possible to get hold of some yourself.
 
-Either way, you still have no idea where to get the rigging hardware you'll need to put it all together though,
-  and all of this is _quite_ expensive, more than you can afford at the moment.
-Knowing how much all of this costs at least gives you a goal to save for though,
-  and that's something.
+Either way, you still have no idea where to get the rigging hardware you'll need to put it all together,
+  nor what the local vocabulary for any of it might be.
+If you're able to find someone who deals in that kind of equipment,
+  you could probably just draw a diagram of the specific pulley blocks and anchors you need to explain,
+  but even assuming they have all of the pieces and are willing to sell them to you,
+  odds are they're be _quite_ expensive.
 
-One particularily good stroke of luck, though,
-  is when Nydia manages to get a hold of a collection of survey maps that show parts of the canyon networks near the city.
-You hadn't actually asked her to help,
-  but this is a major breakthrough, and you're glad for it.
+However, you do have one stroke of luck in the week,
+  when Nydia approaches you and shows you a collection of survey maps that show parts of the canyon networks near the city,
+  stating that she'd managed to acquire them the day before.
+This is a bit of a surprise to you &mdash;
+  you haven't even talked with any of them about your plan;
+  so she must've just seen your notes and decided to take the initiative.
+But you are certainly glad for the help,
+  as this was a major breakthrough for you.
 
-Up untill this point you've just had to take it on faith
-  that you'd be able to find a spot narrow enough to cross,
+Up until this point you've just had to take it on faith
+  that you'd be able to find a spot where the canyon narrows enough that you're able to span it,
   but using the map, you're able to identify a site only a couple days hike from the city
   where the canyon gets pinched between two large rocky outcrops and narrows to less than 150 feet.
 
 (Apparently the map's creators had had similar thoughts to your own when they'd found the site,
-  as it was marked as ideal spot for a hypothetical future bridge,
-  not that such a bridge was likely to be built anywhere in the near future.)
+  as it was marked as ideal spot for a hypothetical future bridge.)
   
-So at least now you have a solid idea of exactly _where_
-  you'll need to lug the 300 pound spool of &mdash; hey wait, isn't gravity lower here than on Earth?
-You go back to your original calculations and run the numbers again.
+So, now you at least have a solid idea of exactly _where_ you'll need to lug the 300 pound spool of &mdash;
+  hey wait, isn't gravity lower here than on Earth?
+You go back to your notes and run the numbers again.
 
 Looks like half-inch steel cable will actually be enough,
-  but even accounting for the slightly reduced gravity the spool of cable is still going to weight at least 80 pounds,
-  and that's not counting any of the other equipment you'll need.
-And it all has to be transported to the canyon's edge one way or another,
-  and how you're going to manage that is still an unsolved problem.
+  but even accounting for the thinner cable and reduced gravity, the spool of cable is still going to weight at least 80 pounds,
+  and that's not counting any of the other equipment.
+And you still need to transport it all to the canyon's edge one way or another;
+  how to do that is still an unsolved problem.
 
-The other big problem was operational.
-Normally, for something like this you'd have at least two people,
+The other big problem is operational.
+Normally, for something like this you have at least two people,
   one on each side, to handle setting up and tensioning the cable,
   and of course for running things across.
-Without a second person, you were going to need to hike across the canyon floor several times in order to set it up,
-  and crossing won't be possible directly at the chosen site.
-Rather, you'll have to hike nearly a day further south,
-  almost to where you left the rover, in order to get across.
+Without a second person, you will need to hike across the canyon floor several times in order to set it up,
+  and based on the map the nearest place where it's possible to cross the canyon is nearly a day's hike to the south,
+  almost to where you'd left your rover.
 
 You quickly work out how many times you'll need to go across.
-You'll have the rover on the far side at least, until you disassemble it to move across, so that saves at least a bit of time...
+You'll have the rover on the far side at least, until you're forced to disassemble it,
+  so that saves at least a bit of time...
 
 You add up the travel time. Six crossings, 23 days.
-And that's assuming everything goes smoothly,
+And that assumes everything goes smoothly,
   and none of the equipment you'll be forced to leave unattended at the canyon edge is stolen or damaged.
-Oh and don't forget that it rains every day,
-  you'll need to find a way to prevent the cable from rusting,
-  and there's still a good chance you'll manage to injure yourself in the process
-  and probably get trapped at the bottom of the canyon and washed away and killed.
+You've yet to encounter bandits yourself,
+  but it's not for no reason that nearly everyone who enters or leaves the city does so armed.
 
-At some point you find yourself talking over the problems with your roommates.
+At some point you find yourself talking over these problems with your roommates.
 Maybe one of them might have a better idea,
   or if nothing else you might be able to get one of them to loan you some cash to help pay for the equipment.
 
@@ -181,72 +203,89 @@ Probably not, but the answer's always no if you don't ask, right?
 
 "Wait, what?"
 It takes you a moment to process her statement.
+Not that you don't understand its meaning,
+  but the way she stated it as if it's a foregone conclusion throws you a bit.
 
 Before you can respond, Jerry breaks in.
-"I know a guy who works on the city domes,
-  I can probably borrow a spool of cable for way cheaper than that as long as we return it when we're done."
+"Yeah, and I know a guy who works on the city domes who can cut me a deal,
+  I'll get you a spool of cable.
+  We just need to give it back when we're done."
 
-"Woah woah woah, hold up a moment.
+"Woah woah woah hold up just a second there.
 I mean, sure, I'd appreciate the help" &mdash; honestly, you really would &mdash;
-  "but you've done more than enough to help already."
+  "but you've only known me for what? Two weeks? Not even that."
 
 "I ... I don't understand what you mean."
 Eli wore an expression you'd learned to interpret as puzzlement,
   shared to various degrees by the other three.
 "We're ... we're all here, so we help."
 
+There's silence for an instant, enough for them to register your own puzzlement,
+  before Nydia says something in an entirely unfamiliar dialect, as if it's some kind of specific saying.
+"_Cu'fd mroy ic icnir s'daems._"
+
+You don't understand a word of it,
+  and from the looks of things you don't think Jerry or Eli understand that dialect either, for that matter,
+  but one thing it does make clear is that there is some kind of _massive_ cultural disconnect here.
+
 You sigh.
-There is clearly something being lost in translation here,
-  but whatever the precise cultural meaning behind this,
-  it's undeniable that they're serious about helping you.
-And you really do need the help.
+You really don't know what's going on,
+  but at least they seem serious about helping you.
 
 ----
 
-After some more work,
-  you're able to find an unused area of land not too far from the city
-  in which to practice setting up the line,
+After another week,
+  you're able to find an unused area of land not too far from the city in which to practice setting up the line,
   and start working out a plan for how to train the four &mdash;
   now _five_ halflings, actually &mdash;
   how to safely rig the cable and pulleys.
 
 About that.
 
-The newest addition to the party you've nicknamed "Coke",
+This newest addition to the party you've nicknamed "Coke",
   partially because the one syllable you've managed to catch of her real name sounds a bit like "cola",
   and partially because you couldn't be arsed to care when making it up.
-She just appeared one day, and was now apparently part of the team.
-In any case, the name stuck, and it wasn't like any of them knew the difference.
+She just appeared one day, and is now apparently part of the team.
+In any case, the name stuck, and it's not like any of them know the difference.
 
-One of the others &mdash; you think Jerry &mdash; had gone ahead and just _gotten_ a large spool of cable,
-  however the cable he'd gotten was far too thin to bear the required load.
-He corrected the issue the next day after you explained it to him,
-  coming back with an even _larger_ spool of cable.
+In other news,
+  Jerry has gone ahead and without further discussion just _gotten_ the large spool of cable he mentioned borrowing from the dome crews.
+You don't know how much it cost him in money or favors to get,
+  when he was expected to return it,
+  or how he got it through the doorway into the apartment,
+  but one thing you _do_ know is that it's far thinner than the nominal half-inch your design requires,
+  and would be far too weak to bear the required load.
+
+He doesn't seem fazed though when you explain this to him,
+  and you're left with the impression that he's probably going to just show up tomorrow with _another_ spool of cable.
+  
+In the mean time though, you get Nydia to help you move the bloody thing back outside,
+  as where it currently rests it's blocking half of the entryway into the apartment.
 
 These sorts of developments just seem to _happen_ now, apparently.
 
-Initially you try to resist, but your efforts are at best met with confusion,
-  and although you're still not great at reading their expressions,
+Initially you try to resist,
+  but your efforts are at best met with confusion,
+  and although you're still not that great at reading their expressions,
   you think you might have accidently hurt Morgan's feelings at one point by trying.
-You're not even sure who's paying for it all at this point &mdash;
-  Morgan has taken to holding on to your paycheck and has assumed some kind of "treasurer" role for the group,
-  but last you checked all of this equipment was _far_ outside your price range,
-  and you suspect that they're even paying for it out of their own pockets.
 
-Not that you're complaning, but this seems like the sort of thing that might come back to bite you later,
-  and it's about all you can do at this point to just take it in stride.
+You now realize that she seems to have assumed some kind of "treasurer" role for the group,
+  and you can't exactly fault her for trying to impose _some_ sort of order on this chaos in that way,
+  but this really hadn't been communicated to you.
+Turns out that your share of the rent and utilities on the apartment were only part of the "rent" payment she'd been collecting,
+  due to a misunderstanding over what the word meant,
+  and the extra money was being used to pay for all kinds of general expenses for the ~five~ six of you aside from rent.
 
-Just chill. Go with the flow. It seemed headed your way anyway.
+Not that you have that many objections to the concept now that you understand what's going on &mdash;
+  after all, you're the one benefitting since nearly all of that was actually going towards your project.
+But it does seem like the sort of thing that might eventually come back to bite you later,
+  and in any case since then you've been especially careful to make sure none of your personal belongings get intermixed with theirs.
 
-Fortunately, it doesn't take too much practice with the equipment you've gathered
-  before they're able to set up the A-frames and string the cable themselves.
+Just chill. Go with the flow. It seems headed your way anyway.
 
-And, more importantly, before you're confident enough to trust they'll be able to do it _correctly_.
-
-All five of them are, of course, coming with you on the "adventure".
-It's not even worth trying to dissuade them.
-
-Hopefully you'll be able to leave before any more randomly decide to materialize.
+Fortunately, it's not to long before you manage to acquire everything you need,
+  and you are able to being practicing in that unused area you found near the city.
+Hopefully you'll be able to leave before any more halflings randomly decide to appear.
 
 ----
 
@@ -259,8 +298,9 @@ For now, until you come to terms with and decide to accept your fate,
   you do your best to mumble through the alien pronounciations,
   and hope they don't decide to take _that_ as a nickname.
 
-Almost all of them have their own weapons and travel gear,
-  assorted pistols and bolt-action rifles, some with optics attached,
+Almost all of them have their own travel gear and weapons,
+  assorted pistols and bolt-action rifles, some with optics attached.
+,
   but Nydia in particular has managed to produre &mdash; or perhaps already had &mdash;
   her own APC and cameoflage jumpsuit similar to the ones worn by the city guard,
   as well as an impressive-looking machine gun.
