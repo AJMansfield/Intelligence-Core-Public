@@ -10,6 +10,50 @@
 > What does your world think of LGBTQ? What about traditions of children?
 > Am I expected to have a certain amount of children with my spouse (if applicable)? 
 
+
+- basic answer: kender party is coalescing into a clan, the way it do
+- human is not same as kender
+- they consider you 'clan'
+- good for you, explain legal rights afforded clan over migrant
+- discuss with elderly dude of dying clan, who acts as sort of counselor/priest-dude/etc
+  - problem: too many people, proto-clan roster is cycling real fast and can't keep track of everyone
+  - already too many of them
+- Confucious say:
+  - is what love is like
+  - perhaps problem is not with others. maybe problem is with you
+  - you come from place of small clans, these others grown up in large clans
+  - to them it probably feels like you're mean/picky/not willing to compromise on new members to complete the set
+  - everyone has to compromise on something, some more than others
+  - you see treebranch, is sturdy. but when rain come it bend, rather than break
+  - consider now, rock. mighty strong. Rain comes, not moved.
+  - If _big_ rain come, maybe even still not move. But if not still here, _gone_. Is _nowhere_.
+  - You can be like tree branch, or you can be like rock.
+  - Be like branch and bend, you can still stand tall after the rain.
+  - Be like rock, maybe you get your way. And maybe, they leave you behind.
+  - maybe, this group is not your destiny, although it has likely helped you on your way to it
+  - you must look inside, and find out for yourself, are you stick, or are you rock.
+- understand what you say
+  - I need to stop worrying, and just trust that the others can determine for themselves whether a proposed member is a good fit
+  - but, they still look to me for approval. Nicknames as a form of approval.
+  - Should I just blindly _grant_ my approval?
+  - What if I approve someone dangerous/bad and they keep them because of it and we get hurt.
+- confucious say:
+  - you give yourself too much credit
+  - and if what you say is true, who are you to say they're wrong to trust your judgement?
+- I'm all running out of judgement
+  - that's just it though, when it was just a handful I was able to know all of them
+  - but there's no way I can keep track of all of them
+  - humans don't bond that quickly?
+- confucious say:
+  - you worry they rely on you more than you are able?
+  - and if you worry so, talk to them.
+  - Maybe 
+  - 
+  - kenders is no sexe, human man need human wuman
+- 
+  - soap-opera grade drama to them
+  - trying to find group that fir
+
 ----
 
 kai retrieves the scrap,
