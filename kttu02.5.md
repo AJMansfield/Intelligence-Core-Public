@@ -84,10 +84,14 @@ As you vent, she sits down on the floor and counts through the coins.
 
 ----
 
-Unfortunately, very little of what you own you can realistically afford to sell,
-Perhaps you would be able to get a few chips trading in your watch,
-  but everything else you were going to need long-term,
-  and especially for clothing it wasn't likely you'd ever be able to find suitable replacements that fit you later on.
+Unfortunately, very little of what you own you can realistically afford to sell.
+You are able to get a few chips trading your watch,
+  but everything else either has sentimental value,
+  is something you actually need right now,
+  or is something you will need long-term and aren't likely to be able to replace later.
+Some of your spare clothing, for instance, could probably be sold for a reasonable sum,
+  but the odds of ever being able to purchase clothes that fit your large relative size are slim,
+  so you're better off keeping what you have.
 
 The one thing you do seriously consider trying to sell is your handgun,
   but unless you are able to find a buyer interested in what would be in their eyes a massively oversized novelty weapon,
@@ -298,33 +302,61 @@ For now, until you come to terms with and decide to accept your fate,
   you do your best to mumble through the alien pronounciations,
   and hope they don't decide to take _that_ as a nickname.
 
+You've been on this planet for thirty-three days, nearly half a year on this planet,
+  and by this point the small white dwarf star that orbits this planet's sun
+  has advanced in the sky such that it's now visible for nearly the entire night,
+  rising at sunset and setting at sunrise.
+
+Rather than basing their year around this planet's miniscule axial tilt,
+  this planet's inhabitants use a synodic calendar based on that tiny dot's position in the sky,
+  dividing the planet's 79 day year into thirteen six-day weeks, plus one extra day to mark the new year.
+When it reaches nadir tomorrow night,
+  that will mark the halfway point for calendar year 4545.
+
+4545 years, the equivalent of 922 years on Earth,
+  since settlers first set foot on this barren rock,
+  and thought to make it their home.
+33 days since you first set foot here,
+  and were forced to do the same.
+
+You set out the morning of Tuesday (the day before being Onesday and the day after Threesday), seventh week, year 4545.
+
+The winter solstance for the southern hemisphere is in two weeks,
+  and while this planet's seasons are mild,
+  where you might once have worn thin jackets weeks before,
+  you and your companions now wear thick coats.
+
 Almost all of them have their own travel gear and weapons,
   assorted pistols and bolt-action rifles, some with optics attached.
-,
-  but Nydia in particular has managed to produre &mdash; or perhaps already had &mdash;
-  her own APC and cameoflage jumpsuit similar to the ones worn by the city guard,
-  as well as an impressive-looking machine gun.
+Nydia in particular has managed to procure &mdash; or, more likely, already owned &mdash;
+  an assault rifle like those carried by the city guard,
+  as well as her own armor plate carrier and cameoflage jumpsuit.
 
-And are those ... yes, those are definitely grenades you just saw her stuff into her bag.
-
-The cable and most of the equipment is carried in a small hand-cart that's traded between them periodically,
+The cable and most of the equipment is carried in a small hand-cart that's traded between you periodically,
   and you are able to make good time on the dirt roads extending away from the city.
+The hope is that, with your large, well-armed party,
+  and the distant star illuminating the nights,
+  you'll be able to avoid any trouble.
 
-
-By dusk, you reach the point to turn off from the road,
-  and strike camp just in time to avoid the rains.
+By dusk, you reach the point you've identified to turn off from the road,
+  and strike camp just in time to escape the evening rains.
+You take third watch.
+All is silent under the cold gaze of that distant star.
 
 Another day dawns.
-Maneuvering the cart off-road over the rough terrain is slow going,
+Third day, seventh week, year 4545.
+
+Rolling the cart off-road over the rough terrain is slow going,
   but midday finds you at the canyon rim.
 This is the point at which you split up.
 
-From here, Jerry and Eli will proceed south with the cart to the site you'd chosen,
+From here, Jerry, Eli, Morgan, Nydia, and the older of the two whose name you can't pronounce,
+  will proceed north with the cart to the site you've chosen,
   and set up camp to await your arrival on the other side.
   
-You, Morgan, Nydia, and Coke will travel north to the point where you'd crossed before.
-You distribute the pieces of equipment you'll need on the otherside from the cart for members of the team to carry,
-  and unload one of the A-frames.
+You, Coke, and the younger of the two others, will travel south to the point where you'd crossed before,
+  and the following morning will descend the canyon and cross to the other side,
+  carrying the bare minimum of equipment needed to set up on the far side.
 
 As you proceed along the rim, you rotate carrying the A-frame between pairs of the crew.
 Eventually, you reach the point across from where you'd left the rover, and strike camp early.
