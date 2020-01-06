@@ -29,7 +29,7 @@ At that moment, Morgan opens the door and walks in buck naked from the communal 
 Very little about their physiology is at all attractive to you,
   and given she's a completely different species there shouldn't be anything improper about it,
   but it still makes you feel uncomfortable.
-Given that this was a daily occurrence though, you'd just gotten used to it and did your best to ignore her.
+But with this as a daily occurence, you've just had to get used to it and do your best to ignore her.
 
 Jerry for his part doesn't even seem to care when he's around for it,
   but he also isn't in the habit of walking across a public hallway fully naked,
@@ -45,13 +45,18 @@ Would you need to find an individual landlord to rent from?
 As you consider this, sitting against the wall of the tiny room,
   Morgan finishes dressing and comes over next to you.
 
-"Is ... is there a problem?" she asks, abruptly, instantly putting you on the defensive before you realize your mistake.
+"Is ... is there a problem?" she asks, abruptly,
+  instantly putting you on the defensive for a second before you remember.
 
 You sigh.
-This was meant as an actual question, not some kind of passive-aggressive remark.
+This is meant as an actual question, not some kind of passive-aggressive remark.
 Both she and Jerry have managed to become quite proficient with English in the week since you first met them,
-  but this sort of thing still happened frequently.
-Honestly it would be weirder if it didn't, but still.
+  but using the right stresses or intonation seems to be a spot of difficulty,
+  although even there they'd gotten noticeably better in the last few days.
+  
+Honestly it would be weirder if this sort of misunderstanding _didn't_ ever occur given
+  that literally everything they knew about English they'd somehow just _picked up_ talking to you over the last week,
+  but still.
 
 "Just, not sure how to proceed.
 I know I need to get a bigger place &mdash;"
@@ -84,37 +89,37 @@ As you vent, she sits down on the floor and counts through the coins.
 
 ----
 
-Unfortunately, very little of what you own you can realistically afford to sell.
+Unfortunately, very little of what you have you can realistically afford to sell.
 You are able to get a few chips trading your watch,
   but everything else either has sentimental value,
   is something you actually need right now,
   or is something you will need long-term and aren't likely to be able to replace later.
-Some of your spare clothing, for instance, could probably be sold for a reasonable sum,
+Your spare clothing, for instance, could probably be sold for a reasonable sum,
   but the odds of ever being able to purchase clothes that fit your large relative size are slim,
   so you're better off keeping what you have.
 
 The one thing you do seriously consider trying to sell is your handgun,
-  but unless you are able to find a buyer interested in what would be in their eyes a massively oversized novelty weapon,
+  but unless you find a buyer interested in what would be in their eyes a massively oversized novelty weapon,
   you'll be unlikely to get a good price for it,
   so you just hold on to it for now.
 
 True to her word, though, Morgan manages to find you a bigger place,
   one with ceilings high enough you didn't have to constantly worry about hitting your head,
   and, thank god, 
-  with its own shower and bathroom instead of the single communal bathroom shared between a dozen apartments in the old place.
+  with a separate shower and bathroom instead of the single shared bathroom per floor in the old place.
 Showers are still cold,
   but there's even a table and chairs,
   and a small balcony.
 
-There was, though, apparently some mismatch in expectations,
+There had been, though, apparently some mismatch in expectations,
   as you're now sharing this new larger place with not just Morgan and Jerry,
   but also the two other migrant-class halflings from the crew,
   Nydia and Eli (or so you've nicknamed them, anyway).
 
 You guess it's not all bad though;
-By splitting the rent five ways you _are_ able to get more square footage per dollar,
-  or whatever units these halflings used anyway.
-Given how much of a mess language is here, you're not sure if you want to open that can of worms.
+By splitting the rent five ways you _are_ able to get more square footage per dollar.
+Or whatever units these halflings use,
+  although given how much of a mess the language is you're not sure you want to go opening _that_ can of worms.
 
 And while you still don't have _much_ privacy,
   Morgan has seemed to accept your rationale of "not dripping water on the floor"
@@ -123,13 +128,15 @@ And while you still don't have _much_ privacy,
 
 In any case, over the next week &mdash;
   here, six days &mdash;
-  in between the long days working in the fields harvesting _tsussupkan_,
-  you begin putting together a more concrete plan on how to get the rover and its cargo across the canyon.
+  you spend your days working in the fields harvesting _tsussupkan_ during the day,
+  while in the evening you being putting together a more concrete plan for how to get your rover and its cargo across the canyon.
 
-The basic concept is to stretch a thick steel cable across the canyon somewhere and anchor it firmly between two supports,
-  then use a thinner cable to pull some sort of carriage across with the cargo suspended from it.
-You've seen the dome maintenance crews hauling large reels of wire rope used for construction and repairs,
-  so cable of the sort you need is at least available, although you don't yet know at what price.
+The basic concept is fairly simple:
+  stretch a thick steel cable across the canyon somewhere,
+  then run some kind of pulley across it with a cargo basket or something suspended below.
+
+You've seen the dome maintenance crews hauling large reels of wire rope for construction and repairs,
+  so cable of the sort does seem to be available.
 
 You run the numbers.
 A three-quarter inch steel wire rope (or the local nominal equivalent)
@@ -138,18 +145,24 @@ A three-quarter inch steel wire rope (or the local nominal equivalent)
 The wheels and cargo would have to be hauled over separately,
   but this _should_ work.
 
-In addition to the cable, your initial design calls for using wood beams to construct A-frame braces and anchors at each end,
+In addition to the cable, your initial design calls for using wood beams to construct A-frame braces and anchors
+  to support the cable at each end,
   but you quickly realize there's not really much in the way of "wood" available out here except as a luxury material.
 Some kind of light-gauge steel box section, then?
 You've seen steel structural tubing in use,
   so it should be possible to get hold of some yourself.
 
-Either way, you still have no idea where to get the rigging hardware you'll need to put it all together,
-  nor what the local vocabulary for any of it might be.
+Rigging hardware and pulleys are another matter though,
+  and you have no idea where to even begin,
+  nor even what the local vocabulary for any of it might be.
+
 If you're able to find someone who deals in that kind of equipment,
   you could probably just draw a diagram of the specific pulley blocks and anchors you need to explain,
   but even assuming they have all of the pieces and are willing to sell them to you,
   odds are they're be _quite_ expensive.
+
+For that matter, how much would all the other stuff cost you?
+It certainly won't be cheap either.
 
 However, you do have one stroke of luck in the week,
   when Nydia approaches you and shows you a collection of survey maps that show parts of the canyon networks near the city,
@@ -175,13 +188,13 @@ You go back to your notes and run the numbers again.
 Looks like half-inch steel cable will actually be enough,
   but even accounting for the thinner cable and reduced gravity, the spool of cable is still going to weight at least 80 pounds,
   and that's not counting any of the other equipment.
-And you still need to transport it all to the canyon's edge one way or another;
-  how to do that is still an unsolved problem.
+And you still need to transport it all to the canyon's edge one way or another,
+  itself still an unsolved problem.
 
 The other big problem is operational.
 Normally, for something like this you have at least two people,
   one on each side, to handle setting up and tensioning the cable,
-  and of course for running things across.
+  and of course for attaching and detaching cargo on each side.
 Without a second person, you will need to hike across the canyon floor several times in order to set it up,
   and based on the map the nearest place where it's possible to cross the canyon is nearly a day's hike to the south,
   almost to where you'd left your rover.
@@ -194,7 +207,8 @@ You add up the travel time. Six crossings, 23 days.
 And that assumes everything goes smoothly,
   and none of the equipment you'll be forced to leave unattended at the canyon edge is stolen or damaged.
 You've yet to encounter bandits yourself,
-  but it's not for no reason that nearly everyone who enters or leaves the city does so armed.
+  but it's not for no reason that nearly everyone who enters or leaves the city does so armed,
+  and usually in groups.
 
 At some point you find yourself talking over these problems with your roommates.
 Maybe one of them might have a better idea,
@@ -212,8 +226,7 @@ Not that you don't understand its meaning,
 
 Before you can respond, Jerry breaks in.
 "Yeah, and I know a guy who works on the city domes who can cut me a deal,
-  I'll get you a spool of cable.
-  We just need to give it back when we're done."
+  I'll get you a spool of cable."
 
 "Woah woah woah hold up just a second there.
 I mean, sure, I'd appreciate the help" &mdash; honestly, you really would &mdash;
@@ -229,7 +242,7 @@ There's silence for an instant, enough for them to register your own puzzlement,
 "_Cu'fd mroy ic icnir s'daems._"
 
 You don't understand a word of it,
-  and from the looks of things you don't think Jerry or Eli understand that dialect either, for that matter,
+  and from the looks of things you don't think Jerry or Eli understand that specific dialect either, for that matter,
   but one thing it does make clear is that there is some kind of _massive_ cultural disconnect here.
 
 You sigh.
@@ -249,23 +262,19 @@ About that.
 This newest addition to the party you've nicknamed "Coke",
   partially because the one syllable you've managed to catch of her real name sounds a bit like "cola",
   and partially because you couldn't be arsed to care when making it up.
-She just appeared one day, and is now apparently part of the team.
+She just appeared one day, and is now apparently part of the "team".
 In any case, the name stuck, and it's not like any of them know the difference.
 
 In other news,
-  Jerry has gone ahead and without further discussion just _gotten_ the large spool of cable he mentioned borrowing from the dome crews.
+  Jerry just went ahead and without further discussion just _got_ a large spool of cable.
 You don't know how much it cost him in money or favors to get,
-  when he was expected to return it,
-  or how he got it through the doorway into the apartment,
+  or how he got it through the doorway into the apartment by himself,
   but one thing you _do_ know is that it's far thinner than the nominal half-inch your design requires,
   and would be far too weak to bear the required load.
 
 He doesn't seem fazed though when you explain this to him,
   and you're left with the impression that he's probably going to just show up tomorrow with _another_ spool of cable.
   
-In the mean time though, you get Nydia to help you move the bloody thing back outside,
-  as where it currently rests it's blocking half of the entryway into the apartment.
-
 These sorts of developments just seem to _happen_ now, apparently.
 
 Initially you try to resist,
@@ -273,12 +282,12 @@ Initially you try to resist,
   and although you're still not that great at reading their expressions,
   you think you might have accidently hurt Morgan's feelings at one point by trying.
 
-You now realize that she seems to have assumed some kind of "treasurer" role for the group,
-  and you can't exactly fault her for trying to impose _some_ sort of order on this chaos in that way,
+You now realize that Morgan seems to have assumed some kind of "treasurer" role for the group.
+You can't exactly fault her for trying to impose _some_ sort of order on this chaos,
   but this really hadn't been communicated to you.
 Turns out that your share of the rent and utilities on the apartment were only part of the "rent" payment she'd been collecting,
   due to a misunderstanding over what the word meant,
-  and the extra money was being used to pay for all kinds of general expenses for the ~five~ six of you aside from rent.
+  and the extra money was being used to pay for all kinds of general expenses for the ~five~ six of you.
 
 Not that you have that many objections to the concept now that you understand what's going on &mdash;
   after all, you're the one benefitting since nearly all of that was actually going towards your project.
@@ -289,7 +298,7 @@ Just chill. Go with the flow. It seems headed your way anyway.
 
 Fortunately, it's not to long before you manage to acquire everything you need,
   and you are able to being practicing in that unused area you found near the city.
-Hopefully you'll be able to leave before any more halflings randomly decide to appear.
+Hopefully you'll be able to leave before any more halflings randomly appear.
 
 ----
 
@@ -309,8 +318,8 @@ You've been on this planet for thirty-three days, nearly half a year on this pla
 
 Rather than basing their year around this planet's miniscule axial tilt,
   this planet's inhabitants use a synodic calendar based on that tiny dot's position in the sky,
-  dividing the planet's 79 day year into thirteen six-day weeks, plus one extra day to mark the new year.
-When it reaches nadir tomorrow night,
+  dividing the planet's 79 day year into thirteen six-day weeks, with one extra day to mark the new year.
+When it reaches zenith tomorrow night,
   that will mark the halfway point for calendar year 4545.
 
 4545 years, the equivalent of 922 years on Earth,
@@ -319,24 +328,23 @@ When it reaches nadir tomorrow night,
 33 days since you first set foot here,
   and were forced to do the same.
 
-You set out the morning of Tuesday (the day before being Onesday and the day after Threesday), seventh week, year 4545.
+You set out the morning of the second day, seventh week, year 4545.
 
 The winter solstance for the southern hemisphere is in two weeks,
-  and while this planet's seasons are mild,
+  and while this planet's seasons are very mild,
   where you might once have worn thin jackets weeks before,
   you and your companions now wear thick coats.
 
 Almost all of them have their own travel gear and weapons,
   assorted pistols and bolt-action rifles, some with optics attached.
-Nydia in particular has managed to procure &mdash; or, more likely, already owned &mdash;
-  an assault rifle like those carried by the city guard,
+Nydia in particular has an assault rifle very similar to those carried by the city guard,
   as well as her own armor plate carrier and cameoflage jumpsuit.
 
-The cable and most of the equipment is carried in a small hand-cart that's traded between you periodically,
+The steel cable and most of the equipment is carried in a small hand-cart that's traded between you periodically,
   and you are able to make good time on the dirt roads extending away from the city.
 The hope is that, with your large, well-armed party,
   and the distant star illuminating the nights,
-  you'll be able to avoid any trouble.
+  you'll be able to avoid trouble altogether.
 
 By dusk, you reach the point you've identified to turn off from the road,
   and strike camp just in time to escape the evening rains.
@@ -350,15 +358,37 @@ Rolling the cart off-road over the rough terrain is slow going,
   but midday finds you at the canyon rim.
 This is the point at which you split up.
 
-From here, Jerry, Eli, Morgan, Nydia, and the older of the two whose name you can't pronounce,
+From here, Jerry, Eli, Nydia, and the older of the two others you're trying to avoid nicknaming,
   will proceed north with the cart to the site you've chosen,
   and set up camp to await your arrival on the other side.
   
-You, Coke, and the younger of the two others, will travel south to the point where you'd crossed before,
-  and the following morning will descend the canyon and cross to the other side,
+You, Coke, Morgan, and the younger of the two others, will travel south along the rim to the point where you'd crossed before,
+  and the following morning will descend the canyon and cross to the other side.
   carrying the bare minimum of equipment needed to set up on the far side.
 
-As you proceed along the rim, you rotate carrying the A-frame between pairs of the crew.
+----
+
+As you proceed along the rim, 
+
+- conversation???
+  - origin stories for coke, morgan, and pinky.
+
+- coke went to mage school
+- morgan farmed ocean textile
+- pinky was wealthy NEET / political pawn
+
+- why do all this?
+  - adventure!
+  - escape from home
+  - this is unusual circumstances. don't know where this will lead but the other option i
+  - feels right, like this is where I'm supposed to be somehow? (gotta follow my rainbow)
+  - friends stick together / help each other / something
+
+- ok but why me?
+- you seem stupid at first because of how you speak, but can tell you have hidden abilities and expertise
+- aside from brute strength, drawing up a plan to move cargo across the canyon
+
+
 Eventually, you reach the point across from where you'd left the rover, and strike camp early.
 
 You awaken an break camp four hours before dawn, as soon as the sun's binary partner is high enough in the sky to see by.
@@ -370,14 +400,16 @@ The river at the bottom is more full than it was your first time,
   but you're able to find a route across,
   hopping between several large boulders that had come to rest there the night before.
 
+- thoughts about discussion?
+
 The ascent proves more challenging.
 It's not a technically demanding climb,
   but even acclimatized as you are to the low oxygen atmosphere,
   you find yourself panting from exertion,
   and need to rest frequently.
 
-Nydia has much less trouble though,
-  and ascends ahead of you to anchor ropes to the rock,
+the three halflings have much less trouble though,
+  and X ascends ahead of you to anchor ropes to the rock,
   making the climb easier.
 
 All things considered, your party makes it up the other side without incident,
