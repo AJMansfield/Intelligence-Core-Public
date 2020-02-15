@@ -212,7 +212,7 @@ You've yet to encounter bandits yourself,
 
 At some point you find yourself talking over these problems with your roommates.
 Maybe one of them might have a better idea,
-  or if nothing else you might be able to get one of them to loan you some cash to help pay for the equipment.
+  or if nothing else you might be able to get one of them to loan you some cash to get equipment.
 
 Probably not, but the answer's always no if you don't ask, right?
 
@@ -252,7 +252,7 @@ You really don't know what's going on,
 ----
 
 After another week,
-  you're able to find an unused area of land not too far from the city in which to practice setting up the line,
+  you're able to find an smaller gorge not too far from the city where you can practice setting up the line,
   and start working out a plan for how to train the four &mdash;
   now _five_ halflings, actually &mdash;
   how to safely rig the cable and pulleys.
@@ -262,15 +262,17 @@ About that.
 This newest addition to the party you've nicknamed "Coke",
   partially because the one syllable you've managed to catch of her real name sounds a bit like "cola",
   and partially because you couldn't be arsed to care when making it up.
-She just appeared one day, and is now apparently part of the "team".
+She just appeared one day, and is now apparently part of the "group".
 In any case, the name stuck, and it's not like any of them know the difference.
 
 In other news,
+  after the initial meeting where you'd outlined the issues and your basic plan,
   Jerry just went ahead and without further discussion just _got_ a large spool of cable.
 You don't know how much it cost him in money or favors to get,
   or how he got it through the doorway into the apartment by himself,
   but one thing you _do_ know is that it's far thinner than the nominal half-inch your design requires,
   and would be far too weak to bear the required load.
+Useable for practice, maybe, but not the real thing.
 
 He doesn't seem fazed though when you explain this to him,
   and you're left with the impression that he's probably going to just show up tomorrow with _another_ spool of cable.
@@ -279,20 +281,22 @@ These sorts of developments just seem to _happen_ now, apparently.
 
 Initially you try to resist,
   but your efforts are at best met with confusion,
-  and although you're still not that great at reading their expressions,
-  you think you might have accidently hurt Morgan's feelings at one point by trying.
+  and although you're still not that great at reading their facial expressions,
+  you think you may have accidently hurt Morgan's feelings at one point by trying.
 
 You now realize that Morgan seems to have assumed some kind of "treasurer" role for the group.
 You can't exactly fault her for trying to impose _some_ sort of order on this chaos,
   but this really hadn't been communicated to you.
-Turns out that your share of the rent and utilities on the apartment were only part of the "rent" payment she'd been collecting,
+Turns out that the actual rent and utilities on the apartment
+  were only part of the "rent" payment she'd been collecting,
   due to a misunderstanding over what the word meant,
   and the extra money was being used to pay for all kinds of general expenses for the ~five~ six of you.
 
 Not that you have that many objections to the concept now that you understand what's going on &mdash;
-  after all, you're the one benefitting since nearly all of that was actually going towards your project.
+  after all, you seem to be the one benefitting the most from the arrangement at the moment.
 But it does seem like the sort of thing that might eventually come back to bite you later,
-  and in any case since then you've been especially careful to make sure none of your personal belongings get intermixed with theirs.
+  and in any case since then you've been especially careful to make sure
+  none of your personal belongings get intermixed with theirs.
 
 Just chill. Go with the flow. It seems headed your way anyway.
 
@@ -331,16 +335,16 @@ When it reaches zenith tomorrow night,
 You set out the morning of the second day, seventh week, year 4545.
 
 The winter solstance for the southern hemisphere is in two weeks,
-  and while this planet's seasons are very mild,
+  and while this planet's seasons are mild,
   where you might once have worn thin jackets weeks before,
   you and your companions now wear thick coats.
 
-Almost all of them have their own travel gear and weapons,
-  assorted pistols and bolt-action rifles, some with optics attached.
+Each also has their own travel gear and weapons:
+  largely assorted pistols and pneumatic rifles, some with optics attached.
 Nydia in particular has an assault rifle very similar to those carried by the city guard,
   as well as her own armor plate carrier and cameoflage jumpsuit.
 
-The steel cable and most of the equipment is carried in a small hand-cart that's traded between you periodically,
+The steel cable and most of the equipment is carried in a small hand-cart that's traded off between you periodically,
   and you are able to make good time on the dirt roads extending away from the city.
 The hope is that, with your large, well-armed party,
   and the distant star illuminating the nights,
@@ -349,7 +353,7 @@ The hope is that, with your large, well-armed party,
 By dusk, you reach the point you've identified to turn off from the road,
   and strike camp just in time to escape the evening rains.
 You take third watch.
-All is silent under the cold gaze of that distant star.
+All is silent under the cold gaze of the distant star.
 
 Another day dawns.
 Third day, seventh week, year 4545.
@@ -362,45 +366,48 @@ From here, Jerry, Eli, Nydia, and the older of the two others you're trying to a
   will proceed north with the cart to the site you've chosen,
   and set up camp to await your arrival on the other side.
   
-You, Coke, Morgan, and the younger of the two others, will travel south along the rim to the point where you'd crossed before,
-  and the following morning will descend the canyon and cross to the other side.
+You, Coke, Morgan, and the younger of the two others,
+  will travel south along the rim to the point where you'd crossed before,
+  and the following morning will descend the canyon and cross to the other side,
   carrying the bare minimum of equipment needed to set up on the far side.
 
 ----
 
-As you proceed along the rim, 
+As you proceed along the rim,
+  conversation is sparse and muted.
+Aside from the distant rush of the water at the bottom of the canyon,
+  the quiet jingle of your party's equipment,
+  and the muffled thuds of your feet along the rough ground,
+  there is only silence.
 
-- conversation???
-  - origin stories for coke, morgan, and pinky.
+And you are being watched.
 
-- coke went to mage school
-- morgan farmed ocean textile
-- pinky was wealthy NEET / political pawn
+From where, by who, or what their intent is, you do not know,
+  but given what you've heard,
+  you're certain you'd rather not meet them.
 
-- why do all this?
-  - adventure!
-  - escape from home
-  - this is unusual circumstances. don't know where this will lead but the other option i
-  - feels right, like this is where I'm supposed to be somehow? (gotta follow my rainbow)
-  - friends stick together / help each other / something
+Eventually, you reach the point opposite where you left the rover, where you plan to cross.
 
-- ok but why me?
-- you seem stupid at first because of how you speak, but can tell you have hidden abilities and expertise
-- aside from brute strength, drawing up a plan to move cargo across the canyon
+If you had a choice, you would keep moving to try to evade the watchers,
+  but there are not enough hours left in the day to make it across the canyon before nightfall,
+  and you're forced to strike camp early.
+The extra time does however give you time to select a defensible rocky outcrop to camp on,
+  back against the canyon rim and with clear sightlines in all directions and plenty of cover to shoot from.
 
+Whoever the watcher is, they seem to realize you're in a good position,
+  and the feeling of being watched subsides about an hour before the rain begins again.
 
-Eventually, you reach the point across from where you'd left the rover, and strike camp early.
-
-You awaken an break camp four hours before dawn, as soon as the sun's binary partner is high enough in the sky to see by.
-You'll need as much time as possible to cross the canyon floor before the next nightfall.
+You awaken an break camp four hours before dawn,
+  as soon as the sun's binary partner is high enough in the sky to see by.
+While the watcher doesn't appear to have returned,
+  you'd rather put the canyon between you and them as soon as possible.
+In any case, you want to allow as much time as possible to make it across should something go wrong.
 
 The descent goes smoothly, and you reach the canyon floor just as the sky begins to lighten,
   although you won't see sunlight this far down for several hours yet.
-The river at the bottom is more full than it was your first time,
+The river at the bottom is more full than it was in summer when you crossed the first time,
   but you're able to find a route across,
-  hopping between several large boulders that had come to rest there the night before.
-
-- thoughts about discussion?
+  hopping between several large boulders the size of railcars that had come to rest there the night before.
 
 The ascent proves more challenging.
 It's not a technically demanding climb,
@@ -408,33 +415,37 @@ It's not a technically demanding climb,
   you find yourself panting from exertion,
   and need to rest frequently.
 
-the three halflings have much less trouble though,
-  and X ascends ahead of you to anchor ropes to the rock,
+The three halflings have much less trouble though,
+  and take turns ascending ahead of you to anchor ropes to the rock,
   making the climb easier.
 
 All things considered, your party makes it up the other side without incident,
-  and with nearly four hours of daylight remaining,
-  you reach the rover, right where you left it covered in the tarp.
+  and with several hours of daylight remaining,
+  you reach the spot were the rover was hopefully able to remain hidden.
+
+You can only hope the other group's experiences were similarly uneventful.
 
 ----
 
-Time was kind to the small rover,
-  and as you peel back the sediment-covered tarp concealing it you breathe a sigh of relief.
+As you peel back the sediment-encrusted tarp,
+  you release the breath you didn't realize you were holding.
 It's still here.
 
-"Wow," you hear Coke comment behind you as you detach the anchors holding the rover firmly in place.
+"Wow," Coke commentd behind you as you start detaching the anchors holding it in place.
 "You weren't kidding."
 
-The batteries are still 60% charged, and you flash the headlights.
+The dashboard indicates the batteries still have around 60% charge,
+  and you flash the headlights to make sure.
 A quick check of the throttle causes the tires to spin out and kick up a bit of dust.
 
 "Alright, looks like it still works!" you declare.
 
 ----
 
-It takes a bit of work re-arranging the cargo,
-  but you're able to hang some of it off the side with ropes,
-  and eventually you're able to make room for the three halflings.
+It takes a bit of work re-arranging the cargo to make room for the three halflings,
+  but you're eventually able to hang some of it off the side with ropes.
+
+
 
 As you drive back to the chosen site,
   there's some kind of discussion,
