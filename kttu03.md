@@ -239,7 +239,7 @@ Eli wore an expression you'd learned to interpret as puzzlement,
 
 There's silence for an instant, enough for them to register your own puzzlement,
   before Nydia says something in an entirely unfamiliar dialect, as if it's some kind of specific saying.
-"_Cu'fd mroy ic icnir s'daems._"
+"_Cu'fd m<sup>r</sup>oy ic is<sup>ch</sup>nir s'dae<sup>m</sup>gs._"
 
 You don't understand a word of it,
   and from the looks of things you don't think Jerry or Eli understand that specific dialect either, for that matter,
